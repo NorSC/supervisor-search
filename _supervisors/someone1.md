@@ -1,5 +1,5 @@
 ---
-name: Firstname Lastname
+name: Someone
 title: Someone
 email: text@example.com
 website: https://www.example.com/
