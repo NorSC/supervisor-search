@@ -8,6 +8,7 @@ collections:
     label: 'Supervisors'
     folder: '_supervisors/'
     preview_path: supervisors/{{slug}}
+    search: true
     create: true
     editor:
       preview: false
