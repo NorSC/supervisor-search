@@ -10,11 +10,11 @@ layout: default
 
         <a href="{{supervisor.url}}" data-url="{{supervisor.url}}" class="result-url" data-ref="{{supervisor.url | slugify}}">
           <div class="result-card" id="result-{{supervisor.url | slugify}}">
-            <div class="group-row">
-              <div class="research-group" data-tag-value="{{supervisor.research_group | slugify}}">{{supervisor.research_group}}</div>
-            </div>
             <div class="title-row">
               <div class="title">{{supervisor.name}}</div>
+            </div>
+            <div class="group-row">
+              <div class="research-group" data-tag-value="{{supervisor.research_group | slugify}}">{{supervisor.research_group}}</div>
             </div>
             <div class="excerpt">
               <!-- {{ supervisor.additional_details | strip_html | strip_newlines | xml_escape }} -->
@@ -436,6 +436,12 @@ layout: default
     console.log(supervisor)
     let title = supervisorContainer.querySelector('.title');
     title.innerText = supervisor.title;
+    let groupContainer = supervisorContainer.querySelector('.group-row');
+    groupContainer.innerHTML = ''
+
+    let groupEl = getHtmlNodeFromString(`<div class="research-group" data-tag-value="${supervisor.data.research_group.slugify()}">${supervisor.data.research_group}</div>`)
+    groupContainer.append(groupEl);
+
     let themesContainer = supervisorContainer.querySelector('.tags');
     themesContainer.innerHTML = ''
     JSON.parse(supervisor.data.research_theme).forEach(tag => {

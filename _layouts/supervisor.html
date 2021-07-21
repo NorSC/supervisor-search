@@ -12,6 +12,9 @@ layout: default
         <h2 class="title">
           {{ page.name }}
         </h2>
+        <div class="group-row">
+          <div class="research-group" data-tag-value="{{page.research_group | slugify}}">{{page.research_group}}</div>
+        </div>
         <div class="research-themes">
           <div class="tags tags-themes">
             {% for tag in page.research_themes %}
