@@ -12,3 +12,29 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'supervisor' }
       - { label: 'Name', name: 'name', widget: 'string' }
+      - label: "Research Themes"
+        name: "research_themes"
+        widget: "relation"
+        collection: form_data
+        searchFields: ['research_themes.*.name']
+        valueField: "research_themes.*.name"
+        file: "form_data"
+        displayFields: ["research_themes.*.name"]
+        multiple: true
+  - name: 'config'
+    label: 'Config'
+    editor:
+      preview: false
+    files:
+      - label: 'Form Data'
+        name: 'form_data'
+        file: '_data/form_data.yml'
+        fields:
+          - label: 'Research Themes'
+            name: 'research_themes'
+            widget: 'list'
+            allow_add: true
+            collapsed: false
+            field: {label: Theme, name: name, widget: string}
+            add_to_top: true
+
