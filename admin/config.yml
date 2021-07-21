@@ -2,10 +2,12 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
+publish_mode: editorial_workflow
 collections:
   - name: 'supervisors'
     label: 'Supervisors'
     folder: '_supervisors/'
+    preview_path: supervisors/{{slug}}
     create: true
     editor:
       preview: false
