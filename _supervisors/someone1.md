@@ -16,6 +16,7 @@ technologies_languages:
   - JavaScript
   - Modern Web
   - Vue.js
+  - Node.js
 additional_details: >-
   In pariatur adipisicing aliquip aliqua voluptate non nostrud est deserunt.
   Aliqua ex sint esse commodo fugiat ex ea laborum "proident" esse. Non est
