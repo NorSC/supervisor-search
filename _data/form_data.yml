@@ -1,4 +1,5 @@
 research_themes:
+  - Test theme
   - Algorithms
   - Bio Computing
   - Cyber-Physical Systems
@@ -14,7 +15,6 @@ research_themes:
   - Security
   - Software Engineering
   - Teaching and Learning
-
 additional_keywords:
   - Accessibility
   - Activity Recognition
@@ -91,7 +91,6 @@ additional_keywords:
   - Wearable Computing
   - Web Augmentation
   - Web Services
-
 technologies_languages:
   - 3D Modelling
   - Android
