@@ -515,7 +515,7 @@ layout: default
     let websiteContainer = supervisorContainer.querySelector('.contact-url');
     if (supervisor.data.website) {
       let href = websiteContainer.querySelector('a');
-      href.href = `mailto:${supervisor.data.website}`;
+      href.href = `${supervisor.data.website}`;
       href.innerText = supervisor.data.website;
       websiteContainer.style.display = 'flex';
 
