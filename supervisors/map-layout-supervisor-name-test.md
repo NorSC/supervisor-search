@@ -1,4 +1,0 @@
----
-layout: supervisor
-name: test
----
