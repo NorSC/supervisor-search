@@ -1,0 +1,128 @@
+research_themes:
+  - Algorithms
+  - Bio Computing
+  - Cyber-Physical Systems
+  - Data Science
+  - Distributed Systems/Cloud
+  - Formal Methods
+  - Game Engineering
+  - Human-Computer Interaction
+  - Internet of Things
+  - Machine Learning
+  - Mobile and Web
+  - Modelling
+  - Security
+  - Software Engineering
+  - Teaching and Learning
+
+additional_keywords:
+  - Accessibility
+  - Activity Recognition
+  - Ageing
+  - Algorithms
+  - Applied Machine Learning
+  - Applied Mathematics
+  - Assessment & Feedback
+  - Blockchain
+  - Complex Systems
+  - Computer Vision
+  - Context-Awareness
+  - Data Integration
+  - Data Provenance
+  - Data Science
+  - Data Visualisation
+  - Decision Making
+  - Dependability
+  - Dependable Systems
+  - Digital Civics
+  - Digital Health
+  - Digital Twins
+  - Distributed Computing
+  - Distributed Ledger Technology
+  - e-Learning
+  - e-Science
+  - Embedded Systems
+  - Energy Efficient Computing
+  - Enterprise Computing
+  - Equality
+  - Diversity & Inclusion
+  - Experience-Centred Design
+  - Fault-Tolerant Systems
+  - FinTech
+  - Formal Methods
+  - Grid Service
+  - Human-Building Interaction
+  - Human-Data Interaction
+  - Inclusive Design
+  - Interaction Design
+  - Interdisciplinary Computing
+  - Metadata Analytics
+  - Model Based Design
+  - Modelling & Simulation
+  - Molecular Systems Modelling
+  - Networked Systems
+  - Ontologies
+  - Open Data
+  - Participatory Design
+  - Performance Modelling
+  - Personal Informatics
+  - Privacy
+  - Public Health
+  - Qualitative Methods
+  - Robotics
+  - Scalability
+  - Sensor Networks
+  - Serious Games
+  - Smart Contact Technologies
+  - Social Computing
+  - Social Media
+  - Spatial Data
+  - Sustainability
+  - Synthetic Biology
+  - Technology-Enhanced Learning
+  - Trust
+  - Ubiquitous Computing
+  - Urban Informatics
+  - Urban Systems
+  - Usability
+  - Usable Privacy & Security
+  - User Centred Design
+  - UX Design
+  - Wearable Computing
+  - Web Augmentation
+  - Web Services
+
+technologies_languages:
+  - 3D Modelling
+  - Android
+  - Angular
+  - Assembly
+  - Bash/Shell
+  - C
+  - C#
+  - C++
+  - Clojure
+  - Flask
+  - GraphDB
+  - HTML/CSS
+  - iOS
+  - Java
+  - JavaScript
+  - Keras
+  - Kotlin
+  - Laravel
+  - Modern Web
+  - NoSQL
+  - OpenCV
+  - PHP
+  - Python
+  - R
+  - ReactNative
+  - Ruby
+  - Rust
+  - Scala
+  - Spring
+  - SQL
+  - TensorFlow
+  - TypeScript
+  - Vue.js

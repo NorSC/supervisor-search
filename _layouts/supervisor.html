@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<div class="ps-container" id="supervisor">
+  <div class="supervisor-container">
+    <div class="content">
+      <div class="back-results">
+        <a onclick="goBack()">←  Back to results</a>
+      </div>
+
+      <div class="supervisor-card">
+        <h2 class="title">
+          {{ page.title }}
+        </h2>
+        <div class="research-themes">
+          <div class="tags tags-themes">
+            {% for tag in page.research_themes %}
+              <div class="tag tag-theme" id="tag-theme-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
+            {% endfor %}
+            {% for tag in page.additional_keywords %}
+              <div class="tag tag-keyword" id="tag-keyword-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
+            {% endfor %}
+            {% for tag in page.technologies_languages %}
+              <div class="tag tag-technology" id="tag-technology-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="additional-details">{{ page.additional_details | strip | newline_to_br }}</div>
+        <div class="contact-details">
+          {% if page.email and page.email != blank %}
+          <div class="contact contact-email">
+            <img src="/assets/images/mail.svg" alt="">
+            <a href="mailto:{{page.email}}">{{ page.email }}</a>
+          </div>
+          {% endif %}
+          {% if page.website and page.website != blank %}
+          <div class="contact contact-url">
+            <img src="/assets/images/url.svg" alt="">
+            <a href="{{page.website}}">{{ page.website }}</a>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
