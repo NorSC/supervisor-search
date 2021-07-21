@@ -142,7 +142,7 @@ window.addEventListener('popstate', function(e) {
       window.location.replace('/');
       return
     }
-    document.title = "Project Search";
+    document.title = "Project Finder";
     document.querySelector('.ps-container#supervisor').style.display = 'none';
     document.querySelector('.ps-container#home').style.display = 'block';
   } else {
@@ -153,7 +153,7 @@ window.addEventListener('popstate', function(e) {
       window.location.replace(window.location.href);
       return;
     }
-    document.title = "Project Search | " + supervisor.title;
+    document.title = "Project Finder | " + supervisor.title;
     document.querySelector('.ps-container#home').style.display = 'none';
     populateSupervisor(supervisor);
     document.querySelector('.ps-container#supervisor').style.display = 'block';

@@ -17,6 +17,16 @@ collections:
       - { label: 'Name', name: 'name', widget: 'string' }
       - {label: "Eamil", name: "email", widget: "string"}
       - {label: "Website", name: "website", widget: "string"}
+      - label: "Research Group"
+        name: "research_group"
+        widget: "select"
+        options: 
+          - Computer Vision and Natural Computing
+          - Cybernetwork Systems and Security
+          - Digital Health and Wellbeing
+          - Digital Learning Laboratory
+          - Intelligent Systems Research Group
+          - Northumbria Social Computing
       - label: "Research Themes"
         name: "research_themes"
         widget: "relation"
