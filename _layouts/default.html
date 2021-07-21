@@ -47,7 +47,7 @@
     (function () {
       let research_themes = new Set()
       let research_themes_slug = {}
-      {% for theme in site.data.form_data.research_themes %}
+      {% for theme in site.data.research_themes.research_themes %}
       research_themes.add('{{theme}}')
       research_themes_slug['{{theme}}'] = '{{ theme | slugify}}'
       {% endfor %}
@@ -68,7 +68,7 @@
       let additional_keywords = new Set()
       let additional_keywords_slug = {}
 
-      {% for theme in site.data.form_data.additional_keywords %}
+      {% for theme in site.data.additional_keywords.additional_keywords %}
       additional_keywords.add('{{theme}}')
       additional_keywords_slug['{{theme}}'] = '{{ theme | slugify}}'
 
@@ -90,7 +90,7 @@
   
       let technologies_languages = new Set()
       let technologies_languages_slug = {}
-      {% for theme in site.data.form_data.technologies_languages %}
+      {% for theme in site.data.technologies_languages.technologies_languages %}
       technologies_languages.add('{{theme}}')
       technologies_languages_slug['{{theme}}'] = '{{ theme | slugify}}'
 

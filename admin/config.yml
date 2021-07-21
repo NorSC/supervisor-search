@@ -16,19 +16,37 @@ collections:
         name: "research_themes"
         widget: "relation"
         collection: form_data
-        searchFields: ['research_themes.*.name']
-        valueField: "research_themes.*.name"
-        file: "form_data"
-        displayFields: ["research_themes.*.name"]
+        search_fields: ['research_themes.*']
+        value_field: "research_themes.*"
+        file: "research_themes"
+        display_fields: ["research_themes.*"]
         multiple: true
-  - name: 'config'
-    label: 'Config'
+      - label: "Additional Keywords"
+        name: "additional_keywords"
+        widget: "relation"
+        collection: form_data
+        search_fields: ['additional_keywords.*']
+        value_field: "additional_keywords.*"
+        file: "additional_keywords"
+        display_fields: ["additional_keywords.*"]
+        multiple: true
+      - label: "Technologies & Languages"
+        name: "technologies_languages"
+        widget: "relation"
+        collection: form_data
+        search_fields: ['technologies_languages.*']
+        value_field: "technologies_languages.*"
+        file: "technologies_languages"
+        display_fields: ["technologies_languages.*"]
+        multiple: true
+  - name: 'form_data'
+    label: 'Form Data'
     editor:
       preview: false
     files:
-      - label: 'Form Data'
-        name: 'form_data'
-        file: '_data/form_data.yml'
+      - label: 'Research Themes'
+        name: 'research_themes'
+        file: '_data/research_themes.yml'
         fields:
           - label: 'Research Themes'
             name: 'research_themes'
@@ -37,4 +55,27 @@ collections:
             collapsed: false
             field: {label: Theme, name: name, widget: string}
             add_to_top: true
+      - label: 'Additional Keywords'
+        name: 'additional_keywords'
+        file: '_data/additional_keywords.yml'
+        fields:
+          - label: 'Additional Keywords'
+            name: 'additional_keywords'
+            widget: 'list'
+            allow_add: true
+            collapsed: false
+            field: {label: Keyword, name: name, widget: string}
+            add_to_top: true
+      - label: 'Technologies & Languages'
+        name: 'technologies_languages'
+        file: '_data/technologies_languages.yml'
+        fields:
+          - label: 'Technologies & Languages'
+            name: 'technologies_languages'
+            widget: 'list'
+            allow_add: true
+            collapsed: false
+            field: {label: Technology, name: name, widget: string}
+            add_to_top: true
+      
 
