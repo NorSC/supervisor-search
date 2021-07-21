@@ -109,6 +109,7 @@ layout: default
     let research_theme_box = document.querySelector('#filter-research_theme')
     let research_theme_items = research_theme_box.querySelector('.filter-items')
     research_theme_items.innerHTML = ''
+    window.research_themes = window.research_themes.sort((a, b) => a.tag.localeCompare(b.tag))
     for (var i in window.research_themes) {
       let item = `<div class="input-row">
               <label for="theme-${window.research_themes[i].slug}">
@@ -122,6 +123,8 @@ layout: default
     let additional_keywords_box = document.querySelector('#filter-additional_keywords')
     let additional_keywords_items = additional_keywords_box.querySelector('.filter-items')
     additional_keywords_items.innerHTML = ''
+    window.additional_keywords = window.additional_keywords.sort((a, b) => a.tag.localeCompare(b.tag))
+
     for (var i in window.additional_keywords) {
       let item = `<div class="input-row">
               <label for="theme-${window.additional_keywords[i].slug}">
@@ -135,6 +138,8 @@ layout: default
     let technologies_languages_box = document.querySelector('#filter-technologies_languages')
     let technologies_languages_items = technologies_languages_box.querySelector('.filter-items')
     technologies_languages_items.innerHTML = ''
+    window.technologies_languages = window.technologies_languages.sort((a, b) => a.tag.localeCompare(b.tag))
+
     for (var i in window.technologies_languages) {
       let item = `<div class="input-row">
               <label for="theme-${window.technologies_languages[i].slug}">

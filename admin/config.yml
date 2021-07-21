@@ -12,6 +12,8 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'supervisor' }
       - { label: 'Name', name: 'name', widget: 'string' }
+      - {label: "Eamil", name: "email", widget: "string"}
+      - {label: "Website", name: "website", widget: "string"}
       - label: "Research Themes"
         name: "research_themes"
         widget: "relation"
@@ -39,6 +41,8 @@ collections:
         file: "technologies_languages"
         display_fields: ["technologies_languages.*"]
         multiple: true
+      - {label: "Additional Details", name: "additional_details", widget: "text"}
+
   - name: 'form_data'
     label: 'Form Data'
     editor:
