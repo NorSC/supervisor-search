@@ -26,6 +26,7 @@ search.tokenizer =
     }));
 search.addIndex('title');
 search.addIndex('research_theme');
+search.addIndex('research_group');
 search.addIndex('additional_keywords');
 search.addIndex('technologies_languages');
 search.addIndex('additional_details');
@@ -35,6 +36,7 @@ for (var key in window.store) {
     'id': key,
     'title': window.store[key].title,
     'research_theme': window.store[key].research_theme,
+    'research_group': window.store[key].research_group,
     'additional_keywords': window.store[key].additional_keywords,
     'technologies_languages': window.store[key].technologies_languages,
     'additional_details': window.store[key].additional_details

@@ -17,6 +17,7 @@
       {% for supervisor in site.supervisors %}
         '{{ supervisor.url | slugify }}': {
           'title': '{{ supervisor.name | xml_escape }}',
+          'research_group': '{{ supervisor.research_group | xml_escape }}',
           'research_theme': '{{ supervisor.research_themes | join: "," | xml_escape }}',
           'additional_keywords': '{{ supervisor.additional_keywords | join: "," | xml_escape }}',
           'technologies_languages': '{{ supervisor.technologies_languages | join: "," | xml_escape }}',
@@ -24,6 +25,7 @@
           'url': '{{ supervisors.url | xml_escape }}',
           'data' :  {
             'title': '{{ supervisor.name | xml_escape }}',
+            'research_group': '{{ supervisor.research_group | xml_escape }}',
             'research_theme': '{{ supervisor.research_themes | jsonify }}',
             'additional_keywords': '{{ supervisor.additional_keywords | jsonify }}',
             'technologies_languages': '{{ supervisor.technologies_languages | jsonify }}',
@@ -45,6 +47,26 @@
     }
   
     (function () {
+      let research_groups = new Set()
+      let research_groups_slug = {}
+      {% for theme in site.data.groups.research_groups %}
+      research_groups.add('{{theme}}')
+      research_groups_slug['{{theme}}'] = '{{ theme | slugify}}'
+      {% endfor %}
+      {% for supervisor in site.supervisors %}
+        {% for theme in supervisor.research_theme %}
+  
+        research_groups.add('{{theme}}')
+        research_groups_slug['{{theme}}'] = '{{ theme | slugify}}'
+        {% endfor %}
+      {% endfor %}
+      window.research_groups = Array.from(research_groups).map(el => {
+        return {
+          tag: el,
+          slug: research_groups_slug[el]
+        }
+      })
+      
       let research_themes = new Set()
       let research_themes_slug = {}
       {% for theme in site.data.research_themes.research_themes %}

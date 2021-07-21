@@ -15,7 +15,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'supervisor' }
       - { label: 'Name', name: 'name', widget: 'string' }
-      - {label: "Eamil", name: "email", widget: "string"}
+      - {label: "Email", name: "email", widget: "string"}
       - {label: "Website", name: "website", widget: "string"}
       - label: "Research Group"
         name: "research_group"

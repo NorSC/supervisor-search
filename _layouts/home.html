@@ -10,6 +10,9 @@ layout: default
 
         <a href="{{supervisor.url}}" data-url="{{supervisor.url}}" class="result-url" data-ref="{{supervisor.url | slugify}}">
           <div class="result-card" id="result-{{supervisor.url | slugify}}">
+            <div class="group-row">
+              <div class="research-group" data-tag-value="{{supervisor.research_group | slugify}}">{{supervisor.research_group}}</div>
+            </div>
             <div class="title-row">
               <div class="title">{{supervisor.name}}</div>
             </div>
@@ -43,6 +46,18 @@ layout: default
           </div>
           <h3>Filters</h3>
           <div class="separator"></div>
+        </div>
+        <div class="filter-box" id="filter-research_groups">
+          <div class="filter-header" onclick="toggleFilter(this)">
+            <button class="collapse-button">
+              <!-- <img src="/assets/images/arrow.svg" alt="" class="collapse-button"> -->
+              <div class="arrow"></div>
+            </button>
+            <h4>Research Groups</h4>
+          </div>
+          <div class="filter-items">
+      
+          </div>
         </div>
         <div class="filter-box" id="filter-research_theme">
           <div class="filter-header" onclick="toggleFilter(this)">
@@ -106,6 +121,20 @@ layout: default
   }
 
   function populateFilters() {
+    let research_groups_box = document.querySelector('#filter-research_groups')
+    let research_groups_items = research_groups_box.querySelector('.filter-items')
+    research_groups_items.innerHTML = ''
+    window.research_groups = window.research_groups.sort((a, b) => a.tag.localeCompare(b.tag))
+    for (var i in window.research_groups) {
+      let item = `<div class="input-row">
+              <label for="theme-${window.research_groups[i].slug}">
+                <input type="checkbox" id="theme-${window.research_groups[i].slug}" name="${window.research_groups[i].slug}" onclick="updateFilter(this)" value="${window.research_groups[i].slug}">
+                <span>${window.research_groups[i].tag}</span>
+              </label>
+            </div>`
+    research_groups_items.innerHTML += item;
+    }
+    
     let research_theme_box = document.querySelector('#filter-research_theme')
     let research_theme_items = research_theme_box.querySelector('.filter-items')
     research_theme_items.innerHTML = ''
@@ -162,126 +191,18 @@ layout: default
     }
   }
 
-  /* function populateResults () {
-    let filter = {
-      themes: [],
-      keywords: [],
-      technologies: []
-    }
-    let research_themes = document.querySelectorAll('#filter-research_theme input[type=checkbox]:checked')
-    research_themes.forEach(i => {
-      filter.themes.push(i.value)
-    })
-
-    let additional_keywords = document.querySelectorAll('#filter-additional_keywords input[type=checkbox]:checked')
-    additional_keywords.forEach(i => {
-      filter.keywords.push(i.value)
-    })
-
-    let technologies_languages = document.querySelectorAll('#filter-technologies_languages input[type=checkbox]:checked')
-    technologies_languages.forEach(i => {
-      filter.technologies.push(i.value)
-    })
-
-    let resultsElement = document.querySelector('.results');
-    resultsElement.innerHTML = ''
-    for (let k in window.store) {
-      let supervisor = window.store[k].data
-      let render = false;
-      if (filter.themes.length + filter.keywords.length + filter.technologies.length === 0) {
-        render = true;
-      } else {
-        console.log('debug')
-        let renderThemes = false
-        if (filter.themes.length > 0) {
-          let research_themes_slugified = supervisor.research_themes && supervisor.research_themes.map(tag => tag.slugify())
-          for (let i in filter.themes) {
-            if (!renderThemes && (research_themes_slugified.indexOf(filter.themes[i]) >= 0)) {
-              renderThemes = true;
-              break;
-            }
-          }
-        } else {
-          renderThemes = true;
-        }
-
-        let renderKeywords = false;
-        if (renderThemes && filter.keywords.length > 0) {
-          let additional_keywords_slugified = supervisor.additional_keywords && supervisor.additional_keywords.map(tag => tag.slugify())
-          for (let i in filter.keywords) {
-            if (!renderKeywords && (additional_keywords_slugified.indexOf(filter.keywords[i]) >= 0)) {
-              renderKeywords = true;
-              break;
-            }
-          }
-        } else if (renderThemes) {
-          renderKeywords = true
-        }
-
-        let renderTechnologies = false;
-        if (renderKeywords && filter.technologies.length > 0) {
-          let technologies_languages_slugified = supervisor.technologies_languages && supervisor.technologies_languages.map(tag => tag.slugify())
-          for (let i in filter.technologies) {
-            if (!renderTechnologies && (technologies_languages_slugified.indexOf(filter.technologies[i]) >= 0)) {
-              renderTechnologies = true;
-              break;
-            }
-          }
-        } else if (renderKeywords) {
-          renderTechnologies = true
-        }
-
-        render = renderThemes && renderKeywords && renderTechnologies
-      }
-
-      if (!render) continue;
-
-      let htmlString = `<div class="result-card" id="result-${k}">
-          <div class="title-row">
-            <div class="title">${supervisor.title}</div>
-          </div>
-          <div class="excerpt">
-          </div>
-          <div class="tags">
-          </div>
-        </div>`
-      let el = getHtmlNodeFromString(htmlString)
-      let tagsElement = el.querySelector('.tags')
-      for (let i in supervisor.research_themes) {
-        let tag = supervisor.research_themes[i]
-        let tagEl = getHtmlNodeFromString(`<div class="tag tag-theme" id="tag-theme-${k}-${tag.slugify()}">${tag}</div>`)
-        if (filter.themes && filter.themes.indexOf(tag.slugify()) >= 0) {
-          tagEl.classList.add('tag-blue')
-        }
-        tagsElement.append(tagEl)
-      }
-      for (let i in supervisor.additional_keywords) {
-        let tag = supervisor.additional_keywords[i]
-        let tagEl = getHtmlNodeFromString(`<div class="tag tag-keyword" id="tag-keyword-${k}-${tag.slugify()}">${tag}</div>`)
-        if (filter.keywords && filter.keywords.indexOf(tag.slugify()) >= 0) {
-          tagEl.classList.add('tag-blue')
-        }
-        tagsElement.append(tagEl)
-      }
-      for (let i in supervisor.technologies_languages) {
-        let tag = supervisor.technologies_languages[i]
-        let tagEl = getHtmlNodeFromString(`<div class="tag tag-technology" id="tag-technology-${k}-${tag.slugify()}">${tag}</div>`)
-        if (filter.technologies && filter.technologies.indexOf(tag.slugify()) >= 0) {
-          tagEl.classList.add('tag-blue')
-        }
-        tagsElement.append(tagEl)
-      }
-      resultsElement.append(el)
-    }
-  }
- */
-
  function populateResults () {
     let filter = {
+      groups: [],
       themes: [],
       keywords: [],
       technologies: []
     }
+    let research_groups = document.querySelectorAll('#filter-research_groups input[type=checkbox]:checked')
+    research_groups.forEach(i => {
+      filter.groups.push(i.value)
+    })
+
     let research_themes = document.querySelectorAll('#filter-research_theme input[type=checkbox]:checked')
     research_themes.forEach(i => {
       filter.themes.push(i.value)
@@ -296,6 +217,8 @@ layout: default
     technologies_languages.forEach(i => {
       filter.technologies.push(i.value)
     })
+
+    console.log(filter)
 
     let allHidden = true
 
@@ -304,12 +227,28 @@ layout: default
       let supervisor = window.store[k].data
       let supervisorElement = resultsElement.querySelector(`#result-${k}`).parentElement;
       let render = false;
-      if (filter.themes.length + filter.keywords.length + filter.technologies.length === 0) {
+      if (filter.groups.length + filter.themes.length + filter.keywords.length + filter.technologies.length === 0) {
         render = true;
       } else {
         console.log('debug')
+        let renderGroups = false
+        if (filter.groups.length > 0) {
+          let research_groups_slugified = []
+          let researchGroupElement = supervisorElement.querySelector('.research-group')
+          let tag = researchGroupElement.dataset.tagValue;
+          research_groups_slugified.push(tag);
+          for (let i in filter.groups) {
+            if (!renderGroups && (research_groups_slugified.indexOf(filter.groups[i]) >= 0)) {
+              renderGroups = true;
+              break;
+            }
+          }
+        } else {
+          renderGroups = true;
+        }
+        
         let renderThemes = false
-        if (filter.themes.length > 0) {
+        if (renderGroups && filter.themes.length > 0) {
           let research_themes_slugified = []
           let researchThemeElements = supervisorElement.querySelectorAll('.tags .tag-theme')
           researchThemeElements.forEach(tagEl => {
@@ -322,7 +261,7 @@ layout: default
               break;
             }
           }
-        } else {
+        } else if (renderGroups){
           renderThemes = true;
         }
 
@@ -362,7 +301,7 @@ layout: default
           renderTechnologies = true
         }
 
-        render = renderThemes && renderKeywords && renderTechnologies
+        render = renderGroups && renderThemes && renderKeywords && renderTechnologies
       }
 
       if (searchQueryResults && searchQueryResults.documents.indexOf(k) < 0) render = false;
@@ -380,6 +319,20 @@ layout: default
       cleanSpans(supervisorTitleElement)
       supervisorExcerpt.innerHTML = '';
 
+      let researchGroupElement = supervisorElement.querySelector('.research-group')
+      let tag = researchGroupElement.dataset.tagValue; 
+      if (filter.groups && filter.groups.indexOf(tag) >= 0) {
+        researchGroupElement.classList.add('tag-blue')
+      } else if (searchQueryResults.tokens.some((token) => {
+        let regex = new RegExp('\\b' + token, 'gi')
+        return regex.test(tag)
+      })) {
+        researchGroupElement.classList.add('tag-blue')
+      } else {
+        researchGroupElement.classList.remove('tag-blue')
+      } 
+      
+      
       let researchThemeElements = supervisorElement.querySelectorAll('.tags .tag-theme')
       researchThemeElements.forEach(tagEl => {
         let tag = tagEl.dataset.tagValue;

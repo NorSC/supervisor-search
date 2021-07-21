@@ -467,8 +467,21 @@ h1 {
         border: 1px solid #e0e7f1;
       }
 
+      .group-row {
+        margin-bottom: 10px;
+        // text-align: right;
+        .research-group {
+          font-size: 0.8rem;
+          font-family: $font-titles;
+          font-weight: 500;
+          &.tag-blue {
+            color: $primary-color;
+          }
+        }
+      }
+
       .title-row {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
       }
       .title {
         font-family: $font-titles;
