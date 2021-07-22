@@ -15,26 +15,28 @@
   <script>
     window.store = {
       {% for supervisor in site.supervisors %}
-        '{{ supervisor.url | slugify }}': {
-          'title': '{{ supervisor.title | xml_escape }}',
-          'research_group': '{{ supervisor.research_group | xml_escape }}',
-          'research_theme': '{{ supervisor.research_themes | join: "," | xml_escape }}',
-          'additional_keywords': '{{ supervisor.additional_keywords | join: "," | xml_escape }}',
-          'technologies_languages': '{{ supervisor.technologies_languages | join: "," | xml_escape }}',
-          'additional_details': '{{ supervisor.additional_details | strip_html | strip_newlines | xml_escape}}',
-          'url': '{{ supervisors.url | xml_escape }}',
-          'data' :  {
+        {% if supervisor.available %}
+          '{{ supervisor.url | slugify }}': {
             'title': '{{ supervisor.title | xml_escape }}',
             'research_group': '{{ supervisor.research_group | xml_escape }}',
-            'research_theme': '{{ supervisor.research_themes | jsonify }}',
-            'additional_keywords': '{{ supervisor.additional_keywords | jsonify }}',
-            'technologies_languages': '{{ supervisor.technologies_languages | jsonify }}',
-            'additional_details': `{{ supervisor.additional_details | xml_escape | strip | newline_to_br  }}`,
-            'website': '{{ supervisor.website | xml_escape }}',
-            'email': '{{ supervisor.email | xml_escape }}'
+            'research_theme': '{{ supervisor.research_themes | join: "," | xml_escape }}',
+            'additional_keywords': '{{ supervisor.additional_keywords | join: "," | xml_escape }}',
+            'technologies_languages': '{{ supervisor.technologies_languages | join: "," | xml_escape }}',
+            'additional_details': '{{ supervisor.additional_details | strip_html | strip_newlines | xml_escape}}',
+            'url': '{{ supervisors.url | xml_escape }}',
+            'data' :  {
+              'title': '{{ supervisor.title | xml_escape }}',
+              'research_group': '{{ supervisor.research_group | xml_escape }}',
+              'research_theme': '{{ supervisor.research_themes | jsonify }}',
+              'additional_keywords': '{{ supervisor.additional_keywords | jsonify }}',
+              'technologies_languages': '{{ supervisor.technologies_languages | jsonify }}',
+              'additional_details': `{{ supervisor.additional_details | xml_escape | strip | newline_to_br  }}`,
+              'website': '{{ supervisor.website | xml_escape }}',
+              'email': '{{ supervisor.email | xml_escape }}'
+            }
           }
-        }
-        {% unless forloop.last %},{% endunless %}
+          {% unless forloop.last %},{% endunless %}
+        {% endif %}
       {% endfor %}
     };
 

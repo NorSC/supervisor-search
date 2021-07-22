@@ -42,7 +42,6 @@ for (var key in window.store) {
     'additional_details': window.store[key].additional_details
   });
 }
-console.log(search)
 
 function toggleFilter(element) {
   // console.log(element);
@@ -78,7 +77,6 @@ function onSearchChange() {
   let searchQueryInput = document.querySelector('#search-query');
   let query = searchQueryInput.value;
   searchQueryResults = flexSearchQuery(query);
-  console.log(searchQueryResults);
   populateResults();
 }
 
@@ -134,12 +132,10 @@ function searchQuery(query) {
 }
 
 window.addEventListener('popstate', function(e) {
-  console.log('pop')
   var supervisorRef = e.state;
   if (supervisorRef == null) {
     let home = document.querySelector('.ps-container#home');
     if (!home) {
-      console.log(window.location)
       if (document.querySelector('.ps-container#supervisor')) document.querySelector('.ps-container#supervisor').style.display = 'none';
       window.location.replace('/');
       return
@@ -151,7 +147,6 @@ window.addEventListener('popstate', function(e) {
     var supervisor = window.store[supervisorRef]
     let home = document.querySelector('.ps-container#home');
     if (!supervisor || !home) {
-      console.log(window.location)
       window.location.replace(window.location.href);
       return;
     }

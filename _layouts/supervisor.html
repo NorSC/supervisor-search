@@ -8,6 +8,7 @@ layout: default
         <a onclick="goBack()">←  Back to results</a>
       </div>
 
+      {% if supervisor.available %}
       <div class="supervisor-card">
         <h2 class="title">
           {{ page.title }}
@@ -44,6 +45,12 @@ layout: default
           {% endif %}
         </div>
       </div>
+      {% else %}
+      <div class="supervisor-card not-available">
+
+      </div>
+      {% endif %}
+
     </div>
   </div>
 </div>

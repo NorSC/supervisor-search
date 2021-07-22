@@ -581,6 +581,19 @@ h1 {
       @media screen and (max-width: $breakpoint-medium) {
         padding: 20px;
       }
+
+      &.not-available {
+        &:after {
+          content: 'This supervisor is no longer available';
+          font-weight: 600;
+          font-size: 1.4rem;
+          text-align: center;
+          color: #aaa;
+          text-align: center;
+          display: block;
+        }
+      }
+
       .group-row {
         margin-bottom: 10px;
         // text-align: right;
@@ -593,7 +606,7 @@ h1 {
           }
         }
       }
-      
+
       h2 {
         font-family: $font-titles;
         font-weight: 600;

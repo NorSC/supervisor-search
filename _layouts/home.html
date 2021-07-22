@@ -7,7 +7,7 @@ layout: default
     <div class="content">
       <div class="results">
         {% for supervisor in site.supervisors %}
-
+        {% if supervisor.available %}
         <a href="{{supervisor.url}}" data-url="{{supervisor.url}}" class="result-url" data-ref="{{supervisor.url | slugify}}">
           <div class="result-card" id="result-{{supervisor.url | slugify}}">
             <div class="title-row">
@@ -32,7 +32,7 @@ layout: default
             </div>
           </div>
         </a>
-        
+        {% endif %}
         {% endfor %}
         
       </div>
@@ -218,8 +218,6 @@ layout: default
       filter.technologies.push(i.value)
     })
 
-    console.log(filter)
-
     let allHidden = true
 
     let resultsElement = document.querySelector('.results');
@@ -230,7 +228,6 @@ layout: default
       if (filter.groups.length + filter.themes.length + filter.keywords.length + filter.technologies.length === 0) {
         render = true;
       } else {
-        console.log('debug')
         let renderGroups = false
         if (filter.groups.length > 0) {
           let research_groups_slugified = []
@@ -382,7 +379,6 @@ layout: default
       searchQueryResults.tokens.forEach(token => {
         const tokenIndex = supervisorTitleElement.firstChild.textContent.toLowerCase().indexOf(token.toLowerCase())
         if (tokenIndex >= 0) {
-          console.log('debug')
           try {
             const range = document.createRange();
             range.setStart(supervisorTitleElement.firstChild, tokenIndex)
@@ -433,7 +429,6 @@ layout: default
 
   function populateSupervisor (supervisor) {
     let supervisorContainer = document.querySelector('.ps-container#supervisor');
-    console.log(supervisor)
     let title = supervisorContainer.querySelector('.title');
     title.innerText = supervisor.title;
     let groupContainer = supervisorContainer.querySelector('.group-row');
@@ -495,7 +490,6 @@ layout: default
       history.pushState(data.ref, null, url);
 
       var supervisor = window.store[data.ref]
-      console.log(supervisor)
       document.title = "Project Finder | " + supervisor.title;
       document.querySelector('.ps-container#home').style.display = 'none';
       populateSupervisor(supervisor);

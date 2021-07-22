@@ -17,6 +17,10 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'supervisor' }
       - { label: 'Name', name: 'title', widget: 'string' }
+      - label: Availabile for supervision
+        name: available
+        widget: boolean
+        default: true
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Website", name: "website", widget: "string", required: false}
       - label: "Research Group"
