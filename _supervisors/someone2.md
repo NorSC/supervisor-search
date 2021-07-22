@@ -1,5 +1,6 @@
 ---
 title: Jane Doe
+available: true
 email: example@example.com
 website: https://www.example.com/
 research_group: Intelligent Systems Research Group
