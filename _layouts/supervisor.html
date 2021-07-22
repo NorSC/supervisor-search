@@ -5,10 +5,10 @@ layout: default
   <div class="supervisor-container">
     <div class="content">
       <div class="back-results">
-        <a onclick="goBack()">←  Back to results</a>
+        <a onclick="goBack()" href="#">←  Back to results</a>
       </div>
 
-      {% if supervisor.available %}
+      {% if page.available %}
       <div class="supervisor-card">
         <h2 class="title">
           {{ page.title }}
