@@ -8,15 +8,17 @@ collections:
     label: 'Supervisors'
     folder: '_supervisors/'
     preview_path: supervisors/{{slug}}
+    slug: '{{slug}}'
+    identifier_field: slug
     search: true
     create: true
     editor:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'supervisor' }
-      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Name', name: 'title', widget: 'string' }
       - {label: "Email", name: "email", widget: "string"}
-      - {label: "Website", name: "website", widget: "string"}
+      - {label: "Website", name: "website", widget: "string", required: false}
       - label: "Research Group"
         name: "research_group"
         widget: "select"
@@ -37,6 +39,7 @@ collections:
         display_fields: ["research_themes.*"]
         multiple: true
       - label: "Additional Keywords"
+        required: false
         name: "additional_keywords"
         widget: "relation"
         collection: form_data
@@ -46,6 +49,7 @@ collections:
         display_fields: ["additional_keywords.*"]
         multiple: true
       - label: "Technologies & Languages"
+        required: false
         name: "technologies_languages"
         widget: "relation"
         collection: form_data

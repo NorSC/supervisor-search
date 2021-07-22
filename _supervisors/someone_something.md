@@ -1,5 +1,5 @@
 ---
-name: John Doe
+title: John Doe
 email: test@test.com
 website: https://www.example.com/
 research_group: Computer Vision and Natural Computing

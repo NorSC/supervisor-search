@@ -1,6 +1,6 @@
 ---
 layout: supervisor
-name: Dalya
+title: Dalya
 email: dalia.alshahrabi@gmail.com
 research_group: Northumbria Social Computing
 research_themes:

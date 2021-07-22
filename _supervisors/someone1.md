@@ -1,5 +1,5 @@
 ---
-name: Someone
+title: Someone
 email: text@example.com
 website: https://www.example.com/
 research_group: Digital Health and Wellbeing

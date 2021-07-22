@@ -1,6 +1,6 @@
 ---
 layout: supervisor
-name: Kyle Montague
+title: Kyle Montague
 email: kyle.montague@northumbria.ac.uk
 website: https://www.kylemontague.co.uk/
 research_group: Northumbria Social Computing

@@ -16,7 +16,7 @@
     window.store = {
       {% for supervisor in site.supervisors %}
         '{{ supervisor.url | slugify }}': {
-          'title': '{{ supervisor.name | xml_escape }}',
+          'title': '{{ supervisor.title | xml_escape }}',
           'research_group': '{{ supervisor.research_group | xml_escape }}',
           'research_theme': '{{ supervisor.research_themes | join: "," | xml_escape }}',
           'additional_keywords': '{{ supervisor.additional_keywords | join: "," | xml_escape }}',
@@ -24,7 +24,7 @@
           'additional_details': '{{ supervisor.additional_details | strip_html | strip_newlines | xml_escape}}',
           'url': '{{ supervisors.url | xml_escape }}',
           'data' :  {
-            'title': '{{ supervisor.name | xml_escape }}',
+            'title': '{{ supervisor.title | xml_escape }}',
             'research_group': '{{ supervisor.research_group | xml_escape }}',
             'research_theme': '{{ supervisor.research_themes | jsonify }}',
             'additional_keywords': '{{ supervisor.additional_keywords | jsonify }}',

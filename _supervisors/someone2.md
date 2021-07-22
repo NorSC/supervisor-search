@@ -1,5 +1,5 @@
 ---
-name: Jane Doe
+title: Jane Doe
 email: example@example.com
 website: https://www.example.com/
 research_group: Intelligent Systems Research Group
