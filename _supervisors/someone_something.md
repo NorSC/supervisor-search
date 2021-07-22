@@ -1,5 +1,6 @@
 ---
 title: John Doe
+available: false
 email: test@test.com
 website: https://www.example.com/
 research_group: Computer Vision and Natural Computing
@@ -7,9 +8,9 @@ research_themes:
   - Algorithms
   - Machine Learning
 additional_keywords:
-  - Activity Recognition
-  - Model Based Design
-  - Scalability
+  - Decision Making
+  - Dependability
+  - Human-Building Interaction
 technologies_languages:
   - R
   - Python
