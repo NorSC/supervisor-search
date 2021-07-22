@@ -1,5 +1,6 @@
 ---
 title: Someone
+available: true
 email: text@example.com
 website: https://www.example.com/
 research_group: Digital Health and Wellbeing
