@@ -29,7 +29,7 @@ layout: default
             {% endfor %}
           </div>
         </div>
-        <div class="additional-details">{{ page.additional_details | strip | newline_to_br }}</div>
+        <div class="additional-details">{{ page.additional_details | strip  }}</div>
         <div class="contact-details">
           {% if page.email and page.email != blank %}
           <div class="contact contact-email">
