@@ -1,8 +1,30 @@
 additional_keywords:
+  - Cloud/Edge Computing
+  - Library and Information Science
+  - Information Management
+  - Health Informatics
+  - Mobile Computing
+  - Unmanned Aerial Vehicles (UAVs)
+  - 5G Communication Technologies
+  - Autonomous Systems
+  - Data Analytics
+  - Reinforcement Learning
+  - Optimisation
+  - Network Protocol Design
+  - Software-Defined Networks
+  - Green Networking
+  - AI in Games
+  - Penetration Testing
+  - Smart City
+  - Smart Home
+  - Intelligent Transportation Systems
+  - Cryptography
+  - Formal Methods
+  - Cyber-Physical Systems
+  - Applied Programming
   - Accessibility
   - Activity Recognition
   - Ageing
-  - Algorithms
   - Applied Machine Learning
   - Applied Mathematics
   - Assessment & Feedback
@@ -12,13 +34,12 @@ additional_keywords:
   - Context-Awareness
   - Data Integration
   - Data Provenance
-  - Data Science
   - Data Visualisation
   - Decision Making
   - Dependability
   - Dependable Systems
   - Digital Civics
-  - Digital Health
+  - Digital Living
   - Digital Twins
   - Distributed Computing
   - Distributed Ledger Technology
@@ -32,7 +53,6 @@ additional_keywords:
   - Experience-Centred Design
   - Fault-Tolerant Systems
   - FinTech
-  - Formal Methods
   - Grid Service
   - Human-Building Interaction
   - Human-Data Interaction
@@ -49,12 +69,11 @@ additional_keywords:
   - Participatory Design
   - Performance Modelling
   - Personal Informatics
-  - Privacy
   - Public Health
   - Qualitative Methods
   - Robotics
   - Scalability
-  - Sensor Networks
+  - Wireless Sensor Networks
   - Serious Games
   - Smart Contact Technologies
   - Social Computing
