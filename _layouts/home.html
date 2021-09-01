@@ -47,10 +47,9 @@ layout: default
           <h3>Filters</h3>
           <div class="separator"></div>
         </div>
-        <div class="filter-box" id="filter-research_groups">
+        <!-- <div class="filter-box" id="filter-research_groups">
           <div class="filter-header" onclick="toggleFilter(this)">
             <button class="collapse-button">
-              <!-- <img src="/assets/images/arrow.svg" alt="" class="collapse-button"> -->
               <div class="arrow"></div>
             </button>
             <h4>Research Groups</h4>
@@ -58,7 +57,7 @@ layout: default
           <div class="filter-items">
       
           </div>
-        </div>
+        </div> -->
         <div class="filter-box collapsed" id="filter-research_theme">
           <div class="filter-header" onclick="toggleFilter(this)">
             <button class="collapse-button">
@@ -121,7 +120,7 @@ layout: default
   }
 
   function populateFilters() {
-    let research_groups_box = document.querySelector('#filter-research_groups')
+    /* let research_groups_box = document.querySelector('#filter-research_groups')
     let research_groups_items = research_groups_box.querySelector('.filter-items')
     research_groups_items.innerHTML = ''
     window.research_groups = window.research_groups.sort((a, b) => a.tag.localeCompare(b.tag))
@@ -133,7 +132,7 @@ layout: default
               </label>
             </div>`
     research_groups_items.innerHTML += item;
-    }
+    } */
     
     let research_theme_box = document.querySelector('#filter-research_theme')
     let research_theme_items = research_theme_box.querySelector('.filter-items')
