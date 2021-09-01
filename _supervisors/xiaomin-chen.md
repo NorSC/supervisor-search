@@ -6,15 +6,17 @@ email: xiaomin.chen@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/c/xiaomin-chen/
 research_group: Cybernetwork Systems and Security
 research_themes:
-  - Security
   - Internet of Things
+  - Data Privacy
+  - Computer Networks
+  - Cyber Security
 additional_keywords:
   - Applied Mathematics
 technologies_languages:
   - C
   - C++
   - Java
-additional_details: >+
+additional_details: >
   The project ideas I'm interested in this year include:
 
 
