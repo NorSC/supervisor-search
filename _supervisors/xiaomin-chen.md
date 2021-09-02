@@ -20,7 +20,7 @@ additional_details: >
   The project ideas I'm interested in this year include:
 
 
-  ## 1 Untraceable payment system
+  1 Untraceable payment system
 
    Mobile payment systems enable smartphone users to pay for a product/service without using physical cards or cash. Privacy violation can take place either on the mobile end, or even worse, on the Service Provider end. To protect user privacy against the third-party Service Provider (e.g. Amazon), researchers have started to design "untraceable" payment systems using cryptography techniques, such as blind signature. Untraceable payment systems can guarantee fair and secure transactions between customers and merchants without exposing the linkage to the Service Provider. We have proposed such a system.
 
