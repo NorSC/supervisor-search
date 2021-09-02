@@ -11,7 +11,7 @@ research_themes:
   - Computer Networks
   - Cyber Security
 additional_keywords:
-  - Applied Mathematics
+  - Network Protocol Design
 technologies_languages:
   - C
   - C++
