@@ -43,6 +43,7 @@ collections:
         display_fields: ["research_themes.*"]
         multiple: true
         min: 1
+        optionsLength: 1000
       - label: "Additional Keywords"
         name: "additional_keywords"
         widget: "relation"
@@ -53,6 +54,7 @@ collections:
         display_fields: ["additional_keywords.*"]
         multiple: true
         min: 1
+        optionsLength: 1000
       - label: "Technologies & Languages"
         name: "technologies_languages"
         widget: "relation"
@@ -63,6 +65,7 @@ collections:
         display_fields: ["technologies_languages.*"]
         multiple: true
         min: 1
+        optionsLength: 1000
       - {label: "Additional Details", name: "additional_details", widget: "text", required: false}
 
   - name: 'form_data'
