@@ -10,8 +10,12 @@ research_themes:
   - Data Privacy
   - Computer Networks
   - Cyber Security
+  - Network Simulation
 additional_keywords:
   - Network Protocol Design
+  - Cryptography
+  - Applied Mathematics
+  - Modelling & Simulation
 technologies_languages:
   - C
   - C++
