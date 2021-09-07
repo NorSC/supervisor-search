@@ -7,7 +7,7 @@ search.tokenizer =
       return text
         .split(REGEX)
         .filter(
-          (text) => text // Filter empty tokens
+          (text) => text && text.trim().length >= 3 // Filter empty tokens
         );
     }
   });
@@ -20,7 +20,7 @@ search.tokenizer =
         return text
           .split(REGEX)
           .filter(
-            (text) => text // Filter empty tokens
+            (text) => text && text.trim().length >= 3 // Filter empty tokens
           );
       }
     }));
@@ -81,7 +81,7 @@ function onSearchChange() {
 }
 
 function flexSearchQuery(query) {
-  if (query) {
+  if (query && query.trim().length >= 3) {
     let results = search.search(query)
     if (results.tokens.length === 0) {
       return {documents: Object.keys(window.store), tokens: []};
@@ -140,7 +140,7 @@ window.addEventListener('popstate', function(e) {
       window.location.replace('/');
       return
     }
-    document.title = "Project Finder";
+    document.title = "Supervisor Directory";
     document.querySelector('.ps-container#supervisor').style.display = 'none';
     document.querySelector('.ps-container#home').style.display = 'block';
   } else {
@@ -150,7 +150,7 @@ window.addEventListener('popstate', function(e) {
       window.location.replace(window.location.href);
       return;
     }
-    document.title = "Project Finder | " + supervisor.title;
+    document.title = "Supervisor Directory | " + supervisor.title;
     document.querySelector('.ps-container#home').style.display = 'none';
     populateSupervisor(supervisor);
     document.querySelector('.ps-container#supervisor').style.display = 'block';

@@ -4,7 +4,7 @@ title: Xiaomin Chen
 available: true
 email: xiaomin.chen@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/c/xiaomin-chen/
-research_group: Cybernetwork Systems and Security
+research_group: Cyber Security and Network Systems
 research_themes:
   - Internet of Things
   - Data Privacy

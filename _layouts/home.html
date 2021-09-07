@@ -21,13 +21,13 @@ layout: default
             </div>
             <div class="tags">
               {% for tag in supervisor.research_themes %}
-                <div class="tag tag-theme" id="tag-theme-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
+                <div class="tag tag-theme {% if forloop.index > 3 %}hide{% endif %}" id="tag-theme-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
               {% endfor %}
               {% for tag in supervisor.additional_keywords %}
-                <div class="tag tag-keyword" id="tag-keyword-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
+                <div class="tag tag-keyword {% if forloop.index > 3 %}hide{% endif %}" id="tag-keyword-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
               {% endfor %}
               {% for tag in supervisor.technologies_languages %}
-                <div class="tag tag-technology" id="tag-technology-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
+                <div class="tag tag-technology {% if forloop.index > 3 %}hide{% endif %}" id="tag-technology-{{tag | slugify}}" data-tag-value="{{tag | slugify}}">{{tag}}</div>
               {% endfor %}
             </div>
           </div>
@@ -64,7 +64,7 @@ layout: default
               <!-- <img src="/assets/images/arrow.svg" alt="" class="collapse-button"> -->
               <div class="arrow"></div>
             </button>
-            <h4>Research Themes</h4>
+            <h4>Project Themes</h4>
           </div>
           <div class="filter-items">
       
@@ -489,7 +489,7 @@ layout: default
       history.pushState(data.ref, null, url);
 
       var supervisor = window.store[data.ref]
-      document.title = "Project Finder | " + supervisor.title;
+      document.title = "Supervisor Directory | " + supervisor.title;
       document.querySelector('.ps-container#home').style.display = 'none';
       populateSupervisor(supervisor);
       document.querySelector('.ps-container#supervisor').style.display = 'block';
