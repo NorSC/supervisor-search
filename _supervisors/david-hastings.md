@@ -19,7 +19,7 @@ technologies_languages:
   - Python
 additional_details: >-
   In addition to the subject areas listed above, I have previously supervised
-  projects (and would be happy to again) in the following areas:
+  projects in the following areas (and would be happy to again):
 
   - Business Intelligence systems
 
