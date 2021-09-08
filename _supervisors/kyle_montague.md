@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Kyle Montague
-available: false
+available: true
 email: kyle.montague@northumbria.ac.uk
 website: https://www.kylemontague.co.uk/
 research_group: Northumbria Social Computing
@@ -27,17 +27,6 @@ technologies_languages:
   - Java
   - HTML/CSS
 additional_details: >
-  Project details to be added:
-
-
-  - COLO-SPEED: computer vision assisted endoscopy
-
-  - COLO-SPEED: Capturing Patient Experience 
-
-  - Staff and Student Experience: anonymous capture of staff and student experience.
-
-
-
   ## Virtual Reality areas of interest
 
 
