@@ -30,7 +30,7 @@
               'research_theme': '{{ supervisor.research_themes | jsonify }}',
               'additional_keywords': '{{ supervisor.additional_keywords | jsonify }}',
               'technologies_languages': '{{ supervisor.technologies_languages | jsonify }}',
-              'additional_details': `{{ supervisor.additional_details | xml_escape | strip  | replace: "`", "&#96;" | replace: "$", "&#36;" }}`,
+              'additional_details': `{{ supervisor.additional_details | xml_escape | strip  | replace: "`", "&#96;" | replace: "$", "&#36;" | markdownify }}`,
               'website': '{{ supervisor.website | xml_escape  }}',
               'email': '{{ supervisor.email | xml_escape }}'
             }

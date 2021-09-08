@@ -608,7 +608,7 @@ h1 {
         }
       }
 
-      h2 {
+      h2.title {
         font-family: $font-titles;
         font-weight: 600;
         margin: 0;
@@ -647,7 +647,7 @@ h1 {
       .additional-details {
         margin-top: 20px;
         line-height: 1.6rem;
-        white-space: pre-wrap;
+        // white-space: pre-wrap;
       }
 
       .research-themes {
