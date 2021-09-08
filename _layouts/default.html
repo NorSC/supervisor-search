@@ -72,11 +72,11 @@
       let research_themes = new Set()
       let research_themes_slug = {}
       {% for theme in site.data.research_themes.research_themes %}
-      research_themes.add('{{theme}}')
-      research_themes_slug['{{theme}}'] = '{{ theme | slugify}}'
+      // research_themes.add('{{theme}}')
+      // research_themes_slug['{{theme}}'] = '{{ theme | slugify}}'
       {% endfor %}
       {% for supervisor in site.supervisors %}
-        {% for theme in supervisor.research_theme %}
+        {% for theme in supervisor.research_themes %}
   
         research_themes.add('{{theme}}')
         research_themes_slug['{{theme}}'] = '{{ theme | slugify}}'
@@ -93,8 +93,8 @@
       let additional_keywords_slug = {}
 
       {% for theme in site.data.additional_keywords.additional_keywords %}
-      additional_keywords.add('{{theme}}')
-      additional_keywords_slug['{{theme}}'] = '{{ theme | slugify}}'
+      // additional_keywords.add('{{theme}}')
+      // additional_keywords_slug['{{theme}}'] = '{{ theme | slugify}}'
 
       {% endfor %}
       {% for supervisor in site.supervisors %}
@@ -115,8 +115,8 @@
       let technologies_languages = new Set()
       let technologies_languages_slug = {}
       {% for theme in site.data.technologies_languages.technologies_languages %}
-      technologies_languages.add('{{theme}}')
-      technologies_languages_slug['{{theme}}'] = '{{ theme | slugify}}'
+      // technologies_languages.add('{{theme}}')
+      // technologies_languages_slug['{{theme}}'] = '{{ theme | slugify}}'
 
       {% endfor %}
       {% for supervisor in site.supervisors %}

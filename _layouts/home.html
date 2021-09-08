@@ -155,8 +155,8 @@ layout: default
 
     for (var i in window.additional_keywords) {
       let item = `<div class="input-row">
-              <label for="theme-${window.additional_keywords[i].slug}">
-                <input type="checkbox" id="theme-${window.additional_keywords[i].slug}" name="${window.additional_keywords[i].slug}" onclick="updateFilter(this)" value="${window.additional_keywords[i].slug}">
+              <label for="keyword-${window.additional_keywords[i].slug}">
+                <input type="checkbox" id="keyword-${window.additional_keywords[i].slug}" name="${window.additional_keywords[i].slug}" onclick="updateFilter(this)" value="${window.additional_keywords[i].slug}">
                 <span>${window.additional_keywords[i].tag}</span>
               </label>
             </div>`
@@ -170,8 +170,8 @@ layout: default
 
     for (var i in window.technologies_languages) {
       let item = `<div class="input-row">
-              <label for="theme-${window.technologies_languages[i].slug}">
-                <input type="checkbox" id="theme-${window.technologies_languages[i].slug}" name="${window.technologies_languages[i].slug}" onclick="updateFilter(this)" value="${window.technologies_languages[i].slug}">
+              <label for="technology-${window.technologies_languages[i].slug}">
+                <input type="checkbox" id="technology-${window.technologies_languages[i].slug}" name="${window.technologies_languages[i].slug}" onclick="updateFilter(this)" value="${window.technologies_languages[i].slug}">
                 <span>${window.technologies_languages[i].tag}</span>
               </label>
             </div>`
