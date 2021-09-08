@@ -15,5 +15,9 @@ additional_keywords:
   - Usable Privacy & Security
 technologies_languages:
   - JavaScript
-additional_details: Development and evaluation of an AI-powered graphical password.
+additional_details: >-
+  Development and evaluation of an AI-powered graphical password.
+
+
+  Using security attack demonstrations to improve cybersecurity awareness (phishing/password management).
 ---
