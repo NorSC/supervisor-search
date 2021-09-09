@@ -30,7 +30,7 @@
               'research_theme': '{{ supervisor.research_themes | jsonify }}',
               'additional_keywords': '{{ supervisor.additional_keywords | jsonify }}',
               'technologies_languages': '{{ supervisor.technologies_languages | jsonify }}',
-              'additional_details': `{{ supervisor.additional_details | xml_escape | strip  | replace: "`", "&#96;" | replace: "$", "&#36;" | markdownify }}`,
+              'additional_details': `{{ supervisor.additional_details | strip  | replace: "`", "&#96;" | replace: "$", "&#36;" | markdownify }}`,
               'website': '{{ supervisor.website | xml_escape  }}',
               'email': '{{ supervisor.email | xml_escape }}'
             }
@@ -56,11 +56,13 @@
       research_groups_slug['{{theme}}'] = '{{ theme | slugify}}'
       {% endfor %}
       {% for supervisor in site.supervisors %}
+        {% if supervisor.available %}
         {% for theme in supervisor.research_theme %}
   
         research_groups.add('{{theme}}')
         research_groups_slug['{{theme}}'] = '{{ theme | slugify}}'
         {% endfor %}
+        {% endif %}
       {% endfor %}
       window.research_groups = Array.from(research_groups).map(el => {
         return {
@@ -76,11 +78,13 @@
       // research_themes_slug['{{theme}}'] = '{{ theme | slugify}}'
       {% endfor %}
       {% for supervisor in site.supervisors %}
+        {% if supervisor.available %}
         {% for theme in supervisor.research_themes %}
   
         research_themes.add('{{theme}}')
         research_themes_slug['{{theme}}'] = '{{ theme | slugify}}'
         {% endfor %}
+        {% endif %}
       {% endfor %}
       window.research_themes = Array.from(research_themes).map(el => {
         return {
@@ -98,11 +102,13 @@
 
       {% endfor %}
       {% for supervisor in site.supervisors %}
+        {% if supervisor.available %}
         {% for theme in supervisor.additional_keywords %}
   
         additional_keywords.add('{{theme}}')
         additional_keywords_slug['{{theme}}'] = '{{ theme | slugify}}'
         {% endfor %}
+        {% endif %}
       {% endfor %}
   
       window.additional_keywords = Array.from(additional_keywords).map(el => {
@@ -120,12 +126,14 @@
 
       {% endfor %}
       {% for supervisor in site.supervisors %}
+        {% if supervisor.available %}
         {% for theme in supervisor.technologies_languages %}
   
         technologies_languages.add('{{theme}}')
         technologies_languages_slug['{{theme}}'] = '{{ theme | slugify}}'
 
         {% endfor %}
+        {% endif %}
       {% endfor %}
 
       window.technologies_languages = Array.from(technologies_languages).map(el => {
