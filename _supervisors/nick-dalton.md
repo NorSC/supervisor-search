@@ -11,7 +11,23 @@ research_themes:
   - Web Design and Development
 additional_keywords:
   - Health Informatics
-  - Green Networking
+  - Energy Efficient Computing
+  - Data Visualisation
+  - Equality Diversity & Inclusion
+  - Interaction Design
+  - Modelling & Simulation
+  - Public Health
+  - Sustainability
+  - Urban Systems
+  - Urban Informatics
+  - Technology-Enhanced Learning
+  - Human-Building Interaction
+  - Serious Games
+  - Spatial Data
+  - Inclusive Design
+  - Complex Systems
+  - Smart Cities
+  - Social Computing
 technologies_languages:
   - Augmented Reality (AR)
   - Android
