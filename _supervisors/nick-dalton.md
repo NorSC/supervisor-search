@@ -54,10 +54,10 @@ technologies_languages:
   - ReactNative
 additional_details: >-
   ### Also I am good at working with students with disabilities ( dyslexia,
-  autism spectrum, ADHD) 
+  autism spectrum, ADHD)
 
 
-  # Future Programming languages for Beginners
+  ## Future Programming languages for Beginners
 
 
   <https://github.com/sheepdalton/BFL>
@@ -81,7 +81,7 @@ additional_details: >-
   **Requires very good java programming skills, use of Netbeans IDE**
 
 
-  # Interaction with public displays: emergency egress in airports. 
+  ## Interaction with public displays: emergency egress in airports. 
 
 
   ### (no programming if you don't mind working hard)
@@ -96,10 +96,7 @@ additional_details: >-
   For more information see previous work: <http://nrl.northumbria.ac.uk/26107/1/p3889-dalton.pdf>
 
 
-   
-
-
-  # Big Data visualization for diabetes patients
+  ## Big Data visualization for diabetes patients
 
 
    AIM: to take given data recorded from a patient with diabetes. Develop visualization mechanisms that will create insight into the reasons for blood glucose levels fluctuation. Test visualization mechanisms for their ability to gain insight.
