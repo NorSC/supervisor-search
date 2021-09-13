@@ -14,6 +14,11 @@ research_themes:
 additional_keywords:
   - AI in Games
   - Complex Systems
+  - Modelling & Simulation
+  - Applied Programming
+  - Digital Twins
+  - Robotics
+  - Urban Informatics
 technologies_languages:
   - C
   - C++
