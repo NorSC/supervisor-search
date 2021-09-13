@@ -28,7 +28,7 @@ additional_details: >-
   Ideally you would be interested in pursuing research and have interest in academia so that from the start I can help you work on your project to have potential for publication (e.g., in the International Conference on Animal-Computer Interaction).
 
 
-  Take a look at my [research ](https://www.profdirk.com/research)description on my website, my [research outputs](https://researchportal.northumbria.ac.uk/en/persons/dirk-van-der-linden/publications/) on Pure, and my [Technology for Animals](www.tech4animals.org) lab website for more details of what I have and am working on. If we work together on a project, you will have access to domain experts in my Technology for Animals Lab from veterinary sciences, animal behaviour, and anthrozoology.
+  Take a look at my [research ](https://www.profdirk.com/research)description on my website, my [research outputs](https://researchportal.northumbria.ac.uk/en/persons/dirk-van-der-linden/publications/) on Pure, and my [Technology for Animals](https://www.tech4animals.org) lab website for more details of what I have and am working on. If we work together on a project, you will have access to domain experts in my Technology for Animals Lab from veterinary sciences, animal behaviour, and anthrozoology.
 
 
   I am happy to discuss any project ideas you might already have in this domain and work with you on finding something that fits with your interests and ambitions. For inspiration, some rough project/topic ideas that I would also be interested in working on with students are below, these would also require your own interpretation and further definition:
@@ -37,7 +37,7 @@ additional_details: >-
   **"DuoLingo, but for animal behavior:** developing a DuoLingo style learning platform (web or app) in collaboration with dog behavioral experts to teach dog owners what particular dog behaviors and movements mean in order to increase responsible pet ownership. Go through the UCD process, work with veterinarians to design a prototype of such a system and ideally also implement a functioning prototype which can be gradually extended with more learning materials. HCI and development skills would be a perfect combination."
 
 
-  "**Effective interspecies nudging for dog owners:** investigate how dog activity and health monitors like FitBark and PetPace work, how quantified pet data can be used to steer pet owners towards responsible actions (e.g., appropriate diets, activity levels, cognitive enrichment), design interspecies behavioral nudges that could be integrated into such technology, and conduct experimental work to assess their efficiency. HCI and stronmg research/experimental skills would be a perfect combination."
+  "**Effective interspecies nudging for dog owners:** investigate how dog activity and health monitors like FitBark and PetPace work, how quantified pet data can be used to steer pet owners towards responsible actions (e.g., appropriate diets, activity levels, cognitive enrichment), design interspecies behavioral nudges that could be integrated into such technology, and conduct experimental work to assess their efficiency. HCI and strong research/experimental skills would be a perfect combination."
 
 
   "**More than Human Smart  Cities:** investigate how smart cities can accommodate for more than just human needs and propose (more-than-human) user centered design artifacts to show how smart city technology could accommodate also urban animals, wildlife, as well as human-animal relationships."
