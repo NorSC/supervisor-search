@@ -642,6 +642,22 @@ h1 {
             }
           }
         }
+        .office-hours {
+          align-items: flex-start;
+          line-height: 160%;
+          .title {
+            color: $primary-color;
+            font-weight: 600;
+          }
+          span {
+            white-space: pre-wrap;
+          }
+
+          img {
+            margin: .2em 0;
+            margin-right: 10px;
+          }
+        }
       }
 
       .additional-details {

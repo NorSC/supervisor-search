@@ -454,6 +454,17 @@ layout: default
     let detailsContainer = supervisorContainer.querySelector('.additional-details');
     detailsContainer.innerHTML = supervisor.data.additional_details;
 
+    let officeHoursContainer = supervisorContainer.querySelector('.office-hours');
+    if (supervisor.data.office_hours) {
+      let href = officeHoursContainer.querySelector('span');
+      href.innerText = supervisor.data.office_hours;
+      officeHoursContainer.style.display = 'flex';
+
+    } else {
+      officeHoursContainer.style.display = 'none';
+    }
+
+    
     let emailContainer = supervisorContainer.querySelector('.contact-email');
     if (supervisor.data.email) {
       let href = emailContainer.querySelector('a');

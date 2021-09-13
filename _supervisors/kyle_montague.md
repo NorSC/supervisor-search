@@ -4,9 +4,6 @@ title: Kyle Montague
 available: true
 email: kyle.montague@northumbria.ac.uk
 website: https://www.kylemontague.co.uk/
-office_hours: |-
-  Mon 13:00 - 14:00
-  Wed 15:00 - 16:00
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction

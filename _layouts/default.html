@@ -31,6 +31,7 @@
               'additional_keywords': '{{ supervisor.additional_keywords | jsonify }}',
               'technologies_languages': '{{ supervisor.technologies_languages | jsonify }}',
               'additional_details': `{{ supervisor.additional_details | strip  | replace: "`", "&#96;" | replace: "$", "&#36;" | markdownify }}`,
+              'office_hours': `{{ supervisor.office_hours | xml_escape  }}`,
               'website': '{{ supervisor.website | xml_escape  }}',
               'email': '{{ supervisor.email | xml_escape }}'
             }
