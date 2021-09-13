@@ -4,7 +4,16 @@ title: Martyn Amos
 available: true
 email: martyn.amos@northumbria.ac.uk
 website: http://www.martynamos.org
-office_hours: Please mail me to arrange an appointment until my office hours are finalised.
+office_hours: >
+  Monday: 12:15-1:15 (I teach on the other side of campus 11-12).
+
+  Tuesday: 11-12.
+
+
+  If neither of those slots are convenient, please contact me to arrange an ad hoc appointment.
+
+
+  My office is Ellison B1.22, on the first floor where Ellison joins the new CIS building (overlooking the atrium lab area). You can also access it via the CIS building by taking the stairs/lift to the first floor, and then walking left out of CIS into Ellison.
 research_group: Northumbria Social Computing
 research_themes:
   - Artificial Intelligence
