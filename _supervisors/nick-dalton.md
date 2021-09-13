@@ -4,6 +4,9 @@ title: Nick Dalton
 available: true
 email: nick.dalton@northumbria.ac.uk
 website: http://www.thepurehands.org/sheep/index.html
+office_hours: |-
+  To book time with me. 
+  https://calendly.com/nick-dalton/
 research_group: Northumbria Social Computing
 research_themes:
   - Mobile Computing
@@ -57,16 +60,13 @@ additional_details: >-
   autism spectrum, ADHD)
 
 
-  ## Future Programming languages for Beginners
+  ## BFL Future Programming languages for Beginners
 
 
   <https://github.com/sheepdalton/BFL>
 
 
   BFL (Big Falcon Language) or (Beginners Falcon Language) Is a new programming language inspired by HyperTalk and Python. It's designed to be a powerful and correct learner language. This is a work in progress.
-
-
-  ## [](https://github.com/sheepdalton/BFL#bfl-mvp)BFL MVP
 
 
   BFL is intended to be a full programming language - if you see the documentation you will see the developing tutorial. The language began by writing the tutorial not all aspects of the introduction exist or are certain to make it into version 1.0
@@ -78,7 +78,7 @@ additional_details: >-
   You could test this out on students or write another backend or extend the language. 
 
 
-  **Requires very good java programming skills, use of Netbeans IDE**
+  **Requires very good java programming skills, use of Netbeans IDE, Github**
 
 
   ## Interaction with public displays: emergency egress in airports. 
