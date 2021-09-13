@@ -10,15 +10,17 @@ research_themes:
   - Artificial Intelligence
   - Bio Computing
   - Game Design and Development
+  - Machine Learning
 additional_keywords:
   - AI in Games
   - Complex Systems
-  - Synthetic Biology
 technologies_languages:
   - C
   - C++
-  - HTML/CSS
   - Java
+  - Android
+  - iOS
+  - C#
 additional_details: >-
   **AI solver for puzzle games:** Many simple puzzle games (eg. Sudoku,
   Minesweeper) are easy to describe but very difficult to solve. This project
