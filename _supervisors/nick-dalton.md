@@ -56,7 +56,7 @@ technologies_languages:
   - 3D Modelling
   - ReactNative
 additional_details: >-
-  ### Also I am good at working with students with disabilities ( dyslexia,
+  ### Also, I am good at working with students with disabilities ( dyslexia,
   autism spectrum, ADHD)
 
 
