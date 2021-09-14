@@ -3,6 +3,7 @@ layout: supervisor
 title: Zeyneb Kurt
 available: true
 email: zeyneb.kurt@northumbria.ac.uk
+website: https://www.northumbria.ac.uk/about-us/our-staff/k/zeyneb-kurt/
 office_hours: |-
   Currently (can be updated):
   Monday   15:15-16:15
@@ -24,6 +25,9 @@ additional_details: >-
   you want to discuss any project ideas related to my research interests. 
 
 
+  Note: Experience with (or willing to learn) Python and/or R is necessary 
+
+
   **Prediction of the groups in a colon cancer cohort by integrating different types of big biological datasets**
 
 
@@ -38,16 +42,11 @@ additional_details: >-
 
   1. Preprocessing data (cleaning noise, normalisation each data type individually, then combining them all, and applying a unit scale \[e.g. L2] transform) 
 
-
   2. Training an autoencoder model and identification of the best feature size (dimension can be reduced gradually, e.g. {500, 400, 300, 200, 100} ).
-
 
   3. Use the best feature size, predict the optimum 'k' value for k-means clustering among 2<=k<=10 (e.g. elbow method or silhouette index can be used)
 
-
   4. Label/group the samples based on the k-means clustering with the optimal 'k' value and compare the overall survival of the sub-populations using the ‘Kaplan-Meier’ estimator.
-
-
 
 
   **Tumor stage prediction in colon cancer with transfer learning using pathological tissue images**
