@@ -3,7 +3,7 @@ layout: supervisor
 title: Longzhi Yang
 available: true
 email: longzhi.yang@northumbria.ac.uk
-website: lyang.uk
+website: https://lyang.uk
 office_hours: |-
   14:00-15:00 on Tuesday
   12:00-13:00 on Thursday
