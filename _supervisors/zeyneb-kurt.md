@@ -11,10 +11,11 @@ office_hours: |-
 research_group: Digital Health and Wellbeing
 research_themes:
   - Artificial Intelligence
-  - Information Science
   - Deep Learning
 additional_keywords:
   - Health Informatics
+  - Bioinformatics
+  - Computational Biology
 technologies_languages:
   - Python
   - R
