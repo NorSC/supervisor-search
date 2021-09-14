@@ -24,4 +24,7 @@ additional_details: >-
 
 
   Other key words: Game based learning, Active online learning, Social computing, Action Research
+
+
+  My main research interests are in using technology to enhance education - this is across the whole education system from early years to college/university to lifelong learning. I am also interested in exploring how we can enhance and innovate the education and the student experience for computer science and digital technology students. Finally I have worked on projects that have explored how to provide a more inclusive educational environment and how we can ensure that everyone irrespective of their background or experiences is digitally fluent, both here in the UK and globally.
 ---
