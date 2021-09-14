@@ -1,6 +1,6 @@
 ---
 layout: supervisor
-title: Dr Shanfeng Hu
+title: Shanfeng Hu
 available: true
 email: shanfeng2.hu@northumbria.ac.uk
 website: https://shanfenghu.github.io/
