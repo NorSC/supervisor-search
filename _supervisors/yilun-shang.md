@@ -3,7 +3,9 @@ layout: supervisor
 title: Yilun Shang
 available: true
 email: yilun.shang@northumbria.ac.uk
+website: https://www.northumbria.ac.uk/about-us/our-staff/s/yilun-shang/
 office_hours: |-
+  ELB 206
   Wednesday 12:00-13:00
   Friday 15:00-16:00
 research_group: Computer Vision and Natural Computing
@@ -32,8 +34,6 @@ additional_details: >-
   interest resides in complex networks and systems.
 
 
-
-
   Some of my past final-year student project titles:
 
 
@@ -50,4 +50,16 @@ additional_details: >-
 
 
   'Investigating twitter sentiment analysis and predicting popularity of tweets with health and fitness data'
+
+
+  'Is the data visualisation function in BI tools really useful'
+
+
+  'How does music in video game affect player skill'
+
+
+  'Data processing and security concerns of school management system E-class and Moodle'
+
+
+  'A deconstruction of the negative views surrounding loot boxes in the video game industry'
 ---
