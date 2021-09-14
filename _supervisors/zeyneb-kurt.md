@@ -13,10 +13,12 @@ research_themes:
   - Artificial Intelligence
   - Deep Learning
   - Machine Learning
+  - Data Science
 additional_keywords:
   - Bioinformatics
   - Computational Biology
   - Health Informatics
+  - Data Analytics
 technologies_languages:
   - Python
   - R
