@@ -56,7 +56,7 @@ collections:
         multiple: true
         min: 1
         optionsLength: 1000
-      - label: "Technologies & Languages"
+      - label: "Technologies & Techniques"
         name: "technologies_languages"
         widget: "relation"
         collection: form_data
@@ -96,11 +96,11 @@ collections:
             collapsed: false
             field: {label: Keyword, name: name, widget: string}
             add_to_top: true
-      - label: 'Technologies & Languages'
+      - label: 'Technologies & Techniques'
         name: 'technologies_languages'
         file: '_data/technologies_languages.yml'
         fields:
-          - label: 'Technologies & Languages'
+          - label: 'Technologies & Techniques'
             name: 'technologies_languages'
             widget: 'list'
             allow_add: true
