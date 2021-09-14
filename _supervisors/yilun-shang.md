@@ -8,6 +8,8 @@ office_hours: |-
   ELB 206
   Wednesday 12:00-13:00
   Friday 15:00-16:00
+
+  You can also contact me through email or MS Teams any time.
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Digital Health and Wellbeing
