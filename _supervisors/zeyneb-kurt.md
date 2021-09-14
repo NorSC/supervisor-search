@@ -14,9 +14,9 @@ research_themes:
   - Deep Learning
   - Machine Learning
 additional_keywords:
-  - Health Informatics
   - Bioinformatics
   - Computational Biology
+  - Health Informatics
 technologies_languages:
   - Python
   - R
