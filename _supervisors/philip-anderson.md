@@ -3,7 +3,7 @@ layout: supervisor
 title: Philip Anderson
 available: true
 email: philip.anderson@northumbria.ac.uk
-office_hours: TBC
+office_hours: "To be confirmed - please email for an appointment in the meantime. "
 research_group: Cyber Security and Network Systems
 research_themes:
   - Digital Forensics
