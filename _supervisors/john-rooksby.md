@@ -46,7 +46,7 @@ additional_details: >-
 
   * (Investigative project) Systematically review the functionality and usability of mobile applications for managing addiction or a chronic condition. 
 
-  * (General project) Build a digital board game or an interactive narrative for learning about an historical event or a specific aspect of the natural world. 
+  * (General project) Build a digital board game or an interactive narrative for learning about an historical event, a philosophical or religious concept, or a specific aspect of the natural world. 
 
   * (General project) Build a web or mobile application for tracking expenditure, food, or productivity. You might think about building upon behaviour change techniques or using intervention design methods.  
 
