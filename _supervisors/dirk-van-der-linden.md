@@ -15,9 +15,7 @@ additional_keywords:
   - Serious Games
   - Smart Cities
 technologies_languages:
-  - Android
-  - iOS
-  - Modern Web
+  - HTML/CSS
 additional_details: >-
   I am very active in the field of **animal-computer interaction** and
   **interspecies information systems engineering**—if you are interested in the
