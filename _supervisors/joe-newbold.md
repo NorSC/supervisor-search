@@ -12,6 +12,7 @@ research_themes:
   - Human-Computer Interaction
   - Sonification and Auditory Display
   - Digital Health and Wellbeing
+  - Computer Audio
 additional_keywords:
   - Interaction Design
   - Wearable Computing
