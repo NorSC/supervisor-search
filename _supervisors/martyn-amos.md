@@ -14,6 +14,9 @@ office_hours: >
 
 
   My office is Ellison B1.22, on the first floor where Ellison joins the new CIS building (overlooking the atrium lab area). You can also access it via the CIS building by taking the stairs/lift to the first floor, and then walking left out of CIS into Ellison.
+
+
+  I am also happy to meet via Teams/Zoom, if necessary or preferred.
 research_group: Northumbria Social Computing
 research_themes:
   - Artificial Intelligence
