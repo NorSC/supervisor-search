@@ -10,6 +10,7 @@ research_themes:
   - Web Design and Development
   - Game Design and Development
   - Digital Health and Wellbeing
+  - Human-Computer Interaction
 additional_keywords:
   - Personal Informatics
   - Public Health
@@ -33,7 +34,7 @@ additional_details: >-
 
   * Digital health and wellbeing
 
-  * Anything really
+  * Anything 
 
 
   I am happy to hear ideas (especially ones that relate to your life experiences, hobbies, passions, outside interests, industry experience, big ideas, strange dreams, etc). 
