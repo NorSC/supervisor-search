@@ -12,6 +12,7 @@ research_group: Digital Health and Wellbeing
 research_themes:
   - Artificial Intelligence
   - Deep Learning
+  - Machine Learning
 additional_keywords:
   - Health Informatics
   - Bioinformatics
