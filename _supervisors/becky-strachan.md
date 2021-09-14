@@ -18,24 +18,10 @@ additional_keywords:
   - Equality Diversity & Inclusion
 technologies_languages:
   - User Stories
-additional_details: |-
-  Additional Themes:
+additional_details: >-
+  Additional Themes: Computer Science Education,  Online Learning, Digital
+  Literacy
 
 
-
-  Computer Science Education
-
-  Technology enabled learning (or could be online learning)
-
-  Digital Literacy
-
-
-
-  Other key words:
-
-  Game based learning
-
-  Active online learning
-
-  Social computing
+  Other key words: Game based learning, Active online learning, Social computing, Action Research
 ---
