@@ -15,7 +15,14 @@ additional_keywords:
   - Serious Games
   - Smart Cities
 technologies_languages:
-  - HTML/CSS
+  - Conceptual Modeling
+  - Ethnographic Observations
+  - Interviews
+  - Wireframing
+  - UML
+  - Personas
+  - User Stories
+  - Use Case
 additional_details: >-
   I am very active in the field of **animal-computer interaction** and
   **interspecies information systems engineering**—if you are interested in the
