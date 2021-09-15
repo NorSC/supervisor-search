@@ -34,7 +34,7 @@ additional_details: >-
 
   * Digital health and wellbeing
 
-  * Anything 
+  * Anything else
 
 
   I am happy to hear ideas (especially ones that relate to your life experiences, hobbies, passions, outside interests, industry experience, big ideas, strange dreams, etc). 
@@ -43,18 +43,20 @@ additional_details: >-
   Here's a few ideas of my own:
 
 
-  * (Software Engineering / General project) Build an "experience sampling" application that will capture information about what someone is doing or thinking at random times of day.
+  * (Software Engineering / General project) Build an “experience sampling” application that will capture information about what someone is doing or thinking at random times of day (see - https://en.wikipedia.org/wiki/Experience_sampling_method).
 
-  * (Investigative project) Systematically review the functionality and usability of mobile applications for managing addiction or a chronic condition. 
+  * (Investigative project) Systematically review the functionality and usability of mobile applications for managing an addiction or a chronic condition (You might learn how to use a scraper such as this - https://pypi.org/project/google-play-scraper/ to collect data) (See e.g. https://mental.jmir.org/2020/1/e15321/ https://mhealth.jmir.org/2019/1/e10353/)
 
-  * (General project) Build a digital board game or an interactive narrative for learning about an historical event, a philosophical or religious concept, or a specific aspect of the natural world. 
+  * (General project) Build a digital board game or an interactive narrative for learning about or exploring an event, a concept, or some aspect of the world (see e.g. https://dl.acm.org/doi/10.1145/3322276.3323697 https://dl.acm.org/doi/10.1145/3418038 )
 
-  * (General project) Build a web or mobile application for tracking expenditure, food, or productivity. You might think about building upon behaviour change techniques or using intervention design methods.  
+  * (General project) Build a web or mobile application for tracking expenditure, food, or productivity. You might think about building upon behaviour change techniques or using intervention design methods.
 
-  * (General project) A game, web app or mobile app that helps students practice mindfulness techniques or improve their mood.
+  * (General project) A game, web app or mobile app that helps students practice mindfulness techniques or improve their mood (see e.g https://dl.acm.org/doi/10.1145/3025453.3025590 https://dl.acm.org/doi/10.1145/3334480.3382938)
 
-  * (Investigative / General project) Something that will try to influence your dreams (for 'use' before you sleep or when you are asleep). 
+  * (Investigative / General project) Something that will try to influence your dreams or build upon dreaming (see e.g. https://dl.acm.org/doi/10.1145/3173574.3173917 https://dl.acm.org/doi/10.1145/2663806.2663874 )
+
+  * (General project) Create a web application or game to support researchers using the 'story completion method' (see http://oro.open.ac.uk/48404/3/IQR%20SC%20Chapter%20-%20FINAL.pdf https://dl.acm.org/doi/10.1145/3461778.3462069)
 
 
-  Please note that I expect to hold supervision meetings mainly online (using MS Teams) this year - which I thought worked very well last year. If face-to-face chats are important to you I might not be your best choice.
+  Please note that I expect to mostly hold supervision meetings online (using MS Teams) this year - which I thought worked very well last year. If face-to-face supervision meetings are important to you I might not be your best choice.
 ---
