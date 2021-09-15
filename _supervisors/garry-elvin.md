@@ -3,7 +3,7 @@ layout: supervisor
 title: Garry Elvin
 available: true
 email: garry.elvin@northumbria.ac.uk
-website: Staff Profile
+website: ""
 office_hours: >-
   Available on Monday, Thursday PM and Friday AM in the w/c the 27th of
   September and potentially other times via MS Teams. 
