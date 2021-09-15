@@ -58,5 +58,5 @@ additional_details: >-
   * (General project) Create a web application or game to support researchers using the 'story completion method' (see http://oro.open.ac.uk/48404/3/IQR%20SC%20Chapter%20-%20FINAL.pdf https://dl.acm.org/doi/10.1145/3461778.3462069)
 
 
-  Please note that I expect to mostly hold supervision meetings online (using MS Teams) this year - which I thought worked very well last year. If face-to-face supervision meetings are important to you I might not be your best choice.
+  Please note that I expect to hold most supervision meetings online (using MS Teams) this year - which I thought worked very well for one-to-one project supervision last year. I am not against face-to-face supervision, but if this is important to you please discuss this with me before making a choice.
 ---
