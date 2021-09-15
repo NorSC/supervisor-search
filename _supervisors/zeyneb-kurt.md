@@ -4,8 +4,9 @@ title: Zeyneb Kurt
 available: true
 email: zeyneb.kurt@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/k/zeyneb-kurt/
-office_hours: |-
-  Currently (can be updated):
+office_hours: |
+  Currently (this can be updated later):
+  CIS 308
   Monday   15:15-16:15
   Thursday 13:15-14:15
 research_group: Digital Health and Wellbeing
