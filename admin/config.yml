@@ -80,7 +80,7 @@ collections:
         fields:
           - label: 'Project Themes'
             name: 'research_themes'
-            widget: 'list'
+            widget: 'hidden'
             allow_add: true
             collapsed: false
             field: {label: Theme, name: name, widget: string}
@@ -91,7 +91,7 @@ collections:
         fields:
           - label: 'Additional Keywords'
             name: 'additional_keywords'
-            widget: 'list'
+            widget: 'hidden'
             allow_add: true
             collapsed: false
             field: {label: Keyword, name: name, widget: string}
@@ -102,7 +102,7 @@ collections:
         fields:
           - label: 'Technologies & Techniques'
             name: 'technologies_languages'
-            widget: 'list'
+            widget: 'hidden'
             allow_add: true
             collapsed: false
             field: {label: Technology, name: name, widget: string}
