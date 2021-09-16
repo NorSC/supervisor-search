@@ -16,6 +16,7 @@ additional_keywords:
   - Information Management
   - Web Services
   - Library and Information Science
+  - Interaction Design
 technologies_languages:
   - HTML/CSS
   - Use Case
