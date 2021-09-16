@@ -33,14 +33,11 @@ technologies_languages:
   - SQL
   - JavaScript
 additional_details: >-
-  <!--StartFragment-->
-
-
-  I usually supervise projects which have had web database solutions, with recommender systems, social networking and other API integration, customisable interfaces or systems for real clients being some of the most recent topics. 
+  I usually supervise projects which have had web database solutions, with
+  recommender systems, social networking and other API
+  integration, customisable interfaces or systems for real clients being some of
+  the most recent topics. 
 
 
   I also have an interest in computational linguistics and have supervised a couple of projects relating to linguistics and computing too.
-
-
-  <!--EndFragment-->
 ---
