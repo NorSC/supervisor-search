@@ -6,6 +6,7 @@ email: emma.anderson2@northumbria.ac.uk
 office_hours: |-
   Monday 13:00-14:00
   Wednesday 11:00-12:00
+  Or contact me to arrange another time.  I work Monday-Thursday.
 research_group: Digital Learning Laboratory
 research_themes:
   - Web Design and Development
