@@ -4,7 +4,9 @@ title: Xiaomin Chen
 available: true
 email: xiaomin.chen@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/c/xiaomin-chen/
-office_hours: "I'm available for project discussion at 10:00-12:00 Thursday, 30th Sep. "
+office_hours: "I'm available for project discussion on MS Teams at 10:00-12:00
+  Thursday, 30th Sep. If you can't attend at this time slot, please contact me
+  via email to arrange another time. "
 research_group: Cyber Security and Network Systems
 research_themes:
   - Internet of Things
