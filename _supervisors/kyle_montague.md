@@ -62,8 +62,6 @@ additional_details: >-
   Finally, here are some ideas that I'm currently discussing with my research team in NorSC. 
 
 
-
-
   ## Human-Data Interaction
 
 
@@ -87,17 +85,10 @@ additional_details: >-
   Power M, Doherty B, Pybus K, Pickett K. How COVID-19 has exposed inequalities in the UK food system: The case of UK food and poverty. *Emerald Open Research*. 2020;2:11. Published 2020 May 13. doi:10.35241/emeraldopenres.13539.2 - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219559/](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7219559%2F&data=04%7C01%7Ckyle.montague%40northumbria.ac.uk%7Cd4b5823b5bdc408ba84308d95c0b149d%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637642024916793181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wNtupjJ9R3u8aLEs%2F8lwtYSGEo40q1GlOqUcgD1SoO8%3D&reserved=0)
 
 
-  **Right to roam:** Right to roam is a law that allows members of the public access certain public or privately owned land, lakes, and rivers for recreation and exercise. With the Countryside and Rights of Way Act 2000 people in England were given freedom to roam on 8% of the land. Last year over 100 authors, musicians, and actors [signed an open letter](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.righttoroam.org.uk%2Fletter&data=04%7C01%7Ckyle.montague%40northumbria.ac.uk%7Cd4b5823b5bdc408ba84308d95c0b149d%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637642024916793181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=D4MFEc1gO0OcUX3Mf%2F0zOtk%2F8q83pJnjXqSh5ct2cKM%3D&reserved=0 "Original URL:
-
-  https\://www.righttoroam.org.uk/letter
+  **Right to roam:** Right to roam is a law that allows members of the public access certain public or privately owned land, lakes, and rivers for recreation and exercise. With the Countryside and Rights of Way Act 2000 people in England were given freedom to roam on 8% of the land. Last year over 100 authors, musicians, and actors [signed an open letter](https://www.righttoroam.org.uk/letter) to the PM Boris Johnson to call for extending people’s rights to roam.  
 
 
-  Click to follow link.") to the PM Boris Johnson to call for extending people’s rights to roam.  
-
-
-  There are also strict rules around wild camping in the UK. Most part of England and Wales it is illegal to wild camp. Although people still wild camp following the rules of arrive late, leave early and leave no trace. However, not all people follow these rules and there have been incidents which have resulted in harsher restrictions - [https://www.northumberlandgazette.co.uk/news/crime/kielder-bans-wild-camping-after-rubbish-dumped-park-2909142](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.northumberlandgazette.co.uk%2Fnews%2Fcrime%2Fkielder-bans-wild-camping-after-rubbish-dumped-park-2909142&data=04%7C01%7Ckyle.montague%40northumbria.ac.uk%7Cd4b5823b5bdc408ba84308d95c0b149d%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637642024916803140%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=VemjOiF151eG6bTuWm492aXP5hWFHn5HHkKcEolYTus%3D&reserved=0 "Original URL:
-
-  https\://www.northumberlandgazette.co.uk/news/crime/kielder-bans-wild-camping-after-rubbish-dumped-park-2909142
+  There are also strict rules around wild camping in the UK. Most part of England and Wales it is illegal to wild camp. Although people still wild camp following the rules of arrive late, leave early and leave no trace. However, not all people follow these rules and there have been incidents which have resulted in harsher restrictions - <https://www.northumberlandgazette.co.uk/news/crime/kielder-bans-wild-camping-after-rubbish-dumped-park-2909142>
 
 
   Click to follow link.").
@@ -107,8 +98,6 @@ additional_details: >-
 
 
   **New models of data sharing:** Sharing data usually done via push or pull protocols, using a predefined code, authentication methods and REST API. How can we reimagine data sharing using trigger methods? For example, using “If This, Then That” (IFTTT) channels and to create recipes. What data can be shared using this trigger model? What are benefits and implications for individual and group privacy? [https://data.world/blog/were-on-ifttt/](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdata.world%2Fblog%2Fwere-on-ifttt%2F&data=04%7C01%7Ckyle.montague%40northumbria.ac.uk%7Cd4b5823b5bdc408ba84308d95c0b149d%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637642024916803140%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Zc3bp2UelH2WAReNy37as3hFLGijC6pf%2FNa%2BuIe%2BsLk%3D&reserved=0)
-
-
 
 
   ## Virtual Reality areas of interest
