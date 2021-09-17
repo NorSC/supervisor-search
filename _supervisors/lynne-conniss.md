@@ -17,7 +17,12 @@ additional_keywords:
   - Technology-Enhanced Learning
   - Information Management
 technologies_languages:
-  - HTML/CSS
+  - Cognitive Walkthrough
+  - Think Aloud Protocol
+  - Personas
+  - Wireframing
+  - Interviews
+  - User Stories
 additional_details: >-
   Typically, priority is given to UX-focused projects and investigative/general
   games projects. General areas of interest (in no particular order) include:
