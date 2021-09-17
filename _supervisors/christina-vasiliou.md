@@ -8,12 +8,10 @@ office_hours: |-
   Or email me to arrange a meeting (on MS Teams) at an alternative time.
 research_group: Northumbria Social Computing
 research_themes:
-  - Information Science
   - Human-Computer Interaction
-  - Internet of Things
   - Web Design and Development
+  - Information Science
 additional_keywords:
-  - Information Management
   - Digital Civics
   - UX Design
   - User Centred Design
@@ -32,6 +30,12 @@ technologies_languages:
   - PHP
   - Python
   - SQL
+  - User Stories
+  - Think Aloud Protocol
+  - Interviews
+  - Personas
+  - Ethnographic Observations
+  - Conceptual Modeling
 additional_details: >-
   I would be more than happy to supervise projects that follow a user-centred
   design approach in areas (or closely related):
