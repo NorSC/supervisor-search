@@ -23,6 +23,8 @@ technologies_languages:
   - Personas
   - User Stories
   - Use Case
+  - Cognitive Walkthrough
+  - Think Aloud Protocol
 additional_details: >-
   I am very active in the field of **animal-computer interaction** and
   **interspecies information systems engineering**—if you are interested in the
