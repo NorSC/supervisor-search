@@ -62,7 +62,7 @@ additional_details: >-
   Finally, here are some ideas that I'm currently discussing with my research team in NorSC. 
 
 
-  ## Human-Data Interaction
+  ## Social Change Technologies
 
 
   **Food inequalities:** What are the impacts of Covid-19 and '*pingdemic*' on food security in the UK? Interesting to look at this in relation to socioeconomic indicators. 
@@ -89,9 +89,6 @@ additional_details: >-
 
 
   There are also strict rules around wild camping in the UK. Most part of England and Wales it is illegal to wild camp. Although people still wild camp following the rules of arrive late, leave early and leave no trace. However, not all people follow these rules and there have been incidents which have resulted in harsher restrictions - <https://www.northumberlandgazette.co.uk/news/crime/kielder-bans-wild-camping-after-rubbish-dumped-park-2909142>
-
-
-  Click to follow link.").
 
 
   How could freedom to roam be extended to enable people responsible enjoy the outdoors and recreational activates? Who can take advantage of this right? What would be solutions for extending the rights, keeping people accountable and helping safeguard nature? What data can be used or collected to explore this?
