@@ -3,7 +3,9 @@ layout: supervisor
 title: Christina Vasiliou
 available: true
 email: christina.vasiliou@northumbria.ac.uk
-office_hours: Thursday 15.00-16.00 (TBC)
+office_hours: |-
+  Tuesday 10.00-12.00 on Campus (Room ELB113)
+  Or email me to arrange a meeting (on MS Teams) at an alternative time.
 research_group: Northumbria Social Computing
 research_themes:
   - Information Science
@@ -30,4 +32,20 @@ technologies_languages:
   - PHP
   - Python
   - SQL
+additional_details: >-
+  I would be more than happy to supervise projects that follow a user-centred
+  design approach in areas (or closely related):
+
+
+  * Designing web and community-based platforms for social engagement, learning and training.
+
+  * Chatbots for mindfulness
+
+
+  I am also open to investigative projects on similar areas or:
+
+
+  * Understanding online communities and social behaviour
+
+  * Understanding group and collaborative behaviour
 ---
