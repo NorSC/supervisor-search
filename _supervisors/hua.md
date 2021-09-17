@@ -1,10 +1,10 @@
 ---
 layout: supervisor
-title: "Hua "
+title: Hua Mao
 available: true
 email: hua.mao@northumbria.ac.uk
 website: ""
-office_hours: "I am general fine with 13:00pm-15:00pm on Thursday. "
+office_hours: "I am generally fine with 13:00pm-15:00pm on Thursdays. "
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Deep Learning
