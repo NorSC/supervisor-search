@@ -3,7 +3,9 @@ layout: supervisor
 title: Lynne Conniss
 available: true
 email: lynne.conniss@northumbria.ac.uk
-office_hours: "To be confirmed - please email for an appointment in the meantime. "
+office_hours: |-
+  Tuesday 1pm - 2pm
+  Thursday 2pm - 3pm
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
