@@ -25,16 +25,19 @@ additional_details: >-
   Forex/Stock price prediction using machine learning and deep learning
 
 
-  Banking / stock market fraud detection using AI/machine learning  
+  Banking / stock market fraud detection using AI/ML  
 
 
   Anomaly detection techniques  (with applications to fraud detection, video surveillance, medical diagnosis, intrusion detection, etc.)
 
 
-  Cancer / disease diagnosis in medical images using AI/machine learning
+  Cancer / disease diagnosis in medical images using AI/ML
 
 
-  Detection of diabetic retinopathy in retinal images using AI/machine learning 
+  Detection of diabetic retinopathy in retinal images using AI/ML 
+
+
+  AI/ML for EEG based BCI (Brain Computer Interface)
 
 
   Secure digital documents using steganography
@@ -46,5 +49,5 @@ additional_details: >-
   Sentiment/opinion analysis using NLP and AI
 
 
-  AI/ML for EEG based BCI (Brain Computer Interface)
+  Cyberbullying detection using machine learning
 ---
