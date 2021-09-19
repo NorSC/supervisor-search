@@ -12,7 +12,6 @@ research_themes:
   - Bio Computing
   - Deep Learning
 additional_keywords:
-  - Bioinformatics
   - Data Analytics
   - Computer Vision
   - Decision Making
