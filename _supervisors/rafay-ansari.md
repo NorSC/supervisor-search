@@ -20,6 +20,8 @@ additional_keywords:
 technologies_languages:
   - C++
   - Python
+  - Java
+  - JavaScript
 additional_details: "5G mobile technology, Internet-of-Things (IoT), Unmanned
   Aerial Vehicles, Machine learning for Intrusion prevention, artificial
   intelligence (AI) for networks.
