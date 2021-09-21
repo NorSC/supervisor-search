@@ -57,7 +57,7 @@ additional_details: >-
 
   **Get in Touch**
 
-  **Email**: zhenhui.yuan@northumbria.ac.uk
+  If you have any questions, I am just at the other end of this **Email**: zhenhui.yuan@northumbria.ac.uk.
 
   My previous projects and **YouTube demos**: [www.zhenhuiyuan.com](www.zhenhuiyuan.com)
 ---
