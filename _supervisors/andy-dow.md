@@ -3,7 +3,10 @@ layout: supervisor
 title: Andy Dow
 available: true
 email: andrew.dow@northumbria.ac.uk
-office_hours: To be confirmed for Semester 1, email me if you want to chat.
+office_hours: I will be available in my office on Monday 27th September 12-1pm
+  and on Wednesday 29th September 12-1pm. You can also contact me via email to
+  arrange an appointment outside these times and I will be on campus w/c 27th
+  September on Monday, Wednesday and Thursday.
 research_group: Northumbria Social Computing
 research_themes:
   - Digital Health and Wellbeing
