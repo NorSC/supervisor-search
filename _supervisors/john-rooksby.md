@@ -4,7 +4,12 @@ title: John Rooksby
 available: true
 email: john.rooksby@northumbria.ac.uk
 website: johnrooksby.org
-office_hours: Contact me on Teams with questions or if you would like a quick chat
+office_hours: "Contact me on Teams with questions or if you would like a quick
+  chat. Meeting via Teams is preferred, but I will also be running in-person
+  office hours on Tuesday (10-11) and Friday (11-12) where you'll find me in or
+  around CIS307. I'm also available for anyone taking KF6012 Web Application
+  Integration during the timetabled sessions on Mon, Tues and Thurs - when you
+  can have a quick chat with me at an appropriate point.  "
 research_group: Digital Health and Wellbeing
 research_themes:
   - Web Design and Development
