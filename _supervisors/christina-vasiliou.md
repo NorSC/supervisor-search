@@ -11,7 +11,7 @@ office_hours: >
   Tuesday 10.00-12.00 am
 
 
-  You can also contact me via email to arrange a meeting outside of the above hours.
+  You can also contact me via email to arrange a meeting outside the above hours.
 
   I will be on campus w/c 27th September on Monday, Tuesday and Thursday.
 research_group: Northumbria Social Computing
