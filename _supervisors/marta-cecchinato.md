@@ -4,7 +4,10 @@ title: Marta Cecchinato
 available: true
 email: marta.cecchinato@northumbria.ac.uk
 website: http://www.cecchinato.me/
-office_hours: "Please email me to arrange a time to meet. "
+office_hours: >-
+  My office hours are Mondays 12-1pm and Wednesday 12-1pm. 
+
+  Please email me to arrange a time to meet outside of these times or for a link to a Teams meeting. 
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
@@ -36,8 +39,8 @@ technologies_languages:
   - User Stories
   - Use Case
 additional_details: >-
-  I have two broad research interests within the field of HCI and would love to
-  supervise projects in this space: **Future of Work** and **Digital
+  I have two broad research interests within the field of **HCI** and would love
+  to supervise projects in this space: **Future of Work** and **Digital
   Wellbeing**. I'm also particularly interested in **Equality and Diversity
   issues** that cut across these themes. Below are some of the projects I am
   hoping to supervise, but please get in touch if you have a project idea that
@@ -71,10 +74,7 @@ additional_details: >-
   Women generally earn less than men in many labour contexts. Women are also often disadvantaged in career progression compared to men as a result of the inequalities around unpaid labour, such as housework and childcare. The growing gig economy allows for more flexible ways of working, especially in remote ways, and this can open more possibilities for women to work around other commitments. However, recent studies have shown there are gender differences in pricing strategies for online labour: women generally ask for less money than men. Work by Foong et al. ([2018](https://dl.acm.org/doi/pdf/10.1145/3274322) and [2021](http://www.eurekafoong.com/documents/foong_gerber_chi2021_genderpricing.pdf)) has identified a number of future directions to further address these inequalities, such as creating 'gig literacies', develop new socio-technical interventions, and off-platform design interventions. This project could further investigate gender inequalities in gig platforms and payment structures, or develop and evaluate new solutions that minimise such inequalities. I'm also open to discuss broader topics around gender issues in new forms of work.
 
 
-   
-
-
   For a broader view of my research interests and what I work on, [have a look at my publications](https://scholar.google.com/citations?hl=en&user=FkS0CT8AAAAJ&view_op=list_works&sortby=pubdate).\
 
-  Get in touch if any of the above ideas excite you or have sparked a new idea for a project you would like to discuss with me.
+  Get in touch if any of the above ideas excite you or have sparked a new idea for a **Human-Computer Interaction project** you would like to discuss with me.
 ---
