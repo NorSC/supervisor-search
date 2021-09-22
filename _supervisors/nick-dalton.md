@@ -4,9 +4,11 @@ title: Nick Dalton
 available: true
 email: nick.dalton@northumbria.ac.uk
 website: http://www.thepurehands.org/sheep/index.html
-office_hours: |-
-  To book time with me. 
-  https://calendly.com/nick-dalton/
+office_hours: I will be available in my office (CIS304) on Monday 27
+  11:00-12:00  Tuesdays 28 13:00-14:00 or via Teams.  You can also contact me
+  via email to arrange an appointment outside these times and I will be on
+  campus w/c 27th September on Monday, Tuesday or To book time with
+  me   https://calendly.com/nick-dalton/
 research_group: Northumbria Social Computing
 research_themes:
   - Mobile Computing
