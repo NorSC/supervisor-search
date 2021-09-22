@@ -5,9 +5,15 @@ available: true
 email: marta.cecchinato@northumbria.ac.uk
 website: http://www.cecchinato.me/
 office_hours: >-
-  My office hours are Mondays 12-1pm and Wednesday 12-1pm. 
+  There are two hours per week reserved for open office hours where students can
+  book to see me either online or in person. These are: 
 
-  Please email me to arrange a time to meet outside of these times or for a link to a Teams meeting. 
+  1. Monday 12-1 pm, 
+
+  2. Wednesday 12-1pm.
+
+
+  Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams.
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
