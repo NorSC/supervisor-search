@@ -6,7 +6,7 @@ email: rafay.ansari@northumbria.ac.uk
 office_hours: >-
   Available for meeting on Teams.
 
-  Available at the Office on Monday 27th September 2021 10 00 to 12 00. We can also arrange face to face meetings for other days in the week starting 27th September 2021
+  Available at the Office CIS 105 on Monday 27th September 2021 10 00 to 12 00. We can also arrange face to face meetings for other days in the week starting 27th September 2021
 research_group: Cyber Security and Network Systems
 research_themes:
   - Computer Networks
