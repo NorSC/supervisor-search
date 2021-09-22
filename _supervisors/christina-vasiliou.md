@@ -6,8 +6,11 @@ email: christina.vasiliou@northumbria.ac.uk
 office_hours: >
   Office: ELB113
 
-  Office Hours: Monday 10.00-11.00 am
-                        Tuesday 10.00-12.00 am
+  Monday 10.00-11.00 am
+
+  Tuesday 10.00-12.00 am
+
+
   You can also contact me via email to arrange a meeting outside of the above hours.
 
   I will be on campus w/c 27th September on Monday, Tuesday and Thursday.
