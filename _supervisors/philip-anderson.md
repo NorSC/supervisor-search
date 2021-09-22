@@ -3,7 +3,9 @@ layout: supervisor
 title: Philip Anderson
 available: true
 email: philip.anderson@northumbria.ac.uk
-office_hours: "To be confirmed - please email for an appointment in the meantime. "
+office_hours: "I will be available in my office on Tuesday 28th September
+  11:00-13:00 and on Thursday 30th September 11:00-13:00. You can also contact
+  me via email to arrange an appointment outside these times. "
 research_group: Cyber Security and Network Systems
 research_themes:
   - Digital Forensics
