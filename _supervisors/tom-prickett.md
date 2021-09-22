@@ -5,8 +5,9 @@ available: true
 email: Tom.prickett@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/p/tom-prickett/
 office_hours: >-
-  Varies from week to week. Feel free to send me an an email with some idea of
-  when you are free and very happy to arrange a time for a conversation. 
+  I will be available in my office on Monday from 10-12am. Alternatively, feel
+  free to send me an an email with some idea of when you are free and very happy
+  to arrange a time for a conversation. 
 
 
   Please note I work part time for Northumbria Monday-Thursday.
