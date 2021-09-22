@@ -4,8 +4,9 @@ title: Dirk van der Linden
 available: true
 email: dirk.vanderlinden@northumbria.ac.uk
 website: www.profdirk.com
-office_hours: To be confirmed; for KV6003 please contact me via MS Teams to
-  discuss project ideas
+office_hours: I will be available in my office (CIS 305) on Wednesday the 29th
+  of September 11am-noon and 1pm-2pm to discuss. You can also contact me via
+  email or Teams to arrange an appointment outside these times.
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
