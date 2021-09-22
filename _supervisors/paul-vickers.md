@@ -4,7 +4,10 @@ title: Paul Vickers
 available: true
 email: paul.vickers@northumbria.ac.uk
 website: https://paulvickers.github.io/
-office_hours: TBC, but you can contact me by email or Teams if I am not in my office.
+office_hours: I will be available in my office on Monday 2th September 1.30–2.30
+  pm and on Thursday 30th September 11.00–12.00. You can also contact me via
+  email to arrange an appointment outside these times and I will be on campus
+  w/c 27th September on Monday, Tuesday, and Thursday.”
 research_group: Northumbria Social Computing
 research_themes:
   - Sonification and Auditory Display
