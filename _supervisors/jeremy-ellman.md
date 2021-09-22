@@ -26,6 +26,12 @@ technologies_languages:
   - Python
   - Android
 additional_details: >-
+  ### General Comment:
+
+
+  These project ideas are challenging. Don't let that put you off. Generally a fair attempt at a hard project will do better than the same effort applied to some idea which is well understood. Ask for further details....
+
+
   ### Natural Language Processing (NLP)
 
 
@@ -54,4 +60,22 @@ additional_details: >-
 
 
   Did you know that to apply SQL to Data Frames, the Pandas SQL module actually writes the dataframe to a csv file,  processes the query in SQLite, and reads the results back in -- for each query! Can you do better?
+
+
+  **4) Theoretical Basis for Differing standard Machine Learning Algorithms' Performance**
+
+
+  It's common knowledge that some ML algos (e.g in Scikit-learn) perform better with some data sets than others, but why is that? Can we predict from the dataset distribution which ML algorithm would likely lead to better performance
+
+
+  **5) Transformer predictions of violent crimes using time series**
+
+
+  The level of violent crime can be predicted using statistical time series models. Can a transformer model do better? Application of transformers to time series is a hot research topic.
+
+
+  **6) GANS!**
+
+
+  I'd be very interested to hear any ideas you have for GANS (Generative , Adversarial networks)
 ---
