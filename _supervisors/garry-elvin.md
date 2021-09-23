@@ -5,8 +5,8 @@ available: true
 email: garry.elvin@northumbria.ac.uk
 website: ""
 office_hours: >-
-  Available on Monday, Thursday PM and Friday AM in the w/c the 27th of
-  September and potentially other times via MS Teams. 
+  Available at 13:00-14:00 Tuesday and 13:00-14:00 Wednesday in the w/c the 27th
+  of September and potentially other times via MS Teams for project discussion.
 
 
   Please email me to arrange a time. I'm keen to hear from you.
