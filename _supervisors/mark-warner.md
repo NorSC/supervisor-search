@@ -4,8 +4,8 @@ title: Mark Warner
 available: true
 email: mark.warner@northumbria.ac.uk
 office_hours: |-
-  Monday 10am - 11am
   Tuesday 1pm - 2pm 
+  Friday 11am- 12pm
 research_group: Northumbria Social Computing
 research_themes:
   - Data Privacy
