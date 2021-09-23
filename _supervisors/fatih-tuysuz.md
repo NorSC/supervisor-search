@@ -4,11 +4,13 @@ title: Fatih Tuysuz
 available: true
 email: fatih.tuysuz@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/t/fatih-tuysuz/
-office_hours: |-
+office_hours: >-
   Wednesdays - 13:00 - 14:30
+
   Thursdays - 13:00 - 14.30 
 
-  Ellison B114, or contact me by email to arrange an appointment.
+
+  I will be available in my office on Wednesday 29th September 1-2.30 pm and on Thursday 30th September 1-2.30pm. You can also contact me via email to arrange an appointment outside these times.
 research_group: Cyber Security and Network Systems
 research_themes:
   - Computer Networks
