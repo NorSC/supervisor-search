@@ -5,7 +5,7 @@ available: true
 email: martyn.amos@northumbria.ac.uk
 website: http://www.martynamos.org
 office_hours: >
-  Monday: 12:00-13:00.
+  Monday: 11-12.
 
   Tuesday: 11-12.
 
