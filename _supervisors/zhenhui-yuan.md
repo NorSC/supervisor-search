@@ -4,8 +4,11 @@ title: Zhenhui Yuan
 available: true
 email: zhenhui.yuan@northumbria.ac.uk
 website: http://zhenhuiyuan.com/
-office_hours: 1pm-4pm Thursday on campus in the Ellison building room 105 (I’m
-  teaching in the CIS building from 4p-6pm)
+office_hours: >-
+  1pm-4pm Thursday on campus in the Ellison building room 105 (I’m teaching in
+  the CIS building from 4p-6pm).
+
+  If the time is conflict with yours, we can setup a different slot. 
 research_group: Cyber Security and Network Systems
 research_themes:
   - Computer Networks
