@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Paul Vickers
-available: true
+available: false
 email: paul.vickers@northumbria.ac.uk
 website: https://paulvickers.github.io/
 office_hours: I will be available in my office on Monday 2th September 1.30–2.30
