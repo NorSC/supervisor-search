@@ -3,7 +3,8 @@ layout: supervisor
 title: Zeeshan Siddiqui
 available: true
 email: zeeshan.siddiqui@northumbria.ac.uk
-office_hours: Can be arranged through email anytime during normal working days/hours.
+office_hours: Available every Monday from 14:00 to 16:00. For further inquiries
+  or arrangements, please contact me through email.
 research_group: Cyber Security and Network Systems
 research_themes:
   - Cyber Security
