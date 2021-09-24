@@ -34,21 +34,21 @@ additional_details: >-
   For the purpose of inspiration, I’m sharing three research areas below.
 
 
-  **Area 1: Multimedia streaming**
+  **Area 1: 4K/VR streaming**
 
   open questions: *how is a 4K movie streamed from Netflix cloud to your mobile? What is the standard video streaming protocol being used Internet? What may happen if the network is poor, e.g. you are on the motor way?* 
 
   A project on multimedia streaming will learn and investigate the performance of variable streaming protocols. Simulations or real-world tests could be developed to study the quality-of-service or quality-of-experience of different streaming protocols in terms of devices, mobility, video quality, etc.
 
 
-  **Area 2: Vehicular communications**
+  **Area 2: Communications of Self-driving cars/Drones**
 
   open questions: *How can 5G network help self-driving cars? How to ensure a swarm of UAVs communicate with each other timely and accurately? What are the benefits from vehicle-to-vehicle communications?*
 
   A project on vehicular communications focuses on the methodologies to interconnect a vehicle with other vehicles, road-side unit, edge, cloud, pedestrians, cyclists and so on. The concept of vehicle is broad including UAVs, robotic rovers, self-driving cars, and underwater vehicles. These vehicles can be used in many applications such as delivery, search and rescue, and sensor data collection. You will design and develop a tailored network for a specific vehicle and prove that your network can satisfy the application’s network demands. 
 
 
-  **Area 3: Network protocols and control functions**
+  **Area 3: Internet protocols and control functions**
 
   open questions: *Why does Apple use multipath TCP in Siri and Apple maps? Why does Netflix use TCP to stream video instead of UDP? Why does Google Chrome use QUIC protocol? Which routing protocol do you recommend for a team of robotic rovers on Mars? What would be the challenges when you have one UAV to collect data from one thousand sensors on the farm?*
 
