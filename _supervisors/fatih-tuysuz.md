@@ -61,9 +61,15 @@ additional_details: >-
 
   * Wi-Fi sharing based on crypto-currency payments
 
+  * Omnibus Networking: Transporting offline people's data over vehicles 
+
+  * Prediction-based Haptic communications with near-zero latency  
+
+  * Optimal job splitting/combining over wireless networks
+
   * Edge computing based energy-efficient wireless communication
 
   * Browser extension for network monitoring and analysis
 
-  *  Intelligent transportation through edge and D2D communication
+  * Intelligent transportation through edge and D2D communication
 ---
