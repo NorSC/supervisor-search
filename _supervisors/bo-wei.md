@@ -5,7 +5,7 @@ available: true
 email: bo.wei@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/bo-wei/
 office_hours: |-
-  Friday 3 pm-5 pm. 
+  Tue 10am-12pm
   You can also make an appointment by email if you would like to have a meeting.
 research_group: Computer Vision and Natural Computing
 research_themes:
