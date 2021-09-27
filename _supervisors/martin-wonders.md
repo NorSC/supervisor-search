@@ -4,7 +4,7 @@ title: Martin Wonders
 available: true
 email: martin.wonders@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/martin-wonders/
-office_hours: Mondays 15:00 - 16:00 and Wednesdays 13:00 - 14:00.
+office_hours: Tuesdays 13:00 - 14:00 and Wednesdays 13:00 - 14:00.
 research_group: Intelligent Systems Research Group
 research_themes:
   - Deep Learning
