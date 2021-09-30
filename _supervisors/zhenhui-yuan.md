@@ -3,7 +3,7 @@ layout: supervisor
 title: Zhenhui Yuan
 available: true
 email: zhenhui.yuan@northumbria.ac.uk
-website: http://zhenhuiyuan.com/
+website: http://www.zhenhuiyuan.co.uk
 office_hours: >-
   1pm-4pm Thursday on campus in the Ellison building room 105 (I’m teaching in
   the CIS building from 4p-6pm).
@@ -95,5 +95,5 @@ additional_details: >-
 
   If you have any questions, I am just at the other end of this **Email**: zhenhui.yuan@northumbria.ac.uk.
 
-  My previous projects and **YouTube demos**: [www.zhenhuiyuan.com](www.zhenhuiyuan.com)
+  My previous projects and **YouTube demos**: http://www.zhenhuiyuan.co.uk[](www.zhenhuiyuan.com)
 ---
