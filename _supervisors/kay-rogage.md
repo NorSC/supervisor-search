@@ -4,7 +4,7 @@ title: Kay Rogage
 available: true
 email: k.rogage@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/r/kay-rogage/
-office_hours: "Mon-Fri 9-5 but available in my office CIS 302 Tues 10-12 and Weds 3-5. "
+office_hours: "Mon-Fri 9-5 but available in my office CIS 302 Tues 12-1 and Weds 11-12. "
 research_group: Northumbria Social Computing
 research_themes:
   - Internet of Things
