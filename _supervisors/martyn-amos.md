@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Martyn Amos
-available: true
+available: false
 email: martyn.amos@northumbria.ac.uk
 website: http://www.martynamos.org
 office_hours: >
