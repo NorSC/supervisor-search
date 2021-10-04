@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Emma Anderson
-available: true
+available: false
 email: emma.anderson2@northumbria.ac.uk
 office_hours: I will be available in my office ELA 118 on Monday 27th September
   1-2pm and on Wednesday 29th September 10-11am. You can also contact me via
