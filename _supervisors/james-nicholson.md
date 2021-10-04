@@ -1,9 +1,10 @@
 ---
 layout: supervisor
 title: James Nicholson
-available: true
+available: false
 email: james.nicholson@northumbria.ac.uk
 website: https://jjnc.xyz
+office_hours: Mon-Fri
 research_group: Northumbria Social Computing
 research_themes:
   - Digital Forensics
