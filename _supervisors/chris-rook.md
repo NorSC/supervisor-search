@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Chris Rook
-available: true
+available: false
 email: c.rook@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/r/chris-rook/
 office_hours: Tuesday-Fridays in Ellison B119, or contact me by email to arrange
