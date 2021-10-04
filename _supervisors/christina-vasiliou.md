@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Christina Vasiliou
-available: true
+available: false
 email: christina.vasiliou@northumbria.ac.uk
 office_hours: >
   Office: ELB113
