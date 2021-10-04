@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Dirk van der Linden
-available: true
+available: false
 email: dirk.vanderlinden@northumbria.ac.uk
 website: www.profdirk.com
 office_hours: I will be available in my office (CIS 305) on Wednesday the 29th
