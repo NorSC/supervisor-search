@@ -7,7 +7,7 @@ website: https://www.northumbria.ac.uk/about-us/our-staff/m/abbas-mehrabidavooda
 office_hours: Students can arrange a meeting with me during the week days (it
   will be discussed to be either MS Teams or Campus room) by contacting me
   beforehand viva my email address
-research_group: Computer Vision and Natural Computing
+research_group: Cyber Security and Network Systems
 research_themes:
   - Internet of Things
   - Web Design and Development
