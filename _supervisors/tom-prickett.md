@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Tom Prickett
-available: true
+available: false
 email: Tom.prickett@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/p/tom-prickett/
 office_hours: >-
