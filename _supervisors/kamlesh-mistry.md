@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Kamlesh Mistry
-available: true
+available: false
 email: k.mistry@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/m/kamlesh-mistry/
 office_hours: "Weekdays: 9 am to 5 pm."
