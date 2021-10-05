@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Bo Wei
-available: true
+available: false
 email: bo.wei@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/bo-wei/
 office_hours: |-
@@ -27,6 +27,11 @@ technologies_languages:
   - TensorFlow
   - Python
 additional_details: >-
+  Not available anymore. Places are occupied. 
+
+
+
+
   Several postential topics:
 
 
