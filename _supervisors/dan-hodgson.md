@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Dan Hodgson
-available: true
+available: false
 email: dan.hodgson@northumbria.ac.uk
 office_hours: >-
   On-campus teaching Mon, Wed, Thurs, mostly working at home Tues and Fri
