@@ -1,15 +1,15 @@
 ---
 layout: supervisor
 title: Jeremy Ellman
-available: true
+available: false
 email: jeremy.ellman@northumbria.ac.uk
 website: http://unn-izje1.newnumyspace.co.uk/dv6/drupal-7.58/
 office_hours: >-
-  Weds: 09:00-11:00, Friday: 09:00-11:00 (as of 22/09/21). But email anytime and
+  Tues: 15:00-16:00, Thurs: 10:00-11:00 (as of 05/10/21). But email anytime and
   put 'KV6003 Project' in the subject.
 
 
-  Meetings will actually happen in 'The Hub' next the office as EB211 is crowded. Since this is an open area a mask will be required.
+  Meetings will actually happen in 'The Hub' next the office as EB211 is crowded. Since The Hub is an open area a mask will be required.
 research_group: Intelligent Systems Research Group
 research_themes:
   - Artificial Intelligence
@@ -77,5 +77,5 @@ additional_details: >-
   **6) GANS!**
 
 
-  I'd be very interested to hear any ideas you have for GANS (Generative , Adversarial networks)
+  I'd be very interested to hear any ideas you have for GANS (Generative, Adversarial networks)
 ---
