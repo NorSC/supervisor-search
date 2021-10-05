@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Nick Dalton
-available: true
+available: false
 email: nick.dalton@northumbria.ac.uk
 website: http://www.thepurehands.org/sheep/index.html
 office_hours: I will be available in my office (CIS304) on Monday 27
