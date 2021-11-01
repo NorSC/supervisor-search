@@ -11,7 +11,7 @@ office_hours: >
 
   I'll also have open office hours on campus (CIS303) specifically for project discussions.
 
-  29/09/2021 - 9:00 – 11:00 
+  29/09/2021 - 9:00 – 11:00  
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
