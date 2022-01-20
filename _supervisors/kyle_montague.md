@@ -4,14 +4,8 @@ title: Kyle Montague
 available: true
 email: kyle.montague@northumbria.ac.uk
 website: https://www.kylemontague.co.uk/
-office_hours: >
-  I generally work Monday-Friday 9:00-17:00. Happy to meet online via MS Teams
-  or meet on campus in my office CIS303. Please email and make an appointment. 
-
-
-  I'll also have open office hours on campus (CIS303) specifically for project discussions.
-
-  29/09/2021 - 9:00 – 11:00  
+office_hours: |
+  Wednesday 9-11am in CIS Building Room 303
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
