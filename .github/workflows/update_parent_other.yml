@@ -1,0 +1,28 @@
+name: Send submodule updates to parent repo
+
+on:
+  push:
+    branches: 
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with: 
+          repository: not-dalia/projectsearch_website_other
+          token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
+
+      - name: Pull & update submodule
+        run: |
+          git submodule update --init --recursive
+          git submodule update --remote --merge --recursive
+      - name: Commit
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions - update submodules"
+          git add --all
+          git commit -m "Update submodules" || echo "No changes to commit"
+          git push
