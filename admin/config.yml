@@ -17,10 +17,18 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'supervisor' }
       - { label: 'Name', name: 'title', widget: 'string' }
-      - label: Availabile for supervision
+      - label: Accepting BSc Students
         name: available
         widget: boolean
         default: true
+      - label: Accepting MSc Students
+        name: available_msc
+        widget: boolean
+        default: false
+      - label: Accepting PhD Students
+        name: available_phd
+        widget: boolean
+        default: false
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Website", name: "website", widget: "string", required: false}
       - {label: "Office Hours", name: "office_hours", widget: "text", required: true}
@@ -67,7 +75,9 @@ collections:
         multiple: true
         min: 1
         optionsLength: 1000
-      - {label: "Additional Details", name: "additional_details", widget: "markdown", required: false, editor_components: []}
+      - {label: "Additional Details (for BSc students)", name: "additional_details", widget: "markdown", required: false, editor_components: []}
+      - {label: "Additional Details (for MSc students)", name: "additional_details_msc", widget: "markdown", required: false, editor_components: []}
+      - {label: "Additional Details (for PhD students)", name: "additional_details_phd", widget: "markdown", required: false, editor_components: []}
 
   - name: 'form_data'
     label: 'Form Data'
