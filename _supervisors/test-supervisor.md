@@ -2,7 +2,7 @@
 layout: supervisor
 title: Test Supervisor
 available: true
-available_msc: true
+available_msc: false
 available_phd: false
 email: test@example.com
 office_hours: Wednesdays, 10:00-14:00
