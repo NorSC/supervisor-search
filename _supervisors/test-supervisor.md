@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Test Supervisor
-available: true
+available: false
 available_msc: false
 available_phd: false
 email: test@example.com
