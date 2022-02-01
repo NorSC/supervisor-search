@@ -3,7 +3,7 @@ layout: supervisor
 title: Test Supervisor
 available: true
 available_msc: true
-available_phd: true
+available_phd: false
 email: test@example.com
 office_hours: Wednesdays, 10:00-14:00
 research_group: Northumbria Social Computing
