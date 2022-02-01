@@ -3,7 +3,7 @@ layout: supervisor
 title: Fouad Khelifi
 available: true
 available_msc: true
-available_phd: false
+available_phd: true
 email: fouad.khelifi@northumbria.ac.uk
 office_hours: "Students can email me anytime to arrange a meeting. "
 research_group: Intelligent Systems Research Group
