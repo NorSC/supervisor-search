@@ -2,6 +2,8 @@
 layout: supervisor
 title: Fouad Khelifi
 available: true
+available_msc: true
+available_phd: false
 email: fouad.khelifi@northumbria.ac.uk
 office_hours: "Students can email me anytime to arrange a meeting. "
 research_group: Intelligent Systems Research Group
@@ -22,4 +24,5 @@ technologies_languages:
 additional_details: Perceptual Image/Video hashing, Steganography, Digital
   watermarking, data hiding, Biometrics, medical image analysis matlab, image
   forensics.
+additional_details_phd: List of PhD Topics that I will supervise.
 ---
