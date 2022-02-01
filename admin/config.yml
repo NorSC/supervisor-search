@@ -21,14 +21,17 @@ collections:
         name: available
         widget: boolean
         default: true
+        required: false
       - label: Accepting MSc Students
         name: available_msc
         widget: boolean
         default: false
+        required: false
       - label: Accepting PhD Students
         name: available_phd
         widget: boolean
         default: false
+        required: false
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Website", name: "website", widget: "string", required: false}
       - {label: "Office Hours", name: "office_hours", widget: "text", required: true}
