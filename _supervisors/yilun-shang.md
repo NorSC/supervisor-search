@@ -2,12 +2,13 @@
 layout: supervisor
 title: Yilun Shang
 available: true
+available_msc: true
+available_phd: true
 email: yilun.shang@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/s/yilun-shang/
 office_hours: |-
   ELB 206
-  Wednesday 12:00-13:00
-  Friday 15:00-16:00
+  Wednesday 11:00-13:30
 
   You can also contact me through email or MS Teams any time.
 research_group: Computer Vision and Natural Computing
@@ -64,4 +65,32 @@ additional_details: >-
 
 
   'A deconstruction of the negative views surrounding loot boxes in the video game industry'
+additional_details_msc: >-
+  I am interested in supervising projects primarily in data science including
+  the areas of data analysis, data visualisation, and information retrieval. My
+  research interest resides in complex networks and systems.
+
+
+  Some of my past msc project titles:
+
+
+  'Fake news detection using machine learning'
+
+
+  'Walking sticks with heart attack detection'
+
+
+  'Green cloud computing achieving environmental sustainability'
+
+
+  'An improved payroll management system'
+
+
+  'Research on the impact of internet of things in education sector'
+
+
+  'Student information system with the integration of cloud'
+
+
+  'Neural networks and cyber fraud detection algorithms'
 ---
