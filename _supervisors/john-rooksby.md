@@ -17,12 +17,31 @@ additional_keywords:
   - Public Health
   - Serious Games
   - Human-Data Interaction
+  - Health Informatics
+  - Applied Programming
+  - Qualitative Methods
+  - Web Services
+  - User Centred Design
 technologies_languages:
   - JavaScript
   - PHP
   - ReactNative
   - TypeScript
   - Laravel
+  - Vue.js
+  - Personas
+  - Interviews
+  - Amazon Web Services (AWS)
+  - Node.js
+  - Modern Web
+  - HTML/CSS
+  - SQL
+  - Angular
+  - Bash/Shell
+  - Rust
+  - Python
+  - NoSQL
+  - Spring
 additional_details: >-
   I am happy to discuss ideas related to:
 
