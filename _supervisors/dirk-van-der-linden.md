@@ -2,6 +2,8 @@
 layout: supervisor
 title: Dirk van der Linden
 available: false
+available_msc: false
+available_phd: true
 email: dirk.vanderlinden@northumbria.ac.uk
 website: www.profdirk.com
 office_hours: I will be available in my office (CIS 305) on Wednesday the 29th
@@ -54,5 +56,5 @@ additional_details: >-
   "**Privacy in the Internet of Pets**: investigate privacy aspects that arise as a result of the increasing use of technology for animals with pets; potentially propose design artifacts to better steer privacy concerns; investigate how trade-offs between user requirements and data collection may skew towards business interests and establish a significant information asymmetry; investigate the pet health/food business ecosystem to determine to what extent animal data is used for non-trivial purposes"*
 
 
-  \* FYI, a student last year worked on a related pet privacy project designing privacy labels for dog technologies, which was published in the Int. Conf. on Animal-Computer Interaction, [see here for the published version of their project](https://researchportal.northumbria.ac.uk/en/publications/privacy-labels-should-go-to-the-dogs)
+  \* FYI, a recent student worked on a related pet privacy project designing privacy labels for dog technologies, which was published in the Int. Conf. on Animal-Computer Interaction, [see here for the published version of their project](https://researchportal.northumbria.ac.uk/en/publications/privacy-labels-should-go-to-the-dogs)
 ---
