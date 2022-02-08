@@ -6,9 +6,7 @@ available_msc: false
 available_phd: true
 email: dirk.vanderlinden@northumbria.ac.uk
 website: www.profdirk.com
-office_hours: I will be available in my office (CIS 305) on Wednesday the 29th
-  of September 11am-noon and 1pm-2pm to discuss. You can also contact me via
-  email or Teams to arrange an appointment outside these times.
+office_hours: Tuesdays 09:00-11:00 in CIS 305.
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
@@ -44,7 +42,7 @@ additional_details: >-
   I am happy to discuss any project ideas you might already have in this domain and work with you on finding something that fits with your interests and ambitions. For inspiration, some rough project/topic ideas that I would also be interested in working on with students are below, these would also require your own interpretation and further definition:
 
 
-  **"DuoLingo, but for animal behavior:** developing a DuoLingo style learning platform (web or app) in collaboration with dog behavioral experts to teach dog owners what particular dog behaviors and movements mean in order to increase responsible pet ownership. Go through the UCD process, work with veterinarians to design a prototype of such a system and ideally also implement a functioning prototype which can be gradually extended with more learning materials. HCI and development skills would be a perfect combination."
+  **"DuoLingo, but for animal behavior:** developing a DuoLingo style learning platform (web or app) in collaboration with dog behavioral experts to teach dog owners what particular dog behaviors and movements mean in order to increase responsible pet ownership. Go through the UCD process, work with veterinarians to design a prototype of such a system and ideally also implement a functioning prototype which can be gradually extended with more learning materials. HCI and development skills would be a perfect combination. Can also consider other (companion) animal species!"
 
 
   "**Effective interspecies nudging for dog owners:** investigate how dog activity and health monitors like FitBark and PetPace work, how quantified pet data can be used to steer pet owners towards responsible actions (e.g., appropriate diets, activity levels, cognitive enrichment), design interspecies behavioral nudges that could be integrated into such technology, and conduct experimental work to assess their efficiency. HCI and strong research/experimental skills would be a perfect combination."
