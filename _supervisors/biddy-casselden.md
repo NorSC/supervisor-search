@@ -27,6 +27,7 @@ additional_details_msc: >-
   education, digital poverty
 
 
+  Technique: qualitative research, mixed methods research
 
 
   My discipline is information and library management, and I am a chartered librarian in addition to working as an academic.  To find out more about my previous research see my [Research Portal information](https://researchportal.northumbria.ac.uk/en/persons/biddy-casselden). I am particularly interested in the following areas as possible Master's level research topics:
@@ -36,8 +37,6 @@ additional_details_msc: >-
 
 
   Additional keywords: digital literacy, digital inclusion, social inclusion, information literacy, green knowledge, decolonising, pedagogic aspects, higher education, digital poverty
-
-
 
 
   My discipline is information and library management, and I am a chartered librarian in addition to working as an academic.  I have strong links with the Library and information profession and lots of contacts.  To find out more about my previous research see my [Research Portal information](https://researchportal.northumbria.ac.uk/en/persons/biddy-casselden). I am particularly interested in the following areas as possible Master's level research topics:
