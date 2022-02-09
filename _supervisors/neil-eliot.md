@@ -30,7 +30,12 @@ technologies_languages:
   - Java
   - Python
   - Bash/Shell
-additional_details: My main research interest is in particle-based systems -
-  specifically the simulation of swarms and designing new models to create
-  exploitable emergent behaviours.
+additional_details: >-
+  My main research interest is in particle-based systems - specifically the
+  simulation of swarms and designing new models to create exploitable emergent
+  behaviours and using Machine Learning optimisation techniques such as
+  GA's,  FireFly algorithm, and PSO to improve swarm stability. 
+
+
+  I have also worked on similarity detection algorithms (based on DNA matching) as part of the work I carried out in JISCPAS looking at plagiarism detection and I am interested in incorporating Machine Learning optimisation techniques such as GA's,  FireFly algorithm, and PSO to improve document analysis, tokenization and detection.
 ---
