@@ -2,6 +2,7 @@
 layout: supervisor
 title: Neil Eliot
 available: true
+available_phd: true
 email: neil.eliot@northumbria.ac.uk
 office_hours: >-
   I work full time. There are two hours per week reserved for open office hours
