@@ -3,9 +3,7 @@ layout: supervisor
 title: Ossama Alshabrawy
 available: true
 email: ossama.alshabrawy@northumbria.ac.uk
-office_hours: |-
-  13.30 - 14.30 on Thursdays.
-  13.30 - 14.30 on Wednesdays.
+office_hours: Tuesday 13:00 - 15:00
 research_group: Digital Health and Wellbeing
 research_themes:
   - Digital Health and Wellbeing
