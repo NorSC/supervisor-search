@@ -61,4 +61,9 @@ additional_details: >-
 
 
   Spiking neural networks.
+
+
+
+
+  Programming languages: C/C++, Python, Matlab
 ---
