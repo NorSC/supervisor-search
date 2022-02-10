@@ -65,5 +65,5 @@ additional_details: >-
 
 
 
-  Programming languages: C/C++, Java, Python, Matlab
+  **Programming languages:** C/C++, Java, Python, Matlab
 ---
