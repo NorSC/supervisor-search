@@ -2,9 +2,10 @@
 layout: supervisor
 title: Ammar Belatreche
 available: true
+available_msc: true
 email: ammar.belatreche@northumbria.ac.uk
-office_hours: "TBC - you can email me anytime to arrange a meeting online via Ms
-  Teams or in person (my office is ELB 205) "
+office_hours: "You can email me anytime to arrange a meeting online via Ms Teams
+  or in person (my office is ELB 205). "
 research_group: Intelligent Systems Research Group
 research_themes:
   - Artificial Intelligence
