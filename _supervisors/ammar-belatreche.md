@@ -52,4 +52,13 @@ additional_details: >-
 
 
   Cyberbullying detection using machine learning
+
+
+  Bio-inspired computing
+
+
+  Biologically plausible neural networks
+
+
+  Spiking neural networks.
 ---
