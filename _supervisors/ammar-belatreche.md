@@ -3,6 +3,7 @@ layout: supervisor
 title: Ammar Belatreche
 available: true
 available_msc: true
+available_phd: true
 email: ammar.belatreche@northumbria.ac.uk
 office_hours: "You can email me anytime to arrange a meeting online via Ms Teams
   or in person (my office is ELB 205). "
