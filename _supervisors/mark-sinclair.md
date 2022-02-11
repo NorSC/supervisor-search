@@ -23,6 +23,8 @@ additional_keywords:
   - Serious Games
 technologies_languages:
   - Java
+  - C++
+  - Python
 additional_details: >-
   **Generation and solution of Nonogram puzzles**
 
