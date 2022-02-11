@@ -24,6 +24,12 @@ additional_keywords:
 technologies_languages:
   - Java
 additional_details: >-
+  **Generation and solution of Nonogram puzzles**
+
+
+  Nonograms (also called Hanjie) are grid puzzles where the sizes of the runs of contiguous black cells in each row and column are given, and the player must gradually draw black cells in the grid without violating the given number constraints until the grid is complete (and a picture emerges).  This project will investigate the generation and solution of nonograms by algorithmic means, employing metaheuristics such as genetic algorithms if necessary for the solution of larger puzzles.  There would be some potential for publication of a successful project.
+
+
   **Genetic programming approaches to the solution of Sokoban puzzles**
 
 
@@ -65,6 +71,12 @@ additional_details: >-
 
   An interesting naturally-inspired algorithm for the solution of continuous optimisation problems is the bat algorithm, inspired by the prey pursuit behaviour of flocks of bats feeding on airborne insects.  The algorithm blends elements of particle swarm optimisation and simulated annealing.  The aim of the project would be to adapt and develop the bat algorithm (as has already been attempted by some authors) to tackle combinatorial optimisation problems, as well as establishing how competitive the resulting algorithms is with, say, genetic algorithms on suitable problem benchmarks.  There would be some potential for publication of a successful project.
 additional_details_msc: >-
+  **Generation and solution of Nonogram puzzles**
+
+
+  Nonograms (also called Hanjie) are grid puzzles where the sizes of the runs of contiguous black cells in each row and column are given, and the player must gradually draw black cells in the grid without violating the given number constraints until the grid is complete (and a picture emerges).  This project will investigate the generation and solution of nonograms by algorithmic means, employing metaheuristics such as genetic algorithms if necessary for the solution of larger puzzles.  There would be some potential for publication of a successful project.
+
+
   **Genetic programming approaches to the solution of Sokoban puzzles**
 
 
