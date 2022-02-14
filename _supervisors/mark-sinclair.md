@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Mark Sinclair
-available: false
+available: true
 available_msc: true
 available_phd: true
 email: mark.sinclair@northumbria.ac.uk
