@@ -2,6 +2,7 @@
 layout: supervisor
 title: David Hastings
 available: false
+available_msc: true
 email: david2.hastings@northumbria.ac.uk
 office_hours: |-
   Monday 10:00 - 12:00
@@ -19,7 +20,6 @@ additional_keywords:
   - Decision Making
 technologies_languages:
   - R
-  - Python
 additional_details: >-
   In addition to the subject areas listed in the themes and keywords sections
   above, I have previously supervised projects in the following areas (and would
