@@ -2,6 +2,7 @@
 layout: supervisor
 title: Andy Dow
 available: false
+available_msc: true
 email: andrew.dow@northumbria.ac.uk
 office_hours: I will be available in my office on Monday 27th September 12-1pm
   and on Wednesday 29th September 12-1pm. You can also contact me via email to
