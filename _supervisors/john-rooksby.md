@@ -4,7 +4,7 @@ title: John Rooksby
 available: false
 available_msc: true
 email: john.rooksby@northumbria.ac.uk
-website: johnrooksby.org
+website: https://johnrooksby.org
 office_hours: "Contact me on Teams with questions or if you would like a quick
   chat. My general preference is to hold supervision meetings on Teams. "
 research_group: Digital Health and Wellbeing
