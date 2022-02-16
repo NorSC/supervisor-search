@@ -2,6 +2,7 @@
 layout: supervisor
 title: John Rooksby
 available: false
+available_msc: true
 email: john.rooksby@northumbria.ac.uk
 website: johnrooksby.org
 office_hours: "Contact me on Teams with questions or if you would like a quick
@@ -74,8 +75,8 @@ additional_details: >-
   * Build a web or mobile application for **personal tracking** of expenditure, food, or productivity. You might think about building upon behaviour change techniques or using intervention design methods.
 
   * A game, web app or mobile app that helps students practice **mindfulness** techniques or improve their **wellbeing** (see e.g https://dl.acm.org/doi/10.1145/3025453.3025590 https://dl.acm.org/doi/10.1145/3334480.3382938)
-additional_details_msc: I am happy to supervise projects relating to **web
-  development**. I am also happy to supervise other software development
+additional_details_msc: I am happy to supervise projects relating to mobile and
+  **web development**. I am also happy to supervise other software development
   projects. Suitable topics include **tracking health and wellbeing**,
   developing an **online training tool** (for a topic of your choice), or
   developing some other kind of interactive system.
