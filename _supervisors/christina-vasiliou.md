@@ -4,15 +4,15 @@ title: Christina Vasiliou
 available: false
 email: christina.vasiliou@northumbria.ac.uk
 office_hours: >
-  Office: ELB113
+  Where: ELB113 or Teams
 
-  Monday 11.00-12.00 am
+  Date & Time: 
 
-  Tuesday 10.00-11.00 am
+  Tuesday [11.00-12.00 am]
+
+  Wednesday [11.00-12.00 am]
 
   You can also contact me via email to arrange a meeting outside the above hours.
-
-  I will be on campus w/c 27th September on Monday, Tuesday and Thursday.
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
@@ -48,9 +48,9 @@ additional_details: >-
   design approach in areas (or closely related):
 
 
-  * Designing web and community-based platforms for social engagement, learning and training.
+  * Designing web and community-based platforms for social engagement, learning (formal/informal).
 
-  * Chatbots for mindfulness
+  * Chatbots and Conversational agents in education, learning (formal/informal)
 
 
   I am also open to investigative projects on similar areas or:
@@ -59,4 +59,17 @@ additional_details: >-
   * Understanding online communities and social behaviour
 
   * Understanding group and collaborative behaviour
+additional_details_msc: >-
+  I would be more than happy to supervise projects that focus on or are closely
+  related to the areas of:
+
+
+  * Designing web and community-based platforms for social engagement, learning (formal/informal).
+
+  * Chatbots and Conversational agents in education, learning (formal/informal)
+
+  * Designing collaborative technologies for social change/local impact
+
+
+  If any of these areas are of interest, or you have a similar idea in mind, or you want to work together to specify a project idea, please contact me.
 ---
