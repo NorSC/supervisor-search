@@ -40,7 +40,7 @@ additional_details: >-
 
   **1. Analyzing Body Movements for Cerebral Palsy Prediction**\
 
-  *The pursuit of early diagnosis of cerebral palsy has been an active research area with some very promising results using tools such as the General Movements Assessment (GMA). In this project, we explore the feasibility of extracting pose-based features from video sequences to automatically classify infant body movement into two categories, normal and abnormal. The classification was based upon the GMA, which was carried out on the video data by an independent expert reviewer.*
+  *The pursuit of early diagnosis of cerebral palsy has been an active research area with some very promising results using tools such as the General Movements Assessment (GMA). In this project, we explore the feasibility of extracting pose-based features \[McCay et al. IEEE TNSRE2022, McCay et al. IEEE BHI2021, McCay et al. IEEE EMBC2019] from video sequences to automatically classify infant body movement into two categories, normal and abnormal. The classification was based upon the GMA, which was carried out on the video data by an independent expert reviewer.*
 
 
 
@@ -67,7 +67,7 @@ additional_details_msc: >-
 
   **1. Analyzing Body Movements for Cerebral Palsy Prediction**\
 
-  *The pursuit of early diagnosis of cerebral palsy has been an active research area with some very promising results using tools such as the General Movements Assessment (GMA). In this project, we explore the feasibility of extracting pose-based features from video sequences to automatically classify infant body movement into two categories, normal and abnormal. The classification was based upon the GMA, which was carried out on the video data by an independent expert reviewer.*
+  *The pursuit of early diagnosis of cerebral palsy has been an active research area with some very promising results using tools such as the General Movements Assessment (GMA). In this project, we explore the feasibility of extracting pose-based features \[McCay et al. IEEE TNSRE2022, McCay et al. IEEE BHI2021, McCay et al. IEEE EMBC2019] from video sequences to automatically classify infant body movement into two categories, normal and abnormal. The classification was based upon the GMA, which was carried out on the video data by an independent expert reviewer.*
 
 
 
@@ -94,7 +94,7 @@ additional_details_phd: >-
 
   **1. Analyzing Body Movements for Cerebral Palsy Prediction**\
 
-  *The pursuit of early diagnosis of cerebral palsy has been an active research area with some very promising results using tools such as the General Movements Assessment (GMA). In this project, we explore the feasibility of extracting pose-based features from video sequences to automatically classify infant body movement into two categories, normal and abnormal. The classification was based upon the GMA, which was carried out on the video data by an independent expert reviewer.*
+  *The pursuit of early diagnosis of cerebral palsy has been an active research area with some very promising results using tools such as the General Movements Assessment (GMA). In this project, we explore the feasibility of extracting pose-based features \[McCay et al. IEEE TNSRE2022, McCay et al. IEEE BHI2021, McCay et al. IEEE EMBC2019] from video sequences to automatically classify infant body movement into two categories, normal and abnormal. The classification was based upon the GMA, which was carried out on the video data by an independent expert reviewer.*
 
 
 
