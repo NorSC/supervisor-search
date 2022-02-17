@@ -27,6 +27,7 @@ technologies_languages:
   - Augmented Reality (AR)
   - Virtual Reality (VR)
   - Python
+  - TensorFlow
 additional_details: "Some of my ongoing projects can be found here:
   http://www.edho.net/projects/index.html"
 additional_details_msc: "Some of my ongoing projects can be found here:
