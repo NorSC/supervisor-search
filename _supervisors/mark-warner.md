@@ -1,7 +1,9 @@
 ---
 layout: supervisor
 title: Mark Warner
-available: false
+available: true
+available_msc: true
+available_phd: true
 email: mark.warner@northumbria.ac.uk
 office_hours: |-
   Tuesday 1pm - 2pm 
