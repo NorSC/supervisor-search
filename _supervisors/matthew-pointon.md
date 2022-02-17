@@ -2,6 +2,7 @@
 layout: supervisor
 title: Matthew Pointon
 available: true
+available_msc: true
 email: m.pointon@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/p/matthew-pointon/
 office_hours: Monday-Friday 0900-1630
@@ -41,4 +42,11 @@ additional_details: >-
 
 
   As a side-line, which could support project ideas within CIS, is my interest and engagement with regional businesses partially as they test and evaluate digital products. These ongoing collaborations could support project ideas with potential tangible outputs for students as they create portfolio of digital products and evidence to support future.
+additional_details_msc: >-
+  **I am the deputy research lead in Digital Health and Wellbeing (DH&W)
+  focusing on developing human-centred and accessible digital solutions to
+  address unmet healthcare needs.**
+
+
+  A particular emphasis is on algorithm development and digital biomarkers using wearable technologies and mobile computing to understand mechanistic (e.g., cognitive) as well as lifestyle factors in ageing (Godfrey, Alshabrawy, Rooksby, Pointon). Recognising the societal importance of this human centric approach, staff (Akhtar, Warner, Anwar, Sice, Elvin) research digital health challenges pertaining to vulnerable groups and information retrieval for decision support systems. We also research digital medicine-based topics in e.g., cancer-focused bioinformatics & functional genomics (Kurt, Woo).
 ---
