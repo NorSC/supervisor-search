@@ -2,6 +2,7 @@
 layout: supervisor
 title: Christina Vasiliou
 available: false
+available_msc: true
 email: christina.vasiliou@northumbria.ac.uk
 office_hours: >
   Where: ELB113 or Teams
