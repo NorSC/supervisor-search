@@ -69,7 +69,7 @@ additional_details_msc: >-
 
   * Chatbots and Conversational agents in education, learning (formal/informal)
 
-  * Designing collaborative technologies for social change/local impact
+  * Designing collaborative or community technologies for social change/local impact
 
 
   If any of these areas are of interest, or you have a similar idea in mind, or you want to work together to specify a project idea, please contact me.
