@@ -2,14 +2,11 @@
 layout: supervisor
 title: Garry Elvin
 available: false
+available_msc: true
 email: garry.elvin@northumbria.ac.uk
 website: ""
-office_hours: >-
-  Available at 13:00-14:00 Tuesday and 13:00-14:00 Wednesday in the w/c the 27th
-  of September and potentially other times via MS Teams for project discussion.
-
-
-  Please email me to arrange a time. I'm keen to hear from you.
+office_hours: If you want to discuss ideas, please email me to arrange a time.
+  I'm keen to hear from you.
 research_group: Digital Health and Wellbeing
 research_themes:
   - Digital Health and Wellbeing
@@ -31,4 +28,8 @@ additional_details: I'm interested in the development of web based systems in
   general (that is of appropriately well engineered web based software with the
   potential for real world application, in a range of areas); and digital health
   and wellbeing, machine learning and chatbots (web based or otherwise).
+additional_details_msc: I'm interested in the development of web based systems
+  in general (that is of appropriately well engineered web based software with
+  the potential for real world application, in a range of areas); and digital
+  health and wellbeing, machine learning and chatbots (web based or otherwise).
 ---
