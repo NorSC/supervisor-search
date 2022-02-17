@@ -2,15 +2,16 @@
 layout: supervisor
 title: Marta Cecchinato
 available: true
+available_msc: true
 email: marta.cecchinato@northumbria.ac.uk
 website: http://www.cecchinato.me/
 office_hours: >-
   There are two hours per week reserved for open office hours where students can
   book to see me either online or in person. These are: 
 
-  1. Monday 12-1 pm, 
+  1. Wednesday 12-1pm,
 
-  2. Wednesday 12-1pm.
+  2. Thursday 12-1 pm.
 
 
   Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams.
