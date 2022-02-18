@@ -2,7 +2,7 @@
 layout: supervisor
 title: Dirk van der Linden
 available: false
-available_msc: false
+available_msc: true
 available_phd: true
 email: dirk.vanderlinden@northumbria.ac.uk
 website: www.profdirk.com
@@ -98,6 +98,9 @@ additional_details_phd: >-
 
 
   I am happy to discuss any project ideas you might already have in this domain and work with you on finding something that fits with your interests and ambitions. For inspiration, some rough project/topic ideas that I would also be interested in working on with students are below, these would also require your own interpretation and further definition:
+
+
+  **"Business models for interspecies information systems:** technology for animals helps people improve their understanding and behavior towards animals in many sectors, but the practicalities of designing a sustainable business model for these technologies and the services they deliver is both complex and understudied. A systematic investigation of what business models are in use in a given domain (e.g., pet wearables) and what business models might create long-term success given that interspecies information systems' characteristics would be a major leap forward for the domain in designing effective technological platforms to support people in giving better care to animals." 
 
 
   **"DuoLingo, but for animal behavior:** developing a DuoLingo style learning platform (web or app) in collaboration with dog behavioral experts to teach dog owners what particular dog behaviors and movements mean in order to increase responsible pet ownership. Go through the UCD process, work with veterinarians to design a prototype of such a system and ideally also implement a functioning prototype which can be gradually extended with more learning materials. HCI and development skills would be a perfect combination. Can also consider other (companion) animal species!"
