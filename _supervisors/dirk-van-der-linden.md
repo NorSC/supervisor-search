@@ -10,11 +10,17 @@ office_hours: Tuesdays 09:00-11:00 in CIS 305.
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
+  - Data Privacy
+  - Internet of Things
 additional_keywords:
   - Animal Computer Interaction
   - User Centred Design
   - Serious Games
   - Smart Cities
+  - Digital Living
+  - Human-Data Interaction
+  - Usable Privacy & Security
+  - UX Design
 technologies_languages:
   - Conceptual Modeling
   - Ethnographic Observations
@@ -26,6 +32,7 @@ technologies_languages:
   - Use Case
   - Cognitive Walkthrough
   - Think Aloud Protocol
+  - Document Analysis
 additional_details: >-
   I am very active in the field of **animal-computer interaction** and
   **interspecies information systems engineering**—if you are interested in the
