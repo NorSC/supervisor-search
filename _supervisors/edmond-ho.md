@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Edmond Ho
-available: true
+available: false
 available_msc: false
 available_phd: true
 email: e.ho@northumbria.ac.uk
