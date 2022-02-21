@@ -2,6 +2,7 @@
 layout: supervisor
 title: Joe Newbold
 available: true
+available_msc: true
 email: joseph.newbold@northumbria.ac.uk
 website: https://jwnewbold.com/
 office_hours: |-
