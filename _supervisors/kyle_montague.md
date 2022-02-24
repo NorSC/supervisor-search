@@ -22,6 +22,8 @@ additional_keywords:
   - Data Visualisation
   - Data Integration
   - Usable Privacy & Security
+  - Inclusive Design
+  - Web Services
 technologies_languages:
   - Node.js
   - Android
