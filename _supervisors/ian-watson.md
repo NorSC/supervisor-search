@@ -2,10 +2,11 @@
 layout: supervisor
 title: Ian Watson
 available: true
+available_msc: true
 email: i.watson@northumbria.ac.uk
 office_hours: >
   
-  “I will be available in my office on Monday 27th September 13:00 -14:00 and on Wednesday 29th September 12-13:00. You can also contact me via email to arrange an appointment outside these times and I will be on campus w/c 27th September on Monday, Wednesday, Thursday and Friday."
+  “I will be available in my office on Monday  10:00 -1:00 and on Thursday 11-12:00. You can also contact me via email to arrange an appointment outside these times and I will be on campus on Monday, Thursday and Friday."
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
