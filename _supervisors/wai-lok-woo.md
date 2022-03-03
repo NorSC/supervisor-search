@@ -68,4 +68,8 @@ additional_details: >-
 
 
   Defect detection is manually done by a skilled quality analyst, which is time-consuming and manually exhausting. Surface defects can be located visually with the help of digital cameras. However, using deep learning to automate the tasks requires significant volume of annotated image data to get good accuracy prediction. Gathering industrial grade data is an expensive and time-consuming process. The cost per hour of annotating the data will be expensive along with getting the right person with the skill to annotate the data. These limitations can be overcome by integrating active learning to reduce the amount of data used for training and the cost associated with data annotation. Active learning enables the process faster and reduce the input datasets wherein machines learn interactively by querying the human. This paves the way to the development of the human-in-the-loop (HITL) where in the final feedback to the overall system will be provided by the human who acts as the moderator. The project aims to develop HITL feedback system with deep learning to detect defects and to improve the overall efficiency. This system will be beneficial even if the data changes considerably, as there is always a human feedback to correct it. Humans can also benefit from the system by improving their skills along with the system.
+additional_details_msc: Same as the above projects. If you have other projects
+  in mind, please feel free to discuss with me.
+additional_details_phd: Same as the above projects. If you have other projects
+  in mind, please feel free to discuss with me.
 ---
