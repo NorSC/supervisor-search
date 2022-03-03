@@ -52,4 +52,18 @@ additional_details: >-
 
 
   Happy to chat about ideas, just get in touch.
+additional_details_msc: >-
+  Generally anything around digital forensics (inc. mobile) and cybercrime.
+
+
+  Current personal areas of interest:
+
+
+  * The impact of Privacy Enhanced Technology on digital forensic investigations.
+
+  * Investigation of the default Apple iOS and Google Android OS on mobile devices and the forensic artefacts available.
+
+  * Protecting user privacy during digital investigations (extraction and analysis).
+
+  * Investigations into the use of digital technology to facilitate coersive control behavior.
 ---
