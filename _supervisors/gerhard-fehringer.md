@@ -38,4 +38,23 @@ additional_details: >-
 
 
   However, I'd be very happy to discuss your own project ideas - as you will spend a lot of time on your project I prefer if it is something that you really want to do!
+additional_details_msc: >-
+  I am interested in the following areas:
+
+
+  IPv6 & IPv6 Security
+
+
+  Network Performance modelling and testing
+
+
+  Simulation Performance (eg GNS3)
+
+
+  Projects utilising Espruino Puck 
+
+
+
+
+  However, I'd be very happy to discuss your own project ideas - as you will spend a lot of time on your project I prefer if it is something that you really want to do!
 ---
