@@ -2,6 +2,8 @@
 layout: supervisor
 title: Rafay Ansari
 available: true
+available_msc: true
+available_phd: true
 email: rafay.ansari@northumbria.ac.uk
 office_hours: >-
   Available for meeting on Teams.
