@@ -2,6 +2,7 @@
 layout: supervisor
 title: Kamlesh Mistry
 available: false
+available_msc: true
 email: k.mistry@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/m/kamlesh-mistry/
 office_hours: "Weekdays: 9 am to 5 pm."
@@ -32,6 +33,14 @@ technologies_languages:
   - Python
   - TensorFlow
 additional_details: |-
+  1. Using Machine Learning for AI agent behaviour in Games.
+  2. Procedural content generation in Games. 
+  3. Face emotion recognition 
+  4. Object Recognition and applications 
+  5. Improving VR experience in Games.
+additional_details_msc: |-
+  
+
   1. Using Machine Learning for AI agent behaviour in Games.
   2. Procedural content generation in Games. 
   3. Face emotion recognition 
