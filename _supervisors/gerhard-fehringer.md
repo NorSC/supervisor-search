@@ -2,14 +2,10 @@
 layout: supervisor
 title: Gerhard Fehringer
 available: false
+available_msc: true
 email: gerhard.fehringer@northumbria.ac.uk
 office_hours: >-
-  Contact hours:
-
-  Monday 11.00-12.00
-
-  Tuesday 10.00-11.00
-
+  
   I suggest that you email me and we can set up a TEAMS video call to discuss your ideas.
 research_group: Cyber Security and Network Systems
 research_themes:
