@@ -2,17 +2,20 @@
 layout: supervisor
 title: Akhtar Ali
 available: true
+available_msc: true
+available_phd: true
 email: akhtar.ali@northumbria.ac.uk
+website: http://www.northumbria.ac.uk/about-us/our-staff/a/akhtar-ali/
 office_hours: |-
-  Mondays [10-11am] 
-  Thursdays [10-11am, 1-2pm] 
+  Mondays [11:30-12:30pm] 
+  Tuesdays [1:30pm - 3:30pm] 
 research_group: Digital Health and Wellbeing
 research_themes:
   - Digital Health and Wellbeing
-  - Database
   - Data Science
   - Machine Learning
   - Web Design and Development
+  - Database
 additional_keywords:
   - Information Management
   - Health Informatics
@@ -32,6 +35,8 @@ technologies_languages:
   - Python
   - R
   - SQL
+  - UML
+  - Conceptual Modeling
 additional_details: >-
   1. Client Portal Website development for an accountancy firm in Netherlands,
   known as KHAN Automotive. Company/business name • Project sponsor: "KHAN IT",
@@ -56,4 +61,5 @@ additional_details: >-
 
 
   3. Developing a medical records management system (MRMS) In the UK there are two competing software solutions used by GPs for recording and managing patients clinical data, i.e., EMIS Web and SystmOne. However, these are commercial proprietary systems only licenced to be used within the UK by NHS GP services. This project tries to provide a lightweight and freely available alternative solution to these systems but at the same time cover essential features useful for a clinical environment. The project involves analysing available patient records and clinical systems and then identifying and specifying requirements, designing and developing a prototype MRMS using suitable and mostly freeware (software tools and packages with free public licencing). EMIS Web: A clinical system for delivering integrated healthcare. EMIS Web allows healthcare professionals to record, share and use vital information, so they can provide better, more efficient care. More on https://www.emishealth.com/products/emis-web/?tab=primary-care SystmOne is a pioneering clinical system which fully supports a ground-breaking vision for a ‘one patient, one record’ model of healthcare. Using SystmOne, clinicians can access a single source of information, detailing a patient’s contact with the health service across a lifetime. More on https://www.tpp-uk.com/products/systmone
+additional_details_msc: No SQL Databases
 ---
