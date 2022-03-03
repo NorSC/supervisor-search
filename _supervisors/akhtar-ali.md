@@ -61,5 +61,20 @@ additional_details: >-
 
 
   3. Developing a medical records management system (MRMS) In the UK there are two competing software solutions used by GPs for recording and managing patients clinical data, i.e., EMIS Web and SystmOne. However, these are commercial proprietary systems only licenced to be used within the UK by NHS GP services. This project tries to provide a lightweight and freely available alternative solution to these systems but at the same time cover essential features useful for a clinical environment. The project involves analysing available patient records and clinical systems and then identifying and specifying requirements, designing and developing a prototype MRMS using suitable and mostly freeware (software tools and packages with free public licencing). EMIS Web: A clinical system for delivering integrated healthcare. EMIS Web allows healthcare professionals to record, share and use vital information, so they can provide better, more efficient care. More on https://www.emishealth.com/products/emis-web/?tab=primary-care SystmOne is a pioneering clinical system which fully supports a ground-breaking vision for a ‘one patient, one record’ model of healthcare. Using SystmOne, clinicians can access a single source of information, detailing a patient’s contact with the health service across a lifetime. More on https://www.tpp-uk.com/products/systmone
-additional_details_msc: No SQL Databases
+additional_details_msc: |-
+  Data Analytics
+  Data Integration
+  Data Science
+  Data Visualisation
+  Data Warehousing
+  Database Management
+  Database Migration
+  Database Performance Enhancement
+  Health Informatics
+  Machine Learning
+  No SQL Databases
+  Population Health
+  Python Programming
+  R Programming
+  Weka
 ---
