@@ -2,6 +2,7 @@
 layout: supervisor
 title: Zhenhui Yuan
 available: true
+available_msc: true
 email: zhenhui.yuan@northumbria.ac.uk
 website: http://www.zhenhuiyuan.co.uk
 office_hours: >-
