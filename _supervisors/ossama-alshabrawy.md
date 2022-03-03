@@ -2,8 +2,10 @@
 layout: supervisor
 title: Ossama Alshabrawy
 available: true
+available_msc: true
+available_phd: true
 email: ossama.alshabrawy@northumbria.ac.uk
-office_hours: Tuesday 13:00 - 15:00
+office_hours: Thursday 09:00 - 11:00
 research_group: Digital Health and Wellbeing
 research_themes:
   - Digital Health and Wellbeing
@@ -41,4 +43,9 @@ additional_details: >-
   5. Chest X-ray classification to COVID-19, Viral Pneumonia, normal
 
   6. Classification of breast cancer images
+additional_details_msc: Dr Alshabrawy is a member of Digital Health & Wellbeing
+  research group. His major research is in models for data science and machine
+  learning and data analytics in healthcare. This includes areas of artificial
+  intelligence, data science, machine learning, deep learning and multi-sensor
+  processing.
 ---
