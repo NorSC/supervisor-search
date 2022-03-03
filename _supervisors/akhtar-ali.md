@@ -77,4 +77,10 @@ additional_details_msc: |-
   Python Programming
   R Programming
   Weka
+additional_details_phd: |-
+  Data Integration
+  Data Science
+  Electronic Medical Records
+  Health Informatics
+  Next Generation of Data Management
 ---
