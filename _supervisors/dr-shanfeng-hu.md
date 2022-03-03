@@ -2,9 +2,11 @@
 layout: supervisor
 title: Shanfeng Hu
 available: true
+available_msc: true
+available_phd: true
 email: shanfeng2.hu@northumbria.ac.uk
-website: https://shanfenghu.github.io/
-office_hours: Every Wednesday, 15:00 PM - 17:00 PM, CIS 105
+website: ""
+office_hours: Every Friday, 16:00 - 17:00.
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Deep Learning
