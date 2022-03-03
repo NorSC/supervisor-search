@@ -2,13 +2,10 @@
 layout: supervisor
 title: Andrew Turnbull
 available: true
-available_msc: false
+available_msc: true
 email: Andrew.turnbull@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/t/andrew-turnbull/
-office_hours: I will be available in my office on Monday 27th September
-  10:00-11:00 and on Tuesday 28th September 13:30-14:30. You can also contact me
-  via email to arrange an appointment outside these times and I expect to be on
-  campus w/c 27th September Monday-Thursday
+office_hours: You can also contact me via email to arrange an appointment.
 research_group: Northumbria Social Computing
 research_themes:
   - Information Science
