@@ -5,7 +5,9 @@ available: true
 available_msc: true
 email: Andrew.turnbull@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/t/andrew-turnbull/
-office_hours: You can also contact me via email to arrange an appointment.
+office_hours: |-
+  Wednesday 12:00-13:00 & Thursday 09:00-10:00
+  You can also contact me via email to arrange an appointment.
 research_group: Northumbria Social Computing
 research_themes:
   - Information Science
