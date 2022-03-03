@@ -2,6 +2,7 @@
 layout: supervisor
 title: Philip Anderson
 available: true
+available_msc: true
 email: philip.anderson@northumbria.ac.uk
 office_hours: "I will be available in my office on a Wednesday afternoon or you
   can also contact me via email to arrange an appointment outside these times. "
