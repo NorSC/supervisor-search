@@ -3,6 +3,7 @@ layout: supervisor
 title: Emma Anderson
 available: false
 available_msc: true
+available_phd: false
 email: emma.anderson2@northumbria.ac.uk
 office_hours: Please contact me via email to make an appointment.
 research_group: Digital Learning Laboratory
