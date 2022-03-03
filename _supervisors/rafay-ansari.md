@@ -90,4 +90,16 @@ additional_details: "5G mobile technology, Internet-of-Things (IoT), Unmanned
   such as the movement of fish, environment monitoring etc. This is just an
   example, you can come up with fresh ideas as to how underwater robots can help
   in protecting the ecosystem.\r\n"
+additional_details_msc: "5G mobile technology, Internet-of-Things (IoT),
+  Unmanned Aerial Vehicles, Machine learning for Intrusion prevention,
+  artificial intelligence (AI) for networks.
+
+
+  \r
+
+  I am happy to discuss any project ideas in the broader domain of networks.\r
+
+  \r
+
+  \r\n"
 ---
