@@ -2,11 +2,9 @@
 layout: supervisor
 title: Emma Anderson
 available: false
+available_msc: true
 email: emma.anderson2@northumbria.ac.uk
-office_hours: I will be available in my office ELA 118 on Monday 27th September
-  1-2pm and on Wednesday 29th September 10-11am. You can also contact me via
-  email to arrange an appointment outside these times and I will be on campus
-  w/c 27th September on Monday and Wednesday.
+office_hours: Please contact me via email to make an appointment.
 research_group: Digital Learning Laboratory
 research_themes:
   - Web Design and Development
@@ -34,6 +32,14 @@ technologies_languages:
   - SQL
   - JavaScript
 additional_details: >-
+  I usually supervise projects which have had web database solutions, with
+  recommender systems, social networking and other API
+  integration, customisable interfaces or systems for real clients being some of
+  the most recent topics. 
+
+
+  I also have an interest in computational linguistics and have supervised a couple of projects relating to linguistics and computing too.
+additional_details_msc: >-
   I usually supervise projects which have had web database solutions, with
   recommender systems, social networking and other API
   integration, customisable interfaces or systems for real clients being some of
