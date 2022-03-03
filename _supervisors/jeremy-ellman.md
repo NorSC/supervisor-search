@@ -24,8 +24,6 @@ additional_keywords:
 technologies_languages:
   - Keras
   - TensorFlow
-  - Python
-  - Android
 additional_details: >-
   ### General Comment:
 
