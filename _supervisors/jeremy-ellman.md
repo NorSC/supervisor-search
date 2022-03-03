@@ -1,25 +1,26 @@
 ---
 layout: supervisor
 title: Jeremy Ellman
-available: false
+available: true
+available_msc: true
+available_phd: true
 email: jeremy.ellman@northumbria.ac.uk
 website: http://unn-izje1.newnumyspace.co.uk/dv6/drupal-7.58/
-office_hours: >-
-  Tues: 15:00-16:00, Thurs: 10:00-11:00 (as of 05/10/21). But email anytime and
-  put 'KV6003 Project' in the subject.
+office_hours: >-2
+   Thurs: 10:00-11:00 Fri 11:00-12:00 (as of 04/03/22). But email anytime and put 'Project' in the subject.
+
+  Meetings will actually happen in 'The Hub' next the office as EB211 is crowded. Since The Hub is an open area a mask will be required. 
 
 
-  Meetings will actually happen in 'The Hub' next the office as EB211 is crowded. Since The Hub is an open area a mask will be required.
+  Meetings via Teams possible Mon 10:00-11:00, Tues 10:00-11:00, but prior email is essential.
 research_group: Intelligent Systems Research Group
 research_themes:
-  - Artificial Intelligence
   - Deep Learning
   - Data Science
   - Machine Learning
-  - Mobile Computing
+  - Artificial Intelligence
 additional_keywords:
-  - Data Analytics
-  - Ontologies
+  - Reinforcement Learning
 technologies_languages:
   - Keras
   - TensorFlow
@@ -59,7 +60,7 @@ additional_details: >-
   **3) Pandas SQL**
 
 
-  Did you know that to apply SQL to Data Frames, the Pandas SQL module actually writes the dataframe to a csv file,  processes the query in SQLite, and reads the results back in -- for each query! Can you do better?
+  Did you know that to apply SQL to Data Frames, the Pandas SQL module actually writes the DataFrame to a csv file,  processes the query in SQLite, and reads the results back in -- for each query! Can you do better?
 
 
   **4) Theoretical Basis for Differing standard Machine Learning Algorithms' Performance**
@@ -78,4 +79,27 @@ additional_details: >-
 
 
   I'd be very interested to hear any ideas you have for GANS (Generative, Adversarial networks)
+additional_details_msc: >-
+  **1) GANS!**
+
+
+  I'd be very interested to hear any ideas you have for GANS (Generative, Adversarial networks)
+
+
+  **2) Applications of Transformers to time series**
+
+
+  The level of violent crime can be predicted using statistical time series models, but can a transformer model do better? Application of transformers to time series is a hot research topic. Also any other interesting application
+
+
+  **3) Theoretical Basis for Differing standard Machine Learning Algorithms' Performance**
+
+
+  It's common knowledge that some ML algos (e.g in Scikit-learn) perform better with some data sets than others, but why is that? Can we predict from the dataset distribution which ML algorithm would likely lead to better performance
+
+
+  **4) Advance Autokeras**
+
+
+  Autokeras tries to determine an optimal deep architecture for a variety of Deep Learning applications. This project would identify and apply autokeras to an area not currently included in the project.
 ---
