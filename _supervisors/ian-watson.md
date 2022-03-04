@@ -30,4 +30,22 @@ technologies_languages:
   - Interviews
   - Document Analysis
   - User Stories
+additional_details_msc: |-
+  Pedagogy and use of IT/IS in education and learning.
+
+  ERP systems and E-ERP implementation and development.
+
+
+
+  Information Management
+
+  Decision making
+
+  Real world modelling 
+
+  Digital Literacy
+
+  Neo-colonialism in HE
+
+  Business Modelling
 ---
