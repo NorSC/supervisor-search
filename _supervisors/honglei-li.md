@@ -5,7 +5,7 @@ available: true
 email: Honglei.Li@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/l/honglei-li/
 office_hours: |-
-  Monday 11-12pm
+  Monday 12-1pm
   Tuesday 11-12pm
 research_group: Northumbria Social Computing
 research_themes:
