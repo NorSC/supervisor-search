@@ -4,12 +4,9 @@ title: Dan Hodgson
 available: false
 available_msc: true
 email: dan.hodgson@northumbria.ac.uk
-office_hours: >-
-  On-campus teaching Mon, Wed, Thurs, mostly working at home Tues and Fri
-
-  I will be in my office on Wed 29th Sept 1pm-3pm if anybody wants to drop in to talk about projects.
-
-  Or you could email me.
+office_hours: These vary by semester. I currently am working at home when
+  plausible, but am available for meetings through Teams on those days, and
+  on-campus on teaching days.
 research_group: Intelligent Systems Research Group
 research_themes:
   - Game Design and Development
