@@ -2,6 +2,8 @@
 layout: supervisor
 title: Abbas Mehrabidavoodabadi
 available: true
+available_msc: true
+available_phd: true
 email: abbas.mehrabidavoodabadi@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/m/abbas-mehrabidavoodabadi/
 office_hours: Students can arrange a meeting with me during the week days (it
@@ -39,4 +41,8 @@ additional_details: >-
 
 
   The details of the above project topics will be discussed with the students who are interested in the above-mentioned topics. Also, other topics chosen by the students which are matched with my interests (my interests keywords are mentioned in the above responses) will be also considered.
+additional_details_msc: >+
+  Anyone interested in topics related to networks, mobile edge/cloud computing,
+  Internet of Things (IoT), optimisation modeling, algorithm design and
+  complexity analysis.
 ---
