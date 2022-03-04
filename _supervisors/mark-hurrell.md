@@ -2,23 +2,22 @@
 layout: supervisor
 title: Mark Hurrell
 available: true
+available_msc: true
 email: mark.hurrell@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/h/mark-hurrell/
-office_hours: Monday 10-11 Ms Teams
+office_hours: Thursday 10-11 Ms Teams
 research_group: Computer Vision and Natural Computing
 research_themes:
+  - Web Design and Development
   - Database
   - Artificial Intelligence
   - Data Privacy
-  - Internet of Things
-  - Web Design and Development
 additional_keywords:
   - Cloud/Edge Computing
   - Cryptography
-  - Applied Programming
-  - Data Visualisation
   - Model Based Design
   - Technology-Enhanced Learning
+  - Applied Programming
 technologies_languages:
   - Android
   - C#
@@ -27,4 +26,5 @@ technologies_languages:
   - SQL
 additional_details: Particular interests in software engineering. Rich Domain
   models, Microservices and other system architectures.
+additional_details_msc: Y
 ---
