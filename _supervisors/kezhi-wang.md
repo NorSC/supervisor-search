@@ -2,9 +2,11 @@
 layout: supervisor
 title: Kezhi Wang
 available: true
+available_msc: true
+available_phd: true
 email: kezhi.wang@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/kezhi-wang/
-office_hours: Thursday 11:00-12:30   Thursday  15:00-16:30
+office_hours: Monday
 research_group: Cyber Security and Network Systems
 research_themes:
   - Deep Learning
@@ -34,6 +36,38 @@ technologies_languages:
   - TensorFlow
   - Java
 additional_details: |-
+  I am interested in supervising the projects in the following area:
+
+  • Machine Learning
+
+  • 5G and Beyond Communications
+
+  • Internet of Things (IoT)
+
+  • Mobile Edge Computing (MEC)
+
+  • Unmanned Aerial Vehicle (UAV)
+
+  • Wireless Communications 
+
+  • Mobile Computing
+additional_details_msc: |-
+  I am interested in supervising the projects in the following area:
+
+  • Machine Learning
+
+  • 5G and Beyond Communications
+
+  • Internet of Things (IoT)
+
+  • Mobile Edge Computing (MEC)
+
+  • Unmanned Aerial Vehicle (UAV)
+
+  • Wireless Communications 
+
+  • Mobile Computing
+additional_details_phd: |-
   I am interested in supervising the projects in the following area:
 
   • Machine Learning
