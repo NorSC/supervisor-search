@@ -28,10 +28,28 @@ additional_details: >-
 
   * Business Intelligence systems
 
+  * Data visualisation and communication
+
   * Sports analytics
 
   * Finance and financial services
 
 
-  If you have an idea for a project that you think I might be a good fit for, then please get in touch at david2.hastings@northumbria.ac.uk so we can have a quick discussion about it. Thanks!
+  If you have an idea for a project that you think might be a good fit, then please get in touch at david2.hastings@northumbria.ac.uk so we can discuss it further. Thanks!
+additional_details_msc: >-
+  In addition to the subject areas listed in the themes and keywords sections
+  above, I have previously supervised projects in the following areas (and would
+  be happy to again):
+
+
+  * Business Intelligence systems
+
+  * Data visualisation and communication
+
+  * Sports analytics
+
+  * Finance and financial services
+
+
+  If you have an idea for a project that you think might be a good fit, then please get in touch at david2.hastings@northumbria.ac.uk so we can discuss it further. Thanks!
 ---
