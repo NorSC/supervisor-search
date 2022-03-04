@@ -25,8 +25,8 @@ technologies_languages:
   - Use Case
   - UML
 additional_details: >-
-  My research interests are mostly around computing education. In terms of
-  projects I am happy to supervise:
+  My research interests are mostly around computing education or education more
+  broadly. In terms of projects I am happy to supervise:
 
 
   1. Client based projects - if you have a client you want to build something for, for example whoever you completed your placement for, or a local club or society. An element of novelty / challenge is expected i.e. its not just about building something, it is building something that you have to complete some background research upon in order to build it.
