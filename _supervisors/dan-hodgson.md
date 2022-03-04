@@ -38,10 +38,7 @@ additional_details: >-
   I have also done a lot of game design investigative projects, usually along the lines of "How does X affect Y" (for example, how does difficulty affect player engagement, how does sound aesthetic affect fear, etc) which involve creating one or (more often) two game experiences to give a direct comparison, which are then playtested with test subjects to get experimental results.
 
 
-  My current research interests are complex, in the areas of diagrammatical modelling of pen-and-paper RPGs, auto-generating programming script from those diagrams, creating interpreters to run those scripts, and then using this for AI-based difficulty testing and balancing, ultimately heading towards data interoperability and ontological equivalence to automate conversion of player and monster stats between different RPG systems. I would be interesting in supervising any students who want to explore parts of this in detail. 
-
-
-  I am not the best supervisor for students that find self-motivation difficult, I'm not very good at providing the severity and kicking that some students need. I believe I am a good supervisor for students who are aiming high.
+  My current research interests are complex, in the areas of diagrammatical modelling of pen-and-paper RPGs, auto-generating programming script from those diagrams, creating interpreters to run those scripts, and then using this for AI-based difficulty testing and balancing, ultimately heading towards data interoperability and ontological equivalence to automate conversion of player and monster stats between different RPG systems. I would be interesting in supervising any students who want to explore parts of this in detail.
 additional_details_msc: >-
   I supervise a lot of game-related projects. I have worked a lot with Unreal,
   but have had a lot of projects in Unity and other technologies too. 
@@ -56,8 +53,5 @@ additional_details_msc: >-
   I have also done a lot of game design investigative projects, usually along the lines of "How does X affect Y" (for example, how does difficulty affect player engagement, how does sound aesthetic affect fear, etc) which involve creating one or (more often) two game experiences to give a direct comparison, which are then playtested with test subjects to get experimental results.
 
 
-  My current research interests are complex, in the areas of diagrammatical modelling of pen-and-paper RPGs, auto-generating programming script from those diagrams, creating interpreters to run those scripts, and then using this for AI-based difficulty testing and balancing, ultimately heading towards data interoperability and ontological equivalence to automate conversion of player and monster stats between different RPG systems. I would be interesting in supervising any students who want to explore parts of this in detail. 
-
-
-  I am not the best supervisor for students that find self-motivation difficult, I'm not very good at providing the severity and kicking that some students need. I believe I am a good supervisor for students who are aiming high.
+  My current research interests are complex, in the areas of diagrammatical modelling of pen-and-paper RPGs, auto-generating programming script from those diagrams, creating interpreters to run those scripts, and then using this for AI-based difficulty testing and balancing, ultimately heading towards data interoperability and ontological equivalence to automate conversion of player and monster stats between different RPG systems. I would be interesting in supervising any students who want to explore parts of this in detail.
 ---
