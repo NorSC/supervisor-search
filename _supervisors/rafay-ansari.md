@@ -5,10 +5,10 @@ available: true
 available_msc: true
 available_phd: true
 email: rafay.ansari@northumbria.ac.uk
-office_hours: >-
+office_hours: |-
   Available for meeting on Teams.
-
-  Available at the Office CIS 105 on Monday 27th September 2021 10 00 to 12 00. We can also arrange face to face meetings for other days in the week starting 27th September 2021
+  Please contact through email to arrange an appointment
+  Email. rafay.ansari@northumbria.ac.uk
 research_group: Cyber Security and Network Systems
 research_themes:
   - Computer Networks
