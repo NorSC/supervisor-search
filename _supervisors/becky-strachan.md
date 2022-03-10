@@ -9,7 +9,7 @@ website: https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/
 office_hours: >-
   I work full time. There are two hours per week reserved for open office hours
   where students can book to see me either online or in person. These are: 1.
-  Wednesdays 9-10 am, 2. Thursdays 4-5pm.
+  Tuesdays 9-10am;  2.  Wednesdays 9-10 am, 
 
 
   Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams/BB Collaborate.
@@ -18,6 +18,8 @@ research_themes:
   - Human-Computer Interaction
 additional_keywords:
   - Equality Diversity & Inclusion
+  - Technology-Enhanced Learning
+  - User Centred Design
 technologies_languages:
   - User Stories
 additional_details: >-
