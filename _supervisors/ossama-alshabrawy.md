@@ -2,7 +2,7 @@
 layout: supervisor
 title: Ossama Alshabrawy
 available: true
-available_msc: true
+available_msc: false
 available_phd: true
 email: ossama.alshabrawy@northumbria.ac.uk
 office_hours: Thursday 09:00 - 11:00
