@@ -2,7 +2,7 @@
 layout: supervisor
 title: Shanfeng Hu
 available: true
-available_msc: true
+available_msc: false
 available_phd: true
 email: shanfeng2.hu@northumbria.ac.uk
 website: ""
