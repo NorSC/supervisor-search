@@ -2,7 +2,7 @@
 layout: supervisor
 title: Jeremy Ellman
 available: true
-available_msc: true
+available_msc: false
 available_phd: true
 email: jeremy.ellman@northumbria.ac.uk
 website: http://unn-izje1.newnumyspace.co.uk/dv6/drupal-7.58/
