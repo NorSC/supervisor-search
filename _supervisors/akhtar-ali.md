@@ -2,7 +2,7 @@
 layout: supervisor
 title: Akhtar Ali
 available: true
-available_msc: false
+available_msc: true
 available_phd: true
 email: akhtar.ali@northumbria.ac.uk
 website: http://www.northumbria.ac.uk/about-us/our-staff/a/akhtar-ali/
