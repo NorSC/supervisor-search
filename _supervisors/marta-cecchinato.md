@@ -197,7 +197,7 @@ additional_details_msc: >-
   **Project type:** *investigative/research-focused*
 
 
-  **Key words:** people-centred security, surveillance, tracking, privacy,
+  **Key words:** people-centred security, surveillance, tracking, privacy
 
 
   **UN Sustainable Development Goals:** 16. Peace, justice and strong institutions
@@ -217,8 +217,6 @@ additional_details_msc: >-
   * Nicol, E., Azzopardi, L., Moncur, W., Briggs, J., Nash, C., Duheric, M., & Schafer, B. (2022, July). A preliminary study on evaluating cumulative revelations in online personal data: introducing a persona-based cyber safety tool for awareness of online risks and harms. In 2nd International Conference on Behavioural and Social Sciences in Security. [[link](https://pureportal.strath.ac.uk/en/publications/a-preliminary-study-on-evaluating-cumulative-revelations-in-onlin)]
 
   * Azzopardi, L., Briggs, J., Duheric, M., Nash, C., Nicol, E., Moncur, W., & Schafer, B. (2022, July). Are Taylor's Posts Risky? Evaluating Cumulative Revelations in Online Personal Data: A persona-based tool for evaluating awareness of online risks and harms. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 3295-3299). [[link](https://strathprints.strath.ac.uk/80787/1/Azzopardi_etal_SIGIR_2022_Evaluating_cumulative_revelations_in_online_personal_data.pdf)]
-
-
 
 
   **2. DIGITAL CARBON FOOTPRINT OF COMPUTER SCIENCE STUDENTS**
@@ -261,8 +259,6 @@ additional_details_msc: >-
   * <https://greenlab.di.uminho.pt/tools/>
 
 
-
-
   **3. GENDER INEQUALITIES IN THE GIG ECONOMY**
 
 
@@ -289,8 +285,6 @@ additional_details_msc: >-
   * Foong, E., & Gerber, E. (2021, May). Understanding Gender Differences in Pricing Strategies in Online Labor Marketplaces. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (pp. 1-16). [[link](http://www.eurekafoong.com/documents/foong_gerber_chi2021_genderpricing.pdf)]
 
   * Ma, N. F., Rivera, V. A., Yao, Z., & Yoon, D. (2022, April). “Brush it Off”: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms. In CHI Conference on Human Factors in Computing Systems (pp. 1-13). [[link](https://dl.acm.org/doi/pdf/10.1145/3491102.3517524?casa_token=KllsMfQTXgYAAAAA:rSxz9myQV6JHCcyatPM8WCGSItY8jAmkGUHTWrX80sb8cupPGenFMZNuOmFryLKCWtVRD1_qNynmJ_o)]
-
-
 
 
   Get in touch if any of the above ideas excite you or have sparked a new idea for a Human-Computer Interaction project you would like to discuss with me.
