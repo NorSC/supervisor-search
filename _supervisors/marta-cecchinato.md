@@ -21,6 +21,7 @@ research_themes:
   - Human-Computer Interaction
   - Digital Health and Wellbeing
   - Information Science
+  - Data Privacy
 additional_keywords:
   - Social Computing
   - Social Media
@@ -32,9 +33,11 @@ additional_keywords:
   - Inclusive Design
   - Participatory Design
   - Personal Informatics
-  - Ubiquitous Computing
   - User Centred Design
   - UX Design
+  - Energy Efficient Computing
+  - Usable Privacy & Security
+  - Sustainability
 technologies_languages:
   - Interviews
   - Ethnographic Observations
@@ -44,6 +47,7 @@ technologies_languages:
   - Wireframing
   - User Stories
   - Use Case
+  - HTML/CSS
 additional_details: >-
   My research interests fall under the field of HCI. I am particularly
   interested in supervising projects that speaks to Sustainable Development
