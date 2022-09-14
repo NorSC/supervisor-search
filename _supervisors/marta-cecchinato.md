@@ -3,16 +3,19 @@ layout: supervisor
 title: Marta Cecchinato
 available: true
 available_msc: true
-available_phd: false
+available_phd: true
 email: marta.cecchinato@northumbria.ac.uk
 website: http://www.cecchinato.me/
 office_hours: >-
-  There are two hours per week reserved for open office hours where students can
+  There are two hours per week reserved for drop-in hours where students can
   book to see me either online or in person. These are: 
 
   1. Monday 1-2pm,
 
   2. Friday 12-1 pm.
+
+
+  Room 307
 
 
   Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams.
@@ -200,8 +203,6 @@ additional_details_msc: >-
   Below are three specific project ideas I am hoping to supervise, but please get in touch if you have a project idea that is related. For a broader view of my research interests and what I work on, [have a look at my publications](https://scholar.google.com/citations?hl=en&user=FkS0CT8AAAAJ&view_op=list_works&sortby=pubdate).
 
 
-
-
   **1. POST-DIGITAL SECURITY FOR SOCIAL AND LEISURE SURVEILLANCE**
 
 
@@ -237,8 +238,6 @@ additional_details_msc: >-
   * Nicol, E., Azzopardi, L., Moncur, W., Briggs, J., Nash, C., Duheric, M., & Schafer, B. (2022, July). A preliminary study on evaluating cumulative revelations in online personal data: introducing a persona-based cyber safety tool for awareness of online risks and harms. In 2nd International Conference on Behavioural and Social Sciences in Security. [[link](https://pureportal.strath.ac.uk/en/publications/a-preliminary-study-on-evaluating-cumulative-revelations-in-onlin)]
 
   * Azzopardi, L., Briggs, J., Duheric, M., Nash, C., Nicol, E., Moncur, W., & Schafer, B. (2022, July). Are Taylor's Posts Risky? Evaluating Cumulative Revelations in Online Personal Data: A persona-based tool for evaluating awareness of online risks and harms. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 3295-3299). [[link](https://strathprints.strath.ac.uk/80787/1/Azzopardi_etal_SIGIR_2022_Evaluating_cumulative_revelations_in_online_personal_data.pdf)]
-
-
 
 
   **2. DIGITAL CARBON FOOTPRINT OF COMPUTER SCIENCE STUDENTS**
@@ -281,8 +280,6 @@ additional_details_msc: >-
   * <https://greenlab.di.uminho.pt/tools/>
 
 
-
-
   **3. GENDER INEQUALITIES IN THE GIG ECONOMY**
 
 
@@ -311,7 +308,22 @@ additional_details_msc: >-
   * Ma, N. F., Rivera, V. A., Yao, Z., & Yoon, D. (2022, April). “Brush it Off”: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms. In CHI Conference on Human Factors in Computing Systems (pp. 1-13). [[link](https://dl.acm.org/doi/pdf/10.1145/3491102.3517524?casa_token=KllsMfQTXgYAAAAA:rSxz9myQV6JHCcyatPM8WCGSItY8jAmkGUHTWrX80sb8cupPGenFMZNuOmFryLKCWtVRD1_qNynmJ_o)]
 
 
-
-
   Get in touch if any of the above ideas excite you or have sparked a new idea for a Human-Computer Interaction project you would like to discuss with me.
+additional_details_phd: >-
+  I﻿ am open to supervise PhD students wanting to work in HCI. I am particularly
+  interested in supervising projects that speaks to Sustainable Development
+  Goals and that focus around these broad areas and how they apply to
+  HCI/computing:
+
+
+  * **Future of work** (e.g. gig economy, c﻿ontent creator economy, w﻿orkplace surveillance, flexible working) 
+
+  * **Digital wellbeing** (﻿e.g. at work, in education, in social contexts)
+
+  * **Equality, diversity & inclusion** (﻿e.g. dismantling structural/systemic racial or gender bias, enabling wider participation of women in Computing)
+
+  * **S﻿ustainable living** (e.g. behaviour change, food waste and recycling, active transport, raising awareness)
+
+
+  For a broader view of my research interests and what I work on, [have a look at my publications](https://scholar.google.com/citations?hl=en&user=FkS0CT8AAAAJ&view_op=list_works&sortby=pubdate).
 ---
