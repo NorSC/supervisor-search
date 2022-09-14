@@ -2,6 +2,8 @@
 layout: supervisor
 title: Yifeng Zeng
 available: true
+available_msc: true
+available_phd: true
 email: yifeng.zeng@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/z/yifeng-zeng/
 office_hours: "I am general fine with 11:00am-11:30am on Tuesday/Wednesday. "
@@ -24,5 +26,9 @@ technologies_languages:
   - Augmented Reality (AR)
   - Virtual Reality (VR)
 additional_details: I would like to see any projects that are relevant to
+  intelligent agents, reasoning, learning and decision making.
+additional_details_msc: I would like to see any projects that are relevant to
+  intelligent agents, reasoning, learning and decision making.
+additional_details_phd: I would like to see any projects that are relevant to
   intelligent agents, reasoning, learning and decision making.
 ---
