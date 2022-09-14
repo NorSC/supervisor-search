@@ -2,15 +2,17 @@
 layout: supervisor
 title: Yilun Shang
 available: true
-available_msc: false
+available_msc: true
 available_phd: true
 email: yilun.shang@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/s/yilun-shang/
-office_hours: |-
-  ELB 206
-  Wednesday 11:00-13:30
+office_hours: >-
+  I work full time. There are three hours per week reserved for open office
+  hours where students can book to see me in person in Ellison Building B, Room
+  206. These are: Tuesday 12:00 - 14:00;  Friday 11:00 -12:00. 
 
-  You can also contact me through email or MS Teams any time.
+
+  You can also contact me through email or MS Teams.
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Digital Health and Wellbeing
@@ -32,12 +34,13 @@ technologies_languages:
   - R
   - HTML/CSS
 additional_details: >-
-  I am interested in supervising projects primarily in ITMB including the areas
-  of data analysis, data visualisation, and information retrieval. My research
-  interest resides in complex networks and systems.
+  I am interested in supervising projects primarily in ITMB/Infomation
+  science/data science/artificial intelligence including the areas of data
+  analysis, data visualisation, and information retrieval. My research interest
+  resides in complex networks and systems.
 
 
-  Some of my past final-year student project titles:
+  Some of my past student project titles:
 
 
   'Webpage design and development for newcastle west end foodbank'
