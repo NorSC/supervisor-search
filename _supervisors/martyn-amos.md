@@ -61,20 +61,19 @@ additional_details: >-
 
   **Swarm-based computation**: The ability of social insects to collectively solve problems has been well-studied and documented. The behaviour of foraging ants, for example, has been abstracted to provide algorithmic solutions that are robust, distributed, and flexible. The particular behaviour that we will focus on is the *clustering* or *sorting* of ant corpses or larvae. Abstract models of these behaviours have been successfully applied to, amongst other problems, numerical data analysis, data mining, and graph partitioning. In this project, we focus on the task of *brood sorting*, which is essentially a problem of distributed computation; how can can a number of simple agents, with minimal communication, take a collection of objects and arrange them into a spatially coherent desired structure? This problem will find important applications in (for example) swarm robotics. For background, [please refer to the original paper we wrote on this subject](http://www.martynamos.org/Docs/1245.pdf); this project will first involve re-implementing the basic algorithm in a language of choice, and then investigating new aspects of its behaviour.
 additional_details_msc: >-
-  **Self-instigated research based project:** I am very happy to supervise
-  research-focussed projects that are instigated by well-motivated and capable
-  students. Ideally, you must have a core *question* that you would like to
-  answer, or a *phenomenon* that you would like to study. I am quite open to
-  suggestions, but my specific interests lie in the areas of nature-inspired
-  computing (genetic algorithms and ant-based methods, especially), synthetic
-  biology and bio-engineering, simulation and modelling, human behaviour, and
-  complex systems. If you are not sure whether or not your idea will "fit" my
-  interests and expertise, please just ask! Please take a look at my [list of
-  publications](http://martynamos.org/pubs.html) for an indication of what I
-  work on.
-
-
-  **Artificial life**: Artificial Life (a-life) is an exciting research area at the intersections of computer science, biology, economics, engineering, mathematics, and other disciplines. Fundamentally, a-life researchers use computational methods to study "life as it could be" - that is, we use models and simulations to help us understand systems as diverse as ant colonies, economies and populations of bacterial cells. For this project, you will select an area **of interest to you** (in consultation with me), and then investigate it using computational methods such as agent-based simulation. This is quite a broad topic area, and it's suitable for a wide range of systems, including (for example) crowds of people. There also exist excellent libraries and model-building tools, so you will not have to build everything from scratch; see Netlogo for an excellent example, which contains a huge number of example projects (most of which you can try out in your browser).
+  **Artificial life**: Artificial Life (a-life) is an exciting research area at
+  the intersections of computer science, biology, economics, engineering,
+  mathematics, and other disciplines. Fundamentally, a-life researchers use
+  computational methods to study "life as it could be" - that is, we use models
+  and simulations to help us understand systems as diverse as ant colonies,
+  economies and populations of bacterial cells. For this project, you will
+  select an area **of interest to you** (in consultation with me), and then
+  investigate it using computational methods such as agent-based simulation.
+  This is quite a broad topic area, and it's suitable for a wide range of
+  systems, including (for example) crowds of people. There also exist excellent
+  libraries and model-building tools, so you will not have to build everything
+  from scratch; see Netlogo for an excellent example, which contains a huge
+  number of example projects (most of which you can try out in your browser).
 
 
   **AI solver for puzzle games:** Many simple puzzle games (eg. Sudoku, Minesweeper) are easy to describe but very difficult to solve. This project will involve the investigation of various algorithmic techniques for the automatic solution of such problems, and the development of a program to solve examples of a problem of the student's choosing (subject to approval). Please note that this project is *not* concerned with developing AI for NPCs; rather, it is the creation of AI-based *automatic solvers for puzzle games*. This project will be based on our J-POP platform (<https://github.com/huwlloyd-mmu/jpop>), which provides a number of solvers and puzzle simulators (you can read our overview paper [here](https://e-space.mmu.ac.uk/628167/)). Your task will be to choose a new puzzle from the hundreds out there, develop a simulator for it, plug it into J-POP, and then run experiments to test the various solvers. Note that this is all written in C++, so you will need to be a competent/confident programmer in this language.
