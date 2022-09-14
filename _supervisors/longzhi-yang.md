@@ -1,16 +1,17 @@
 ---
 layout: supervisor
 title: Longzhi Yang
-available: false
+available: true
 available_phd: true
 email: longzhi.yang@northumbria.ac.uk
 website: https://lyang.uk
 office_hours: |-
-  14:00-15:00 on Tuesday
+  13:00-15:00 on Thursday
   12:30-13:30 on Thursday
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Artificial Intelligence
+  - Machine Learning
 additional_keywords:
   - Decision Making
   - Autonomous Systems
