@@ -34,10 +34,9 @@ technologies_languages:
   - R
   - HTML/CSS
 additional_details: >-
-  I am interested in supervising projects primarily in ITMB/Infomation
-  science/data science/artificial intelligence including the areas of data
-  analysis, data visualisation, and information retrieval. My research interest
-  resides in complex networks and systems.
+  I am interested in supervising projects primarily in ITMB and CS including the
+  areas of data analysis, data visualisation, and information retrieval. My
+  research interest resides in complex networks and systems.
 
 
   Some of my past student project titles:
@@ -69,9 +68,10 @@ additional_details: >-
 
   'A deconstruction of the negative views surrounding loot boxes in the video game industry'
 additional_details_msc: >-
-  I am interested in supervising projects primarily in data science including
-  the areas of data analysis, data visualisation, and information retrieval. My
-  research interest resides in complex networks and systems.
+  I am interested in supervising projects primarily in data science and
+  information science including the areas of data analysis, data visualisation,
+  and information retrieval. My research interest resides in complex networks
+  and systems.
 
 
   Some of my past msc project titles:
