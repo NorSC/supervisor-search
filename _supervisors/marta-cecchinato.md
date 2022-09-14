@@ -197,7 +197,7 @@ additional_details_msc: >-
 
   * **Equality, diversity & inclusion** (﻿e.g. dismantling structural/systemic racial or gender bias, enabling wider participation of women in Computing)
 
-  * **S﻿ustainable living** (e.g. behaviour change, food waste and recycling, active transport, raising awareness)
+  * **S﻿ustainable living** (e.g. food waste and recycling, active transport, raising awareness, behaviour change) 
 
 
   Below are three specific project ideas I am hoping to supervise, but please get in touch if you have a project idea that is related. For a broader view of my research interests and what I work on, [have a look at my publications](https://scholar.google.com/citations?hl=en&user=FkS0CT8AAAAJ&view_op=list_works&sortby=pubdate).
