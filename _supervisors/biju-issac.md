@@ -2,7 +2,7 @@
 layout: supervisor
 title: Biju Issac
 available: true
-available_msc: false
+available_msc: true
 available_phd: true
 email: biju.issac@northumbria.ac.uk
 website: https://www.bijuissac.com/ug-pg-projects
@@ -51,7 +51,7 @@ additional_details: >-
 
   Intelligent Wireless Sensor Network Application in Healthcare\
 
-  Energy-efficient Virtual Machine Placement using Bioinspired Optimisation Algorithms
+  Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms
 
   Tackling Email Spamming through Machine Learning/Deep Learning
 
@@ -61,7 +61,9 @@ additional_details: >-
 
   Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning
 
-  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning
+  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning\
+
+  Credit Card Fraud detection system using ML and Bio-inspired Algorithms
 
   Penetration Testing and Security Attacks using Kali Linux
 
@@ -69,7 +71,7 @@ additional_details: >-
 
   \
 
-  NOTE: If you have any related project ideas in AI/ML or others, please feel free to discuss that with me.
+  NOTE: I am fine with doing any AI/ML project which looks at analysing a dataset in any field. If you have any related project ideas or others, please feel free to discuss that with me (email: biju.issac@northumbria.ac.uk).
 additional_details_msc: >-
   Please check this weblink for specific project details:
   https://www.bijuissac.com/ug-pg-projects\
@@ -86,7 +88,7 @@ additional_details_msc: >-
 
   Intelligent Wireless Sensor Network Application in Healthcare\
 
-  Energy-efficient Virtual Machine Placement using Bioinspired Optimisation Algorithms
+  Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms
 
   Tackling Email Spamming through Machine Learning/Deep Learning
 
@@ -96,7 +98,9 @@ additional_details_msc: >-
 
   Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning
 
-  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning
+  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning\
+
+  Credit Card Fraud detection system using ML and Bio-inspired Algorithms
 
   Penetration Testing and Security Attacks using Kali Linux
 
@@ -104,7 +108,7 @@ additional_details_msc: >-
 
   \
 
-  NOTE: If you have any related project ideas in AI/ML or others, please feel free to discuss that with me.
+  NOTE: I am fine with doing any AI/ML project which looks at analysing a dataset in any field. If you have any related project ideas or others, please feel free to discuss that with me (email: biju.issac@northumbria.ac.uk).
 additional_details_phd: >-
   Please check this weblink for specific project details:
   https://www.bijuissac.com/ug-pg-projects\
@@ -121,7 +125,7 @@ additional_details_phd: >-
 
   Intelligent Wireless Sensor Network Application in Healthcare\
 
-  Energy-efficient Virtual Machine Placement using Bioinspired Optimisation Algorithms
+  Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms
 
   Tackling Email Spamming through Machine Learning/Deep Learning
 
@@ -131,7 +135,9 @@ additional_details_phd: >-
 
   Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning
 
-  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning
+  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning\
+
+  Credit Card Fraud detection system using ML and Bio-inspired Algorithms
 
   Penetration Testing and Security Attacks using Kali Linux
 
@@ -139,5 +145,5 @@ additional_details_phd: >-
 
   \
 
-  NOTE: If you have any related project ideas in AI/ML or others, please feel free to discuss that with me.
+  NOTE: I am fine with doing any AI/ML project which looks at analysing a dataset in any field. If you have any related project ideas or others, please feel free to discuss that with me (email: biju.issac@northumbria.ac.uk).
 ---
