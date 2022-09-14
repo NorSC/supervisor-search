@@ -6,7 +6,13 @@ available_msc: true
 available_phd: true
 email: paul.vickers@northumbria.ac.uk
 website: https://paulvickers.github.io/
-office_hours: "TBC. Email me for availability. "
+office_hours: >-
+  I work full time. There are two hours per week reserved for open office hours
+  where students can book to see me either online or in person. These are: 1.
+  Mondays 11.00–12.00;  2.  Wednesdays 10.00–11.00. 
+
+
+  Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams.
 research_group: Northumbria Social Computing
 research_themes:
   - Sonification and Auditory Display
