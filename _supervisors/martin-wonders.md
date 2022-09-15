@@ -36,10 +36,10 @@ additional_details: >-
   **ML_Project 2:** Sign Language interpretation: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for interpreting sign language from images.
 
 
-  **ML_Project 3:** Animal recognition and identification: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for recognition and identification of specific, individual animals in a herd. \
+  **ML_Project 3:** Animal recognition and identification: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for recognition and identification of specific, individual animals in a herd. 
 
 
-  **ML_Project 4:** Human pose estimation for sport: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for analysing human pose in sport. The aim here is to be able to indicate where an athlete can improve posture, position and technique within the range of known ideals. \
+  **ML_Project 4:** Human pose estimation for sport: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for analysing human pose in sport. The aim here is to be able to indicate where an athlete can improve posture, position and technique within the range of known ideals. 
 
 
   **ML_Project 5:** Object Tracking for autonomous robots: Using publicly available data you will investigate and demonstrate (with a working application) the state of the art in object tracking techniques for use in robotics or autonomous vehicles.
