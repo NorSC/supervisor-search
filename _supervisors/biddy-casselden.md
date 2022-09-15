@@ -8,10 +8,10 @@ email: b.casselden@northumbria.ac.uk
 website: "https://www.northumbria.ac.uk/about-us/our-staff/c/biddy-casselden/ "
 office_hours: >-
   I work Monday to Thursday - please email me to make an appointment if you
-  cannot attend the drop-in hours
+  cannot attend the drop-in hours.  I can meet in person, or via Teams.
 
 
-  Drop-in hours : Tuesday 2-3pm, Thursday 2-3pm
+  Drop-in hours : Tuesday 2-3pm, Thursday 2-3pm - either in person or via Teams.
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
