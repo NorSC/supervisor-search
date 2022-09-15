@@ -23,26 +23,26 @@ additional_details: >-
   My research interests are in Machine Learning for Activity Recognition (ML for
   AR) what-ever the domain or activity. In general, an undergraduate project
   with me would involve some form of data capture, data manipulation and
-  application of Machine Learning that should be packaged within a proof of
-  concept application. 
+  application of Machine Learning that should be packaged within a
+  proof-of-concept application.
 
 
   I’m happy to discuss any ideas you may have on the application of Machine Learning to sensor data, images or video but if you are unsure then you can choose from any of the following projects:
 
 
-  **ML_project 1:** Development of an automatic data labelling application: You will develop a software application that will use Machine learning to do object detection that auto-matically produces bounding boxes for further object detection.
+  **ML_project 1:** Development of an automatic data labelling application: You will develop a software application that will use Machine learning to do object detection that automatically produces bounding boxes for further object detection.
 
 
-  **ML_Project 2:** Sign Language interpretation: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for interpreting sign language from images.
+  **ML_Project 2:** Sign Language interpretation: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for interpreting sign language from images.
 
 
-  **ML_Project 3:** Animal recognition and identification: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for recognition and identification of specific, individual animals in a herd. 
+  **ML_Project 3:** Animal recognition and identification: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for recognition and identification of specific, individual animals in a herd.
 
 
-  **ML_Project 4:** Human pose estimation for sport: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for analysing human pose in sport. The aim here is to be able to indicate where an athlete can improve posture, position and technique within the range of known ideals. 
+  **ML_Project 4:** Human pose estimation for sport: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for analysing human pose in sport. The aim here is to be able to indicate where an athlete can improve posture, position and technique within the range of known ideals.
 
 
-  **ML_Project 5:** Object Tracking for autonomous robots: Using publicly available data you will investigate and demonstrate (with a working application) the state of the art in object tracking techniques for use in robotics or autonomous vehicles.
+  **ML_Project 5:** Object Tracking for autonomous robots: Using publicly available data you will investigate and demonstrate (with a working application) the state of the art in object tracking techniques for use in robotics or autonomous vehicles.
 additional_details_msc: >-
   My research interests are in Machine Learning for Activity Recognition (ML for
   AR) what-ever the domain or activity. In general, a Master's project with me
