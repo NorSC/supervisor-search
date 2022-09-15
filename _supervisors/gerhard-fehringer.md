@@ -1,12 +1,14 @@
 ---
 layout: supervisor
 title: Gerhard Fehringer
-available: false
+available: true
 available_msc: true
 email: gerhard.fehringer@northumbria.ac.uk
 office_hours: >-
   
-  I suggest that you email me and we can set up a TEAMS video call to discuss your ideas.
+  Monday 12.00-2.00pm; Thursday 1.00-2.00pm (during term time)
+
+  You can also email me and we can set up a meeting/TEAMS video call to discuss your ideas.
 research_group: Cyber Security and Network Systems
 research_themes:
   - Computer Networks
@@ -18,43 +20,30 @@ additional_keywords:
   - Networked Systems
 technologies_languages:
   - Android
-  - C++
   - Java
+  - C++
   - SQL
-additional_details: >-
+  - Interviews
+additional_details: |-
   I am interested in the following areas:
 
-
-  IPv6 & IPv6 Security
-
+  IPv6 & IPv6 Security, specifically issues around NDP
 
   Network Performance modelling and testing
-
 
   Simulation Performance vs Hardware Performance (eg GNS3)
 
-
-  Projects utilising Espruino Puck within a Google Home environment
-
-
-  However, I'd be very happy to discuss your own project ideas - as you will spend a lot of time on your project I prefer if it is something that you really want to do!
-additional_details_msc: >-
+  Projects utilising Espruino Puck
+additional_details_msc: |-
   I am interested in the following areas:
-
 
   IPv6 & IPv6 Security
 
-
   Network Performance modelling and testing
-
 
   Simulation Performance (eg GNS3)
 
-
   Projects utilising Espruino Puck 
 
-
-
-
-  However, I'd be very happy to discuss your own project ideas - as you will spend a lot of time on your project I prefer if it is something that you really want to do!
+  G﻿reen networking / analysis of energy efficient methods in simluators
 ---
