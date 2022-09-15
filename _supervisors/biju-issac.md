@@ -43,31 +43,31 @@ additional_details: >-
 
   **Titles of Projects:**\
 
-  Malware/Ransomware/IoT Botnet Detection using Machine/Deep Learning
+  (1) Malware/Ransomware/IoT Botnet Detection using Machine/Deep Learning; 
 
-  Sentiment Analysis of Twitter Feed using Machine/Deep Learning
+  (2) Sentiment Analysis of Twitter Feed using Machine/Deep Learning; 
 
-  Digital Forensics Analysis using Machine Learning/Deep Learning
+  (3) Digital Forensics Analysis using Machine Learning/Deep Learning; 
 
-  Intelligent Wireless Sensor Network Application in Healthcare\
+  (4) Intelligent Wireless Sensor Network Application in Healthcare; 
 
-  Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms
+  (5) Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms; 
 
-  Tackling Email Spamming through Machine Learning/Deep Learning
+  (6) Tackling Email Spamming through Machine Learning/Deep Learning; 
 
-  Machine/Deep Learning in Network Security
+  (7) Machine/Deep Learning in Network Security; 
 
-  Intelligent Analysis of Qualitative reports through Machine/Deep Learning
+  (8) Intelligent Analysis of Qualitative reports through Machine/Deep Learning; 
 
-  Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning
+  (9) Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning; 
 
-  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning\
+  (10) Spam Detection in Online Social Networks Through Machine Learning/Deep Learning; 
 
-  Credit Card Fraud detection system using ML and Bio-inspired Algorithms
+  (11) Credit Card Fraud detection system using ML and Bio-inspired Algorithms; 
 
-  Penetration Testing and Security Attacks using Kali Linux
+  (12) Penetration Testing and Security Attacks using Kali Linux; 
 
-  Design of an Enterprise WAN Network\
+  (13) Design of an Enterprise WAN Network; \
 
   \
 
@@ -80,33 +80,32 @@ additional_details_msc: >-
 
   **Titles of Projects:**\
 
-  Malware/Ransomware/IoT Botnet Detection using Machine/Deep Learning
+  (1) Malware/Ransomware/IoT Botnet Detection using Machine/Deep Learning; 
 
-  Sentiment Analysis of Twitter Feed using Machine/Deep Learning
+  (2) Sentiment Analysis of Twitter Feed using Machine/Deep Learning; 
 
-  Digital Forensics Analysis using Machine Learning/Deep Learning
+  (3) Digital Forensics Analysis using Machine Learning/Deep Learning; 
 
-  Intelligent Wireless Sensor Network Application in Healthcare\
+  (4) Intelligent Wireless Sensor Network Application in Healthcare; 
 
-  Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms
+  (5) Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms; 
 
-  Tackling Email Spamming through Machine Learning/Deep Learning
+  (6) Tackling Email Spamming through Machine Learning/Deep Learning; 
 
-  Machine/Deep Learning in Network Security
+  (7) Machine/Deep Learning in Network Security; 
 
-  Intelligent Analysis of Qualitative reports through Machine/Deep Learning
+  (8) Intelligent Analysis of Qualitative reports through Machine/Deep Learning; 
 
-  Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning
+  (9) Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning; 
 
-  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning\
+  (10) Spam Detection in Online Social Networks Through Machine Learning/Deep Learning; 
 
-  Credit Card Fraud detection system using ML and Bio-inspired Algorithms
+  (11) Credit Card Fraud detection system using ML and Bio-inspired Algorithms; 
 
-  Penetration Testing and Security Attacks using Kali Linux
+  (12) Penetration Testing and Security Attacks using Kali Linux; 
 
-  Design of an Enterprise WAN Network\
+  (13) Design of an Enterprise WAN Network; 
 
-  \
 
   NOTE: I am fine with doing any AI/ML project which looks at analysing a dataset in any field. If you have any related project ideas or others, please feel free to discuss that with me (email: biju.issac@northumbria.ac.uk).
 additional_details_phd: >-
@@ -117,31 +116,31 @@ additional_details_phd: >-
 
   **Titles of Projects:**\
 
-  Malware/Ransomware/IoT Botnet Detection using Machine/Deep Learning
+  (1) Malware/Ransomware/IoT Botnet Detection using Machine/Deep Learning; 
 
-  Sentiment Analysis of Twitter Feed using Machine/Deep Learning
+  (2) Sentiment Analysis of Twitter Feed using Machine/Deep Learning; 
 
-  Digital Forensics Analysis using Machine Learning/Deep Learning
+  (3) Digital Forensics Analysis using Machine Learning/Deep Learning; 
 
-  Intelligent Wireless Sensor Network Application in Healthcare\
+  (4) Intelligent Wireless Sensor Network Application in Healthcare; 
 
-  Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms
+  (5) Energy-efficient Virtual Machine Placement using Bio-inspired Optimisation Algorithms; 
 
-  Tackling Email Spamming through Machine Learning/Deep Learning
+  (6) Tackling Email Spamming through Machine Learning/Deep Learning; 
 
-  Machine/Deep Learning in Network Security
+  (7) Machine/Deep Learning in Network Security; 
 
-  Intelligent Analysis of Qualitative reports through Machine/Deep Learning
+  (8) Intelligent Analysis of Qualitative reports through Machine/Deep Learning; 
 
-  Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning
+  (9) Automatically Detect Eye Diseases (or Cancer Detection) through Machine/Deep Learning; 
 
-  Spam Detection in Online Social Networks Through Machine Learning/Deep Learning\
+  (10) Spam Detection in Online Social Networks Through Machine Learning/Deep Learning; 
 
-  Credit Card Fraud detection system using ML and Bio-inspired Algorithms
+  (11) Credit Card Fraud detection system using ML and Bio-inspired Algorithms; 
 
-  Penetration Testing and Security Attacks using Kali Linux
+  (12) Penetration Testing and Security Attacks using Kali Linux; 
 
-  Design of an Enterprise WAN Network\
+  (13) Design of an Enterprise WAN Network; \
 
   \
 
