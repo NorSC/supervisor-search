@@ -1,12 +1,14 @@
 ---
 layout: supervisor
 title: Dan Hodgson
-available: false
+available: true
 available_msc: true
 email: dan.hodgson@northumbria.ac.uk
-office_hours: These vary by semester. I currently am working at home when
-  plausible, but am available for meetings through Teams on those days, and
-  on-campus on teaching days.
+office_hours: These vary by semester. My drop-in hours for Sem1 2022 are
+  Tuesdays and Thursdays at 1. I will be in my office at other times, but will
+  not be available when teaching. I can also be contacted by email (Teams
+  messages are unreliable) and can arrange meetings, either on-campus or through
+  Teams.
 research_group: Intelligent Systems Research Group
 research_themes:
   - Game Design and Development
