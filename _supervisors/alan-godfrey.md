@@ -12,6 +12,8 @@ office_hours: |-
 research_group: Digital Health and Wellbeing
 research_themes:
   - Digital Health and Wellbeing
+  - Artificial Intelligence
+  - Machine Learning
 additional_keywords:
   - Bioinformatics
   - Data Analytics
