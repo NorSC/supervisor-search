@@ -5,7 +5,7 @@ available: true
 available_msc: true
 email: martin.wonders@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/martin-wonders/
-office_hours: Wednesdays 13:00 - 14:00 and Thursdays 12:00 - 13:00.
+office_hours: Fridays 13:30 - 14:30 and Wednesdays 11:30 - 12:30.
 research_group: Intelligent Systems Research Group
 research_themes:
   - Deep Learning
@@ -15,6 +15,8 @@ additional_keywords:
   - Activity Recognition
   - Reinforcement Learning
   - Modelling & Simulation
+  - Autonomous Systems
+  - Robotics
 technologies_languages:
   - Python
 additional_details: >-
