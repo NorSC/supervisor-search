@@ -45,20 +45,20 @@ additional_details: >-
   **ML_Project 5:** Object Tracking for autonomous robots: Using publicly available data you will investigate and demonstrate (with a working application) the state of the art in object tracking techniques for use in robotics or autonomous vehicles.
 additional_details_msc: >-
   My research interests are in Machine Learning for Activity Recognition (ML for
-  AR) what-ever the domain or activity. In general, a Masters project with me
+  AR) what-ever the domain or activity. In general, a Master's project with me
   would involve research into data capture and manipulation techniques or
   research on the application and integration of Machine Learning into real
-  world systems. 
+  world systems.
 
 
   I’m happy to discuss any ideas you may have on the application of Machine Learning to sensor data, images or video but if you are unsure then you can consider any of the following project areas:
 
 
-  **Automatic data labelling:** Data acquisition cleaning and manipulation takes considerable time in any Machine Learning project. For this reason the majority of published research makes use of curated freely available datasets. These datasets often have anomolies and can be biased so any ML that uses them could propogate the anomolies and the bias. This research project will investigate the bias in freely available datasets and determine wether the new trend in automatic data labelling systems propogates this bias.  
+  **Automatic data labelling:** Data acquisition cleaning and manipulation takes considerable time in any Machine Learning project. For this reason, the majority of published research makes use of curated freely available datasets. These datasets often have anomalies and can be biased so any ML that uses them could propagate the anomalies and the bias. This research project will investigate the bias in freely available datasets and determine whether the new trend in automatic data labelling systems propagates this bias.
 
 
-  **Autonomous systems in sport:** Intelligent Computer systems are increasingly being used in live sporting events to assist human umpires and referees e.g. Hawkeye and Goal Line Technology. In this project you will research the current state of the art in computer vision with respect to Video Assisted Refereing (VAR). The aim here is to establish whether Computer Vision systems could be used to indicate to the Video Assistant Referee what the decision should be. To provide more focussed research the project would concentrate on off-side decisions.
+  **Autonomous systems in sport:** Intelligent Computer systems are increasingly being used in live sporting events to assist human umpires and referees e.g. Hawkeye and Goal Line Technology. In this project you will research the current state of the art in computer vision with respect to Video Assisted Refereeing (VAR). The aim here is to establish whether Computer Vision systems could be used to indicate to the Video Assistant Referee what the decision should be. To provide more focussed research the project would concentrate on off-side decisions.
 
 
-  **Object Tracking for autonomous robots:** Indoor autonomous systems are ubiquotous in state of the art warehouse environments e.g. Amazon's warehouse and Ocado but quite often these systems make limited use of fully autonomous robots. We are currently a long way from having autonomous robots that can fully understand dynamic, unpredictable environments. This may be due to the limitations in tracking objects once they are recognised by computer vision systems. In this project you will research the latest developments in indoor obstacle detection and tracking. The aim here is to propose, through research and testing, a feesable system for indoor obstacle detection and tracking.
+  **Object Tracking for autonomous robots:** Indoor autonomous systems are ubiquitous in state-of-the-art warehouse environments e.g. Amazon's warehouse and Ocado but quite often these systems make limited use of fully autonomous robots. We are currently a long way from having autonomous robots that can fully understand dynamic, unpredictable environments. This may be due to the limitations in tracking objects once they are recognised by computer vision systems. In this project you will research the latest developments in indoor obstacle detection and tracking. The aim here is to propose, through research and testing, a feasible system for indoor obstacle detection and tracking.
 ---
