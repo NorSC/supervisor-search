@@ -7,12 +7,13 @@ available_phd: true
 email: rebecca.strachan@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/
 office_hours: >-
-  I work full time. There are two hours per week reserved for open office hours
-  where students can book to see me either online or in person. These are: 1.
-  Tuesdays 9-10am;  2.  Wednesdays 9-10 am, 
+  I work full time. I have three drop in hours per week where students can just
+  drop in to see me. These are Wednesdays 9.30 - 11am and Thursdays 3.30-
+  5pm.  If you would like a specific time during this period, just contact me
+  via email to book an appointment.
 
 
-  Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams/BB Collaborate.
+  My office is ELB112 on the first floor of B Block, Ellison Building and my work phone no is 0191 227 3606.
 research_group: Digital Learning Laboratory
 research_themes:
   - Human-Computer Interaction
