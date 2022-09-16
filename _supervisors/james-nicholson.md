@@ -1,11 +1,11 @@
 ---
 layout: supervisor
 title: James Nicholson
-available: false
+available: true
 available_msc: true
 available_phd: true
 email: james.nicholson@northumbria.ac.uk
-website: https://jjnc.xyz
+website: https://researchportal.northumbria.ac.uk/en/persons/james-nicholson
 office_hours: Mon-Fri
 research_group: Northumbria Social Computing
 research_themes:
@@ -20,6 +20,7 @@ technologies_languages:
   - JavaScript
   - Think Aloud Protocol
   - Interviews
+  - Cognitive Walkthrough
 additional_details: >-
   Development and evaluation of an AI-powered graphical password.
 
@@ -30,4 +31,7 @@ additional_details_msc: >-
 
 
   Using security attack demonstrations to improve cybersecurity awareness (phishing/password management).
+
+
+  Development of customisable InTray software for research.
 ---
