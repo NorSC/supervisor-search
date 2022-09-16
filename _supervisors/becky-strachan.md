@@ -24,14 +24,57 @@ additional_keywords:
 technologies_languages:
   - User Stories
 additional_details: >-
-  Additional Themes: Computer Science Education,  Online Learning, Digital
-  Literacy
+  **Additional Themes**: Computer Science Education, Digital Fluency, STEM
+  education, User Experience
 
 
-  Other key words: Game based learning, Active online learning, Social computing, Action Research
+  **Other key words**: Game based learning, Active learning, Student centred learning, Participatory research, Action research, Social inclusion, Pedagogy
 
 
-  My main research interests are in using technology to enhance education - this is across the whole education system from early years to college/university to lifelong learning. I am also interested in exploring how we can enhance and innovate the education and the student experience for computer science and digital technology students. Finally I have worked on projects that have explored how to provide a more inclusive educational environment and how we can ensure that everyone irrespective of their background or experiences is digitally fluent, both here in the UK and globally.
+  My main research interests are in using technology to enhance education and open up opportunities for people irrespective of their backgrounds, environment and culture. This is across a person’s lifetime from early years to college/university to lifelong learning. I am also interested in exploring how we can further enhance the education and student experience particularly in the computer science and wider STEM disciplines. I am also interested in the end user experience of technology more widely and also in how to embed sustainability into technology practices.
+
+  I particularly like using action and participatory research methods.
+
+
+  H﻿ere are some of my current ideas for Undergraduate Final Year Projects:
+
+
+  1﻿. ***Development of a Gamified Online Resource to Educate Students about Good Academic Practice and how to Avoid Academic Misconduct.***
+
+
+  H﻿igher education is witnessing an increase in the cases of academic misconduct including contract cheating and plagiarism. This project would look at developing a set of online resources to educate students about how to use good academic practice and avoid academic misconduct. It would ideally use a gamified approach to provide a more playful learning environment and focus on students in the computer science disciplines.
+
+
+  ***R﻿elated Reading***
+
+
+  E﻿uropean Network for Academic Integrity. This has a wealth of resources including a self-evaluation tool for students. See <https://www.academicintegrity.eu/wp/> and [https://www.academicintegrity.eu/survey](https://www.academicintegrity.eu/survey/)
+
+
+  Saleem, A.N., Noori, N.M. and Ozdamli, F., 2021. Gamification applications in E-learning: A literature review. *Technology, Knowledge and Learning*, pp.1-21.
+
+
+  International Center for Academic Integrity \[ICAI]. (2021). The Fundamental Values of Academic Integrity. (3rd ed.). <https://academicintegrity.org/images/pdfs/20019_ICAI-Fundamental-Values_R12.pdf>
+
+
+  2﻿. ***Inclusive Educational Resources and Practice: A Good Practice Guide*** 
+
+  There is still a gender imbalance in computer science and computer science education in the UK. This is mirrored elsewhere too. This project would develop an online guide for good practice around inclusive educational resources , focusing on the computer science disciplines.
+
+
+  ***Related Reading:***
+
+
+  Mooney, C. and Becker, B.A., 2020, September. Sense of Belonging: The intersectionality of self-identified minority status and gender in undergraduate computer science students. In United Kingdom & Ireland Computing Education Research conference. (pp. 24-30).
+
+
+  González-González, C.S., García-Holgado, A. and García-Peñalvo, F.J., 2020, April. Strategies to introduce gender perspective in Engineering studies: a proposal based on self-diagnosis. In 2020 IEEE Global Engineering Education Conference (EDUCON) (pp. 1884-1890). IEEE.
+
+
+  Sathy, V. and Hogan, K.A., 2019. How to make your teaching more inclusive. The Chronicle of Higher Education, 7.
+
+
+  T﻿hese are just a couple of ideas but I would be happy to discuss other ideas that you may have related to my areas of interest.
 additional_details_msc: >-
   **Additional Themes**: Computer Science Education, Digital Fluency, STEM
   education, User Experience
@@ -95,12 +138,15 @@ additional_details_msc: >-
 
   These are just some of the ideas I have had regarding possible research. We also have a set of data from Nigeria about online learning during the COVID Pandemic that could be made available to anybody interested in exploring online school education provision during COVID. I would also be happy to discuss other ideas you may have.
 additional_details_phd: >-
-  Additional Themes: Computer Science Education,  Online Learning, Digital
-  Literacy
+  **Additional Themes**: Computer Science Education, Digital Fluency, STEM
+  education, User Experience
 
 
-  Other key words: Game based learning, Active online learning, Social computing, Action Research
+  **Other key words**: Game based learning, Active learning, Student centred learning, Participatory research, Action research, Social inclusion, Pedagogy
 
 
-  I am interested in supervising PhD students in the areas of technology enhanced learning, digital literacy/digital fluency and computer science education. I also have a research interest in improving STEM education and career knowledge/aspirations among young people to ensure we have a more diverse and inclusive STEM sector for the future.  I particularly like using action and participatory research methods.
+  My main research interests are in using digital technology to enhance education and open up opportunities for people irrespective of their backgrounds, environment and culture. This is across a person’s lifetime from early years to college/university to lifelong learning. I am also interested in exploring how we can further enhance the education and student experience particularly in the computer science and wider STEM disciplines. This includes developing career knowledge and aspirations among young people to ensure we have a more diverse and inclusive STEM sector for the future. I am also interested more generally in the end user experience of digital technology and computing systems.
+
+
+  I am interested in supervising PhD students in the areas of technology enhanced learning, digital literacy/digital fluency and computer science education. I particularly like using action and participatory research methods.
 ---
