@@ -33,13 +33,25 @@ additional_details: >-
 
   My main research interests are in using technology to enhance education - this is across the whole education system from early years to college/university to lifelong learning. I am also interested in exploring how we can enhance and innovate the education and the student experience for computer science and digital technology students. Finally I have worked on projects that have explored how to provide a more inclusive educational environment and how we can ensure that everyone irrespective of their background or experiences is digitally fluent, both here in the UK and globally.
 additional_details_msc: >-
+  **Additional Themes**: Computer Science Education, Digital Fluency, STEM
+  education, User Experience
+
+
+  **Other key words**: Game based learning, Active learning, Student centred learning, Participatory research, Action research, Social inclusion, Pedagogy
+
+
+  My main research interests are in using technology to enhance education and open up opportunities for people irrespective of their backgrounds, environment and culture. This is across a person’s lifetime from early years to college/university to lifelong learning. I am also interested in exploring how we can further enhance the education and student experience particularly in the computer science and wider STEM disciplines. I am also interested in the end user experience of technology more widely and also in how to embed sustainability into technology practices.
+
+  I particularly like using action and participatory research methods.
+
+
   Here are some of my current ideas for Masters level research topics:
 
 
   1. ***Co-Creating Solutions with Students to Encourage Good Academic Practice with a focus on Combatting Plagiarism***
      Despite the provision of numerous resources and advice and guidance on plagiarism, the Higher Education sector in the UK and elsewhere is still experiencing a significant number of cases of student plagiarism each year. This research study would use participatory action research to work with a set of students at Northumbria to explore their attitudes and behaviour towards academic misconduct and co-design a set of resources/approaches with them to encourage good academic practice and reduce cases of plagiarism within the wider student body.
 
-  Related Reading:
+  ***Related Reading:***
 
 
   Halak, B. and El-Hajjar, M., 2019. Design and evaluation of plagiarism prevention and detection techniques in engineering education. Higher Education Pedagogies, 4(1), pp.197-208.
@@ -54,7 +66,7 @@ additional_details_msc: >-
   2. ***Co-Creating Digital Induction Resources for Postgraduate International Computer Science Students***
      There is evidence that international students in the UK can find I difficult to adapt to our way of education. We are also seeing increasing numbers of international students particularly at postgraduate levels and in disciplines such as computer science and business. This project will adopt exploratory research, working with a group of students to understand their experience of starting their postgraduate programmes with a view to developing a set of online induction resources to provide better support in the future.
 
-  Related Reading:
+  ***Related Reading:***
 
 
   Cowley, P. and Hyams-Ssekasi, D., 2018. Motivation, induction, and challenge: Examining the initial phase of international students’ educational sojourn. Journal of International Students, 8(1), pp.109-130.
@@ -69,7 +81,7 @@ additional_details_msc: >-
   3. ***Inclusive Educational Resources and Practice: A Case Study in Computer Science at Northumbria University*** 
      There is still a gender imbalance in computer science and computer science education in the UK. This is mirrored elsewhere too. This research would use the computer science provision at Northumbria University to investigate the extent to which its educational resources and practice are inclusive. The research would employ an exploratory research approach.
 
-  Related Reading:
+  ***Related Reading:***
 
 
   Mooney, C. and Becker, B.A., 2020, September. Sense of Belonging: The intersectionality of self-identified minority status and gender in undergraduate computer science students. In United Kingdom & Ireland Computing Education Research conference. (pp. 24-30).
