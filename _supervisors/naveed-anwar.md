@@ -2,30 +2,29 @@
 layout: supervisor
 title: Dr Naveed Anwar
 available: true
+available_msc: true
+available_phd: true
 email: naveed.anwar@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/a/naveed-anwar/
 office_hours: Mondays MS Team 10.00 -12.00 hrs
 research_group: Digital Health and Wellbeing
 research_themes:
-  - Mobile Computing
   - Machine Learning
   - Web Design and Development
   - Database
   - Data Science
-  - Data Privacy
   - Artificial Intelligence
   - Information Science
   - Digital Health and Wellbeing
+  - Human-Computer Interaction
 additional_keywords:
   - Web Services
   - Social Media
   - Public Health
   - Personal Informatics
   - Open Data
-  - Human-Building Interaction
   - Digital Living
   - Decision Making
-  - Applied Mathematics
   - Data Analytics
   - Health Informatics
   - Information Management
