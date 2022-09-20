@@ -1,8 +1,8 @@
 ---
 layout: supervisor
 title: Emma Anderson
-available: false
-available_msc: true
+available: true
+available_msc: false
 available_phd: false
 email: emma.anderson2@northumbria.ac.uk
 office_hours: Please contact me via email to make an appointment.
@@ -36,16 +36,10 @@ additional_details: >-
   I usually supervise projects which have had web database solutions, with
   recommender systems, social networking and other API
   integration, customisable interfaces or systems for real clients being some of
-  the most recent topics. 
+  the most recent topics.  Web usability and accessibility are also areas of
+  interest for projects.
 
 
   I also have an interest in computational linguistics and have supervised a couple of projects relating to linguistics and computing too.
-additional_details_msc: >-
-  I usually supervise projects which have had web database solutions, with
-  recommender systems, social networking and other API
-  integration, customisable interfaces or systems for real clients being some of
-  the most recent topics. 
-
-
-  I also have an interest in computational linguistics and have supervised a couple of projects relating to linguistics and computing too.
+additional_details_msc: ""
 ---
