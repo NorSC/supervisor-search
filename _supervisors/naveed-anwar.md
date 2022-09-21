@@ -6,7 +6,9 @@ available_msc: true
 available_phd: true
 email: naveed.anwar@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/a/naveed-anwar/
-office_hours: Mondays MS Team 10.00 -12.00 hrs
+office_hours: |-
+  Mondays 11.30 -12.30 hrs
+  Wednesdays 11.30 - 12.30 hrs
 research_group: Digital Health and Wellbeing
 research_themes:
   - Machine Learning
