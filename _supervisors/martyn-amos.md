@@ -7,8 +7,7 @@ available_phd: true
 email: martyn.amos@northumbria.ac.uk
 website: http://www.martynamos.org
 office_hours: >
-  Please contact me to arrange an ad hoc appointment. I am currently the Acting
-  Head of Department, so my schedule is quite constrained.
+  My drop-in hours are Monday 12-1 and Wednesday 1-2.
 
 
   My office is Ellison B1.22, on the first floor where Ellison joins the new CIS building (overlooking the atrium lab area). You can also access it via the CIS building by taking the stairs/lift to the first floor, and then walking left out of CIS into Ellison.
