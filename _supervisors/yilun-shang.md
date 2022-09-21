@@ -9,7 +9,7 @@ website: https://www.northumbria.ac.uk/about-us/our-staff/s/yilun-shang/
 office_hours: >-
   I work full time. There are three hours per week reserved for open office
   hours where students can book to see me in person in Ellison Building B, Room
-  206. These are: Tuesday 12:00 - 14:00;  Friday 11:00 -12:00. 
+  206. These are: Tuesday 12:00 - 13:00;  Friday 11:00 -12:00. 
 
 
   You can also contact me through email or MS Teams.
