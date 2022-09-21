@@ -62,6 +62,12 @@ additional_details: >-
   **4 Preserving Privacy when Fighting against Finance Crimes**
 
 
+  Investigation into finance crimes such as corruptions, money laundering, requests a full access to individual bank accounts including personal data and historic transaction data. What price should anti-financial crimes put on people's privacy rights? This question has become unavoidable for all involved in the fight. We need to strike a balance between the effective extraction of information to expose criminal activities and the responsible use of personal data.
+
+
+  In this project, we will explore privacy preserving solutions that are capable of training anomaly detection models given the datasets, while providing a demonstrable level of privacy protection against well-known privacy violation attacks. Students who have machine learning background and especially in Anti-Money Laundering  models are welcome to join this project.
+
+
   **5**
 additional_details_msc: ""
 ---
