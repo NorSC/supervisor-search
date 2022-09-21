@@ -2,14 +2,17 @@
 layout: supervisor
 title: Wai Lok Woo
 available: true
-available_msc: false
+available_msc: true
 available_phd: true
 email: wailok.woo@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/wai-lok-woo/
 office_hours: >-
-  Monday   9:30 - 10:30
+  Student drop-in sessions:
 
-  Tuesday 10:00 - 11:00
+
+  Monday   9:30am - 10:30am
+
+  Tuesday 10:00am - 11:00am
 
 
   My office is Ellison Block B, room ELB208. If you are not free during these hours, please drop me an email to see how we may best meet.
@@ -46,24 +49,16 @@ additional_details: >-
   Cancer can be considered one of the most deadly and least understood afflictions of modern times. Recently, there have been [18million new cases of cancer globally and 9.6million deaths](http://gco.iarc.fr/today/data/factsheets/cancers/39-All-cancers-fact-sheet.pdf), yielding a 52.9% average mortality rate. There are a lot of potential for growth in the area of AI for cancer detection. The project will be to develop an AI system that can detect cancer efficiently and inform the results to the pathologist rather than to replace the role of pathologist. Histopathological images will be used where AI-based algorithms will be developed to classify these images into different categories corresponding to the progression stages of cancer or segment parts of image that correspond to the cancer cells only. The AI-based algorithms can also be used to explain the prediction results to the clinicians so that the AI model is more transparent. The project could also incorporate the use of genomics data to complement the histopathological image for better decision making. 
 
 
-   
+  **Project 2: AI for Data-Driven Climate Change Research**
 
 
-  **Project 2: AI for Disaster Prediction and Resilience**
-
-
-  Floods are among the most destructive natural disasters, which are highly complex to model. The research on the advancement of flood prediction models contributed to risk reduction, policy suggestion, minimization of the loss of human life, and reduction of the property damage associated with floods. To mimic the complex mathematical expressions of physical processes of floods, during the past two decades, AI methods contributed highly in the advancement of prediction systems providing better performance and cost-effective solutions. Due to the vast benefits and potential of AI, its popularity dramatically increased. Researchers through introducing novel AI methods and hybridizing of the existing ones aim at discovering more accurate and efficient prediction models. The main contribution of this project is to demonstrate the state of the art of AI models in flood prediction and to give insight into the most suitable models. Qualitative analysis of robustness, accuracy, effectiveness, and speed will be investigated to provide an extensive overview on the various AI algorithms used in the field. The project can be used as a guideline for climate scientists in choosing the proper AI method according to the prediction task.
-
-
-   
+  Advanced analytics and artificial intelligence (AI) can be used to help manage challenging issues related to mitigating climate change and improving adaptation and resilience. As climate change intensifies the devastation from storms, wildfires and droughts, AI and data analytics are increasingly being seen as a way to predict and limit its impacts. F﻿or example, floods are among the most destructive natural disasters, which are highly complex to model. The research on the advancement of flood prediction models contributed to risk reduction, policy suggestion, minimization of the loss of human life, and reduction of the property damage associated with floods. To mimic the complex mathematical expressions of physical processes of floods, during the past two decades, AI methods contributed highly in the advancement of prediction systems providing better performance and cost-effective solutions. Researchers through introducing novel AI methods and hybridizing of the existing ones aim at discovering more accurate and efficient prediction models. The main contribution of this project is to demonstrate the state of the art of AI models in flood prediction and to give insight into the most suitable models. Qualitative analysis of robustness, accuracy, effectiveness, and speed will be investigated to provide an extensive overview on the various AI algorithms used in the field. The project can be used as a guideline for climate scientists in choosing the proper AI method according to the prediction task. 
 
 
   **Project 3: AI for identifying causes and predicting future events**
 
 
   Causal models remain robust when interventions change the statistical distributions of a problem. For instance, when you see an object for the first time, your mind will subconsciously factor out lighting from its appearance. That’s why, in general, you can recognize the object when you see it under new lighting conditions. Causal models allow us to respond to situations we haven’t seen before and think about counterfactuals. We don’t need to drive a car off a cliff to know what will happen. Counterfactuals play an important role in cutting down the number of training examples a machine learning model needs. Once a causal model is available, either by external human knowledge or a learning process, causal reasoning allows to draw conclusions on the effect of interventions, counterfactuals and potential outcomes. The project will develop causal AI reasoning algorithms to identify factors and predict outcome in real applications. This Include object recognition in different background and lightning conditions, identifying factors that cause a hotel booking to be cancelled and predicting future hotel cancellation, estimating the effect of a subscription of a rewards program for attracting customers and predicting future customer behaviour, identifying factors that lead people to become more polarized in their beliefs about climate change and predicting future beliefs, and etc. There are a range of other applications where causal AI models are useful. In this project, you will choose an application of your own choice where causal AI model will be used to identify the causes and predict the desired outcome.
-
-
 
 
   **Project 4: Human-in-the-loop for training AI models for defect detection**
