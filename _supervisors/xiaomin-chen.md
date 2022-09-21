@@ -35,7 +35,7 @@ additional_details: >-
   The BSc project ideas I'm interested in include:
 
 
-  **1 Privacy and Untraceability in digital payment systems**
+  **1 Privacy and Untraceability in Digital Payment Systems**
 
 
   **K﻿eywords: Privacy, Cryptocurrency, Bitcoin, Blind Signature**
@@ -47,7 +47,7 @@ additional_details: >-
   We have proposed such a system and are planning to build a prototype for it. If you're interested in data privacy and cryptography, and good at programming in Java,  we would like you to join in this project. 
 
 
-  **2 Privacy in recommendation systems**
+  **2 Privacy in Recommendation Systems**
 
 
   **K﻿eywords: Privacy, Differential Privacy, Federated Learning, Recommender Algorithm**
