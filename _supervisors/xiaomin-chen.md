@@ -5,8 +5,8 @@ available: true
 available_msc: true
 email: xiaomin.chen@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/c/xiaomin-chen/
-office_hours: Please contact me to arrange an appointment at 13:00-14:00 Tuesday
-  and 13:00-14:00 Thursday.
+office_hours: Please contact me to arrange an appointment at 13:00-14:00
+  Wednesday and 13:00-14:00 Thursday.
 research_group: Cyber Security and Network Systems
 research_themes:
   - Internet of Things
