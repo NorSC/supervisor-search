@@ -11,21 +11,23 @@ research_group: Cyber Security and Network Systems
 research_themes:
   - Internet of Things
   - Data Privacy
-  - Computer Networks
   - Cyber Security
-  - Network Simulation
+  - Digital Health and Wellbeing
+  - Machine Learning
+  - Deep Learning
+  - Mobile Computing
 additional_keywords:
-  - Network Protocol Design
   - Cryptography
   - Applied Mathematics
   - Modelling & Simulation
   - Autonomous Systems
-  - Green Networking
   - Cloud/Edge Computing
   - Cyber-Physical Systems
   - Networked Systems
   - Wireless Sensor Networks
   - Usable Privacy & Security
+  - Data Visualisation
+  - Distributed Computing
 technologies_languages:
   - C
   - C++
@@ -65,7 +67,7 @@ additional_details: >-
   Investigation into finance crimes such as corruptions, money laundering, requests a full access to individual bank accounts including personal data and historic transaction data. What price should anti-financial crime put on people's privacy rights? This question has become unavoidable for all involved in this fight. We need to strike a balance between the effective extraction of information to expose criminal activities and the responsible use of personal data. 
 
 
-  In this project, we will explore privacy preserving solutions that are capable of training anomaly detection models, while providing a demonstrable level of privacy protection against well-known privacy violation attacks. Students who have machine learning background and are interested in Anti-Money Laundering models are welcome to join this project. 
+  In this project, we will explore privacy preserving solutions that are capable of training anomaly detection models, while providing a demonstrable level of privacy protection against well-known privacy violation attacks. Students who have machine learning background and are interested in Anti-Money Laundering are welcome to join this project.
 
 
   **4﻿ Mobility Disorder Monitoring System for the Elderly**
