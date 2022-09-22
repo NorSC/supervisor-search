@@ -5,6 +5,7 @@ available: true
 available_msc: true
 available_phd: false
 email: bing.zhai@northumbria.ac.uk
+website: https://scholar.google.com/citations?user=mswJ-JUAAAAJ&hl=en
 office_hours: |
   Monday 9:00 - 11:00
 research_group: Computer Vision and Natural Computing
