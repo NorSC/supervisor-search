@@ -5,7 +5,10 @@ available: true
 available_msc: false
 available_phd: false
 email: emma.anderson2@northumbria.ac.uk
-office_hours: Please contact me via email to make an appointment.
+office_hours: |-
+  My student drop-in hours are Monday 12-1 and Wednesday 10-11.
+
+  Preferrably, please contact me via email to make an appointment.
 research_group: Digital Learning Laboratory
 research_themes:
   - Web Design and Development
