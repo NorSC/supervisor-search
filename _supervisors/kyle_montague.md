@@ -38,29 +38,28 @@ technologies_languages:
   - NoSQL
   - iOS
 additional_details: >-
-  I'm keen to supervise projects that you are passionate about. If you've got an
-  idea and looks like I've got relevant experience and interests then get in
-  touch. 
-
-
-  Likewise if you're not exactly sure on a suitable topic yet feel free to have a look at my recent works / publications to see the types of research I'm involved in. 
-
-
-  You can see some of the active projects (we can develop a new project idea that aligns with any of these):
+  You can see some of the active projects (we can develop a new project idea
+  that aligns with any of these):
 
 
   * <https://colospeed.uk/> – Digital technologies to support colorectal cancer research
 
-  * <https://enablingongoingness.com/> – Digital/Physical interaction design around end of life and bereavement 
+  * <https://enablingongoingness.com/> – Digital/Physical interaction design around end of life and bereavement (IoT/Android/iOS/Wearables)
 
   * <https://www.digitalcitizens.uk/> – exploring the role of digital technologies with respect to community engagement, democracy, discrimination, politics and action.
 
-  * <https://cue.band/> – wearable technologies to improve the quality of life for people living with Parkinson's Disease.
+  * <https://cue.band/> – wearable technologies to improve the quality of life for people living with Parkinson's Disease. (Android/iOS/Wearables)
 
-  * <https://techandpeople.github.io/wildkey/> – Privacy aware mobile keyboard data collection for research studies.
+  * <https://techandpeople.github.io/wildkey/> – Privacy aware mobile keyboard data collection for research studies. 
 
 
   Finally, here are some ideas that I'm currently discussing with my research team in NorSC. 
+
+
+  ## QRcade
+
+
+  Can we build and play games with QR codes? In recent years we've seen a resurgence in the use of QRcodes for quick access and sharing of information. This project will explore alternative use cases these QRcodes. For example, can we create multiplayer games such as LaserTag using our phones and QRcodes? What about recreating some retro arcade games as large scale interactions for public displays through the power of QRcodes. 
 
 
   ## Social Change Technologies
