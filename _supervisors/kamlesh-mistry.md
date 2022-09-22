@@ -5,7 +5,7 @@ available: true
 available_msc: true
 email: k.mistry@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/m/kamlesh-mistry/
-office_hours: "Weekdays: 9 am to 5 pm."
+office_hours: "Wednesdays: 1 pm to 3 pm."
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Deep Learning
