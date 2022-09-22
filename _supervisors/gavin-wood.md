@@ -15,6 +15,7 @@ additional_keywords:
   - Equality Diversity & Inclusion
   - Interaction Design
   - Social Computing
+  - Qualitative Methods
 technologies_languages:
   - Virtual Reality (VR)
   - Augmented Reality (AR)
