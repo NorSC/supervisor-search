@@ -1,6 +1,6 @@
 ---
 layout: supervisor
-title: Dr Naveed Anwar
+title: Naveed Anwar
 available: true
 available_msc: true
 available_phd: true
