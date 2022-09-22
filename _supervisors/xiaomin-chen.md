@@ -16,6 +16,7 @@ research_themes:
   - Machine Learning
   - Deep Learning
   - Mobile Computing
+  - Computer Networks
 additional_keywords:
   - Cryptography
   - Applied Mathematics
