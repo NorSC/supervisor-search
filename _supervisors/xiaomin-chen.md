@@ -40,7 +40,9 @@ additional_details: >-
   into the application of Machine Learning techniques to strike a trade-off
   between data utility and privacy protection, in the application domains such
   as e-commerce, recommendation systems, digital healthcare, anti-financial
-  crime.
+  crime. Another strand of my research is wireless networking. I'm interested in
+  protocol design, network modelling, performance analysis, and security aspects
+  in cyber-physical systems. 
 
 
   The BSc projects that I'm interested in supervising are listed as below:
@@ -67,10 +69,10 @@ additional_details: >-
   Recommendation systems play a key role in today's e-commerce platforms. Recommendations are performed by analysing users' purchase historic data and personal profiles. It has been revealed that the service providers collect more data than required.  Even ethical data aggregation and analytics can violate user privacy. In this project students will investigate state-of-the-art privacy-preserving measures, such as differential learning, federated learning, and deep-learning recommendation algorithms, and develop a prototype for a private recommendation system. Knowledge in machine learning/deep learning and programming in python are essential. such as differential learning, federated learning, 
 
 
-  **3 Preserving Privacy when Fighting against Finance Crimes**
+  **3 Preserving Privacy when Fighting against Financial Crimes**
 
 
-  **K﻿eywords: Privacy, Money Laundering, Federated Learning, Finance Crimes**
+  **K﻿eywords: Privacy, Money Laundering, Federated Learning, Financial Crime, Credit Card Fraud**
 
 
   Investigation into finance crimes such as corruptions, money laundering, requests a full access to individual bank accounts including personal data and historic transaction data. What price should anti-financial crime put on people's privacy rights? This question has become unavoidable for all involved in this fight. We need to strike a balance between the effective extraction of information to expose criminal activities and the responsible use of personal data. 
@@ -93,7 +95,9 @@ additional_details_msc: >-
   into the application of Machine Learning techniques to strike a trade-off
   between data utility and privacy protection, in the application domains such
   as e-commerce, recommendation systems, digital healthcare, anti-financial
-  crime.
+  crime. Another strand of my research is wireless networking. I'm interested in
+  protocol design, network modelling, performance analysis, and security aspects
+  in cyber-physical systems. 
 
 
   The MSc projects that I'm interested in supervising are listed as below:
@@ -120,13 +124,13 @@ additional_details_msc: >-
   Recommendation systems play a key role in today's e-commerce platforms. Recommendations are performed by analysing users' purchase historic data and personal profiles. It has been revealed that the service providers collect more data than required.  Even ethical data aggregation and analytics can violate user privacy. In this project students will investigate state-of-the-art privacy-preserving measures, such as differential learning, federated learning, and deep-learning recommendation algorithms, and develop a prototype for a private recommendation system. Knowledge in machine learning/deep learning and programming in python are essential. such as differential learning, federated learning, 
 
 
-  **3 Preserving Privacy when Fighting against Finance Crimes**
+  **3 Preserving Privacy when Fighting against Financial Crimes**
 
 
-  **K﻿eywords: Privacy, Money Laundering, Federated Learning, Finance Crimes**
+  **K﻿eywords: Privacy, Money Laundering, Credit Card Fraud,** **Federated Learning, Financial Crime**
 
 
-  Investigation into finance crimes such as corruptions, money laundering, requests a full access to individual bank accounts including personal data and historic transaction data. What price should anti-financial crime put on people's privacy rights? This question has become unavoidable for all involved in this fight. We need to strike a balance between the effective extraction of information to expose criminal activities and the responsible use of personal data. 
+  Investigation into financial crimes such as corruptions, money laundering, credit card fraud, requests a full access to individual bank accounts including personal data and historic transaction data. What price should anti-financial crime put on people's privacy rights? This question has become unavoidable for all involved in this fight. We need to strike a balance between the effective extraction of information to expose criminal activities and the responsible use of personal data. 
 
 
   In this project, we will explore privacy preserving solutions that are capable of training anomaly detection models, while providing a demonstrable level of privacy protection against well-known privacy violation attacks. Students who have machine learning background and are interested in Anti-Money Laundering models are welcome to join this project. 
