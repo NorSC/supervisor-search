@@ -39,4 +39,7 @@ additional_details: >-
 
 
   **M﻿obile app gamification** - We have a mobile application designed to encourage users to engage with various wellbeing activities. Your part of the project would be to create gamification elements to support the rest of the tool. There are already some good ideas for how to do this, which we would need to discuss in person. You would need to have some experience of android development, or at least be keen to learn.
+
+
+  "﻿I want to make a game" is a really bad idea for a project. There are two reasons. First, the ideas come from your head, which makes it very hard to explore requirements, and also to evaluate, which are both hugely important parts of the project. Second, a game has many components and you will have to do them all very briefly, which prevents you from demonstrating excellence. It is very possible to do a game-related project, but usually on some specific aspect of a game, or something small for a specific purpose.
 ---
