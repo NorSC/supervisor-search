@@ -28,13 +28,13 @@ technologies_languages:
   - Python
 additional_details: >-
   Dr. Ammar Belatreche is an Associate Professor in Computer Science and is a
-  member of the Intelligent Systems Research Group (ISRG) within the Department
-  of Computer and Information Sciences, Northumbria University. He has extensive
+  member of the Intelligent Systems Research Group (ISRG), Department of
+  Computer and Information Sciences, Northumbria University. He has extensive
   experience across academic and R&D in the areas of bio-inspired intelligent
   systems, machine learning, quantum computing based machine learning, face
   detection and recognition, structured and unstructured data analytics, capital
   markets engineering, image processing and understanding, medical imaging
-  diagnosis.
+  diagnosis. 
 
 
   **Suggested topics for supervision:**
@@ -84,13 +84,13 @@ additional_details: >-
   **Programming languages:** Matlab, Python, C/C++, Java
 additional_details_msc: >-
   Dr. Ammar Belatreche is an Associate Professor in Computer Science and is a
-  member of the Intelligent Systems Research Group (ISRG) within the Department
-  of Computer and Information Sciences, Northumbria University. He has extensive
+  member of the Intelligent Systems Research Group (ISRG), Department of
+  Computer and Information Sciences, Northumbria University. He has extensive
   experience across academic and R&D in the areas of bio-inspired intelligent
   systems, machine learning, quantum computing based machine learning, face
   detection and recognition, structured and unstructured data analytics, capital
   markets engineering, image processing and understanding, medical imaging
-  diagnosis.
+  diagnosis. 
 
 
   **Suggested topics for supervision:**
