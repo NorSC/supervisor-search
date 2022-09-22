@@ -52,5 +52,5 @@ additional_details: >-
   * Investigate packaging as a python module for straightforward distribution and use.
 
 
-  There are some slightly gnarly corners to navigate, several digressions or extensions you might choose to pursue, and some simplifications which could be made if necessary. You'll also be working in the constrained environment of microcontrollers. Also: playing with cute cardboard robots.
+  If it's not already obvious, this is a programming project. There are some slightly gnarly corners to navigate, several digressions or extensions you might choose to pursue, and some simplifications which could be made if necessary. You'll also be working in the constrained environment of microcontrollers. Oh, and: playing with cute cardboard robots.
 ---
