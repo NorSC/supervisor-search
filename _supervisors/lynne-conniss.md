@@ -5,10 +5,10 @@ available: true
 available_msc: true
 email: lynne.conniss@northumbria.ac.uk
 office_hours: |-
-  For Semester 2 (Academic Year 2021-2022):
+  For Semester 1 (Academic Year 2022-2023):
 
-      Tuesday 2pm - 3pm
-      Thursday 11am - 12 noon
+      Mondays 1.30pm - 2.30pm
+      Wednesdays 10am - 11am
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
@@ -29,7 +29,7 @@ technologies_languages:
   - Interviews
   - User Stories
 additional_details: >-
-  Typically, priority is given to UX-focused projects and investigative/general
+  Typically, priority is given to UX-focused projects and investigative-flavour
   games projects. General areas of interest (in no particular order) include:
 
 
@@ -39,6 +39,8 @@ additional_details: >-
 
   * interaction design, UX, UID;
 
+  * information seeking/search and retrieval;
+
   * storytelling and narrative design;
 
   * role of immersion;
@@ -47,21 +49,17 @@ additional_details: >-
 
   * data/information visualisation from a user perspective;
 
-  * information seeking/search and retrieval;
-
   * information architecture and content management from a user perspective;
 
-  * crime scene reconstructions/aids for witness recall;
-
-  * investigative/general games projects;
+  * investigative-flavour games projects
 
   * more broadly, anything with a cognitive slant.
 
 
-  If you are interested in any of these areas, please get in touch for a chat (lynne.conniss@northumbria.ac.uk) indicating which area you are interested in and any initial project ideas. Thanks.
+  If you are interested in any of these areas, please email to arrange a chat (lynne.conniss@northumbria.ac.uk) indicating which area you are interested in and any initial project ideas. Thanks.
 additional_details_msc: >-
-  Typically, priority is given to UX-focused projects and investigative/general
-  games projects. General areas of interest (in no particular order) include:
+  Typically, priority is given to UX-focused projects. General areas of interest
+  (in no particular order) include:
 
 
   * any aspect of visual communication but in particular image seeking behaviour, colour theory and Gestalt principals;
@@ -69,6 +67,8 @@ additional_details_msc: >-
   * mental models, intention, perception and interpretation;
 
   * interaction design, UX, UID;
+
+  * information seeking/search and retrieval;
 
   * storytelling and narrative design;
 
@@ -78,16 +78,10 @@ additional_details_msc: >-
 
   * data/information visualisation from a user perspective;
 
-  * information seeking/search and retrieval;
-
   * information architecture and content management from a user perspective;
-
-  * crime scene reconstructions/aids for witness recall;
-
-  * investigative/general games projects;
 
   * more broadly, anything with a cognitive slant.
 
 
-  If you are interested in any of these areas, please get in touch for a chat (lynne.conniss@northumbria.ac.uk) indicating which area you are interested in and any initial project ideas. Thanks.
+  If you are interested in any of these areas, please email to arrange a chat (lynne.conniss@northumbria.ac.uk) indicating which area you are interested in and any initial project ideas. Thanks.
 ---
