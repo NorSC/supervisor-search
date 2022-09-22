@@ -76,7 +76,7 @@ additional_details: >-
   **K﻿eywords: Privacy, Money Laundering, Federated Learning, Financial Crime, Credit Card Fraud**
 
 
-  Investigation into finance crimes such as corruptions, money laundering, requests a full access to individual bank accounts including personal data and historic transaction data. What price should anti-financial crime put on people's privacy rights? This question has become unavoidable for all involved in this fight. We need to strike a balance between the effective extraction of information to expose criminal activities and the responsible use of personal data. 
+  Investigation into financial crimes such as corruptions, money laundering,  credit card fraud, requests a full access to individual bank accounts including personal data and historic transaction data. What price should anti-financial crime put on people's privacy rights? This question has become unavoidable for all involved in this fight. We need to strike a balance between the effective extraction of information to expose criminal activities and the responsible use of personal data. 
 
 
   In this project, we will explore privacy preserving solutions that are capable of training anomaly detection models, while providing a demonstrable level of privacy protection against well-known privacy violation attacks. Students who have machine learning background and are interested in Anti-Money Laundering are welcome to join this project.
