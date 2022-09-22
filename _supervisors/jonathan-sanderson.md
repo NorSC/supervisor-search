@@ -6,13 +6,11 @@ available_msc: false
 available_phd: false
 email: jonathan.sanderson@northumbria.ac.uk
 website: https://nustem.uk/connect
-office_hours: >-
-  I'm hidden away on the third floor of E block. If you come in to the Zone
-  entrance on Northumberland Road and follow the signs for Think Lab you'll come
-  to an open lab/soft seating/computer terminals space. I'll either be in the
-  lab, or the office next door (E305).  
-
+office_hours: >
   Drop-in hours: Monday 11:00–12:00, and Friday 13:00 to 14:00.
+
+
+  I'm hidden away on the third floor of E block. If you come in to the Zone entrance on Northumberland Road and follow the signs for Think Lab you'll come to an open lab/soft seating/computer terminals space. I'll either be in the lab, or the office next door (E305).  
 research_group: Digital Learning Laboratory
 research_themes:
   - Internet of Things
@@ -27,7 +25,7 @@ technologies_languages:
   - C++
   - Python
 additional_details: >-
-  *Additional themes & keywords*: microcontrollers, Arduino, Raspberry Pi, Pi
+  **Additional themes & keywords**: microcontrollers, Arduino, Raspberry Pi, Pi
   Pico, MicroPython, physical computing, digital making, digital tinkering,
   family learning, education, informal learning, STEM education, computer
   science education, pedagogy.
@@ -51,7 +49,7 @@ additional_details: >-
 
   * Write documentation and example code to support users.
 
-  * Investigate packaging as a library for straightforward distribution and use.
+  * Investigate packaging as a python module for straightforward distribution and use.
 
 
   There are some slightly gnarly corners to navigate, several digressions or extensions you might choose to pursue, and some simplifications which could be made if necessary. You'll also be working in the constrained environment of microcontrollers. Also: playing with cute cardboard robots.
