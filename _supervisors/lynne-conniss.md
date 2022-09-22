@@ -4,11 +4,12 @@ title: Lynne Conniss
 available: true
 available_msc: true
 email: lynne.conniss@northumbria.ac.uk
-office_hours: |-
-  For Semester 1 (Academic Year 2022-2023):
+office_hours: >-
+  For Semester 1 (Academic Year 2022-2023), my student drop-in hours are:
+  Mondays 1.30pm - 2.30pm and Wednesdays 10am - 11am. My office is CIS 309. 
 
-      Mondays 1.30pm - 2.30pm
-      Wednesdays 10am - 11am
+
+  If these drop-in time slots are not convenient, please email me (lynne.conniss@northumbria.ac.uk) for an appointment. 
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
