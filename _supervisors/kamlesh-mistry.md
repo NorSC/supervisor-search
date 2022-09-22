@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Kamlesh Mistry
-available: false
+available: true
 available_msc: true
 email: k.mistry@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/m/kamlesh-mistry/
