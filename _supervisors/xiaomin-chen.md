@@ -34,7 +34,16 @@ technologies_languages:
   - Java
   - Python
 additional_details: >-
-  The BSc project ideas I'm interested in include:
+  My research interests lie in the areas of data privacy, cyber security and
+  computer networks. My recent work is focused on integrating privacy preserving
+  solutions, such as differential privacy, federated learning, cryptography,
+  into the application of Machine Learning techniques to strike a trade-off
+  between data utility and privacy protection, in the application domains such
+  as e-commerce, recommendation systems, digital healthcare, anti-financial
+  crime.
+
+
+  The BSc projects that I'm interested in supervising are listed as below:
 
 
   **1 Privacy and Untraceability of Digital Payment Systems**
@@ -78,7 +87,16 @@ additional_details: >-
 
   T﻿he UK's population is ageing. Mobility disorder in the elderly is one of the most significant issues for research, practice and policy in ageing and public health to tackle with. Early detection and prevention of mobility disorder plays a crucial role in promoting the health and well-being of the elderly and reducing healthcare costs. In this project, we will build an IoT system to monitor the vital signs of elderly people when conducting exercise activities and visualise the collected data on a mobile device to display and track their daily health conditions. Students who are interested in IoT and mobile app development are welcome to join this project.
 additional_details_msc: >-
-  The MSc project ideas I'm interested in include:
+  My research interests lie in the areas of data privacy, cyber security and
+  computer networks. My recent work is focused on integrating privacy preserving
+  solutions, such as differential privacy, federated learning, cryptography,
+  into the application of Machine Learning techniques to strike a trade-off
+  between data utility and privacy protection, in the application domains such
+  as e-commerce, recommendation systems, digital healthcare, anti-financial
+  crime.
+
+
+  The MSc projects that I'm interested in supervising are listed as below:
 
 
   **1 Privacy and Untraceability of Digital Payment Systems**
