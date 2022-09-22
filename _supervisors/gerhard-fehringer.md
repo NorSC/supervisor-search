@@ -6,7 +6,7 @@ available_msc: true
 email: gerhard.fehringer@northumbria.ac.uk
 office_hours: >-
   
-  Monday 12.00-2.00pm; Thursday 1.00-2.00pm (during term time)
+  Monday 12.00-1.00pm; Thursday 1.00-2.00pm (during term time)
 
   You can also email me and we can set up a meeting/TEAMS video call to discuss your ideas.
 research_group: Cyber Security and Network Systems
