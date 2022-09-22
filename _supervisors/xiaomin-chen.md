@@ -67,7 +67,7 @@ additional_details: >-
   **K﻿eywords: Privacy, Differential Privacy, Federated Learning, Recommender Algorithm**
 
 
-  Recommendation systems play a key role in today's e-commerce platforms. Recommendations are performed by analysing users' purchase historic data and personal profiles. It has been revealed that the service providers collect more data than required.  Even ethical data aggregation and analytics can violate user privacy. In this project students will investigate state-of-the-art privacy-preserving measures, such as differential learning, federated learning, and deep-learning recommendation algorithms, and develop a prototype for a private recommendation system. Knowledge in machine learning/deep learning and programming in python are essential. such as differential learning, federated learning, 
+  Recommendation systems play a key role in today's e-commerce platforms. Recommendations are performed by analysing users' purchase historic data and personal profiles. It has been revealed that the service providers collect more data than required.  Even ethical data aggregation and analytics can violate user privacy. In this project students will investigate state-of-the-art privacy-preserving measures, such as differential learning, federated learning, and deep-learning recommendation algorithms, and develop a prototype for a private recommendation system. Knowledge in machine learning/deep learning and programming in python are essential.
 
 
   **3 Preserving Privacy when Fighting against Financial Crimes**
@@ -122,7 +122,7 @@ additional_details_msc: >-
   **K﻿eywords: Privacy, Differential Privacy, Federated Learning, Recommender Algorithm**
 
 
-  Recommendation systems play a key role in today's e-commerce platforms. Recommendations are performed by analysing users' purchase historic data and personal profiles. It has been revealed that the service providers collect more data than required.  Even ethical data aggregation and analytics can violate user privacy. In this project students will investigate state-of-the-art privacy-preserving measures, such as differential learning, federated learning, and deep-learning recommendation algorithms, and develop a prototype for a private recommendation system. Knowledge in machine learning/deep learning and programming in python are essential. such as differential learning, federated learning, 
+  Recommendation systems play a key role in today's e-commerce platforms. Recommendations are performed by analysing users' purchase historic data and personal profiles. It has been revealed that the service providers collect more data than required.  Even ethical data aggregation and analytics can violate user privacy. In this project students will investigate state-of-the-art privacy-preserving measures, such as differential learning, federated learning, and deep-learning recommendation algorithms, and develop a prototype for a private recommendation system. Knowledge in machine learning/deep learning and programming in python are essential. 
 
 
   **3 Preserving Privacy when Fighting against Financial Crimes**
