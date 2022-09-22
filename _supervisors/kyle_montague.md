@@ -7,7 +7,10 @@ available_phd: true
 email: kyle.montague@northumbria.ac.uk
 website: https://www.kylemontague.co.uk/
 office_hours: |
-  Wednesday 9-11am in CIS Building, Room 303
+  My office is located on the 3rd floor of the CIS building, Room 303.
+
+  - Wednesday 1100-1200
+  - Thursday 1100-1200
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
