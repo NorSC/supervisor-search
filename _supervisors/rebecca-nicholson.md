@@ -48,8 +48,6 @@ additional_details: >-
   Sarah Matthews, Stephen Viller, and Marie A. Boden. 2020. "... And we are the creators!" Technologies as Creative Material. In TEI '20. <https://doi.org/10.1145/3374920.3374980>
 
 
-
-
   **Participatory Stage Lighting**
 
 
@@ -68,9 +66,6 @@ additional_details: >-
    Mikalauskas, C, et al. 2019. Beyond the Bare Stage: Exploring Props as Potential Improviser-Controlled Technology. In TEI ’19 <https://doi.org/10.1145/3294109.3295631>
 
 
-   
-
-
   **Women in Music Technology**
 
 
@@ -83,10 +78,7 @@ additional_details: >-
   Rebecca Stewart, Sophie Skach, and Astrid Bin. 2018. Making Grooves with Needles: Using e-textiles to Encourage Gender Diversity in Embedded Audio Systems Design. In DIS '18. <https://doi.org/10.1145/3196709.3196716>
 
 
-   
-
-
-  If any of these interest you or you have a project idea that you would like to discuss either around educational technologies or music and theatre technologies then contact me via email to book an appointment.
+  If any of these interest you or you have a project idea that you would like to discuss either around educational technologies, particularly teaching using using tangible technologies (e.g. microbits), or music and theatre technologies then contact me via email to book an appointment.
 additional_details_msc: >-
   **A﻿dditional Themes:**  Music Technologies, Theatre Technologies, Digital
   Pedagogies
