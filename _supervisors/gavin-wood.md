@@ -24,4 +24,57 @@ technologies_languages:
   - Virtual Reality (VR)
   - Augmented Reality (AR)
   - C#
+additional_details_msc: >-
+  My research interests are centred on the Metaverse – a term used to describe
+  one vision of the future Internet reimagined around 3D virtual worlds and
+  focused on social connectivity. I am interested in supervising projects that
+  look at Human Computer Interaction (HCI) in the Metaverse.
+
+
+
+  Leading technology companies, such as Meta, Apple and Sony are now committing significant resource towards the design and development of their own branded and consumerist visions of the metaverse. HCI in the Metaverse has an important role in ensuring these futures are “healthier” where peoples’ experiences with these technologies are based on equality, diversity and inclusivity.
+
+
+
+  We can build on existing research both from HCI in social virtual reality and games design to explore a better future for the Metaverse. I have included some example projects that speak to interaction design with a focus on building and evaluating new software prototypes.
+
+
+
+  **1 Improving Pro-Social Interaction in the Metaverse**
+
+  There many social VR applications and these support and shape social interaction in different ways. This includes how people relate to each other in an embodied sense, the social norms of the platform, how we experience activities together there, and how we mitigate harassment. We should explore existing and new pro-social interactions in our applications.
+
+
+
+  **Example Paper:** Joshua McVeigh-Schultz and Katherine Isbister. 2021. The Case for “Weird Social” in VR/XR: A Vision of Social Superpowers Beyond Meatspace. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI EA '21). Association for Computing Machinery, New York, NY, USA, Article 17, 1–10. https://doi.org/10.1145/3411763.3450377
+
+
+
+  **Key words:** metaverse; social virtual reality; pro-social interaction
+
+
+  **2 Improving Locomotion in the Metaverse**
+
+  Applications use many different techniques to allow people to move around virtual reality which is called locomotion. As adoption of virtual reality increases, we might consider that not everyone has the physical real estate to move around inside virtual reality or when given space can find that existing mechanisms like walking in place or teleportation leave room for improvement. There is opportunity in this area to create new techniques for locomotion or advance existing techniques.
+
+
+
+  **Example Paper:** Markus Funk, Florian Müller, Marco Fendrich, Megan Shene, Moritz Kolvenbach, Niclas Dobbertin, Sebastian Günther, and Max Mühlhäuser. 2019. Assessing the Accuracy of Point & Teleport Locomotion with Orientation Indication for Virtual Reality using Curved Trajectories. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 147, 1–12. https://doi.org/10.1145/3290605.3300377
+
+
+
+  **Key words:** virtual reality; locomotion
+
+
+  **3 User experience for multi device ecosystems around social virtual reality**
+
+  We are now living with an increasing number of digital devices that include multiple displays, keyboards, mice, mobile phones, smart devices and smart watches. Cross device interaction can still be a frustrating user experience where there is lack of consistency, it can be difficult to bring data between devices and the systems do not necessarily understand the intent of the user. As we put on virtual reality headsets, we often enveloped in the virtual space. There has been interesting work that uses pass-through technologies around keyboards and there is opportunity to build on that work and look at other user experiences around this problem.
+
+
+
+  **Example Paper:** Mark McGill, Stephen Brewster, Daniel Pires de Sa Medeiros, Sidney Bovet, Mario Gutierrez, and Aidan Kehoe. 2022. Creating and Augmenting Keyboards for Extended Reality with the Keyboard Augmentation Toolkit. ACM Trans. Computer Human Interaction. 29, 2, Article 15 (April 2022), 39 pages. https://doi.org/10.1145/3490495 
+
+
+
+  **Key words:** virtual reality; multi-device ecosystems; cross device interaction
 ---
