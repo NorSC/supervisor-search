@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Christina Vasiliou
-available: false
+available: true
 available_msc: true
 email: christina.vasiliou@northumbria.ac.uk
 office_hours: >
@@ -9,9 +9,9 @@ office_hours: >
 
   Date & Time: 
 
-  Tuesday [11.00-12.00 am]
+  Tuesday [16:00-17:00]
 
-  Wednesday [11.00-12.00 am]
+  Thursday [13.00-15:00]
 
   You can also contact me via email to arrange a meeting outside the above hours.
 research_group: Northumbria Social Computing
@@ -24,8 +24,8 @@ additional_keywords:
   - UX Design
   - User Centred Design
   - Ubiquitous Computing
-  - Technology-Enhanced Learning
   - Social Computing
+  - Technology-Enhanced Learning
   - Qualitative Methods
   - Participatory Design
   - Interaction Design
