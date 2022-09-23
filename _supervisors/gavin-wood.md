@@ -24,6 +24,30 @@ technologies_languages:
   - Virtual Reality (VR)
   - Augmented Reality (AR)
   - C#
+additional_details: >-
+  There has been increasing public and research interest in the Metaverse and
+  the associated technologies such as virtual reality headsets and their
+  controllers are evolving in leaps and bounds. There are many opportunities in
+  designing new user experiences and interactions for users of virtual reality,
+  with the forsight that these technologies might one day have the same impact
+  on society as 2D technologies.\
+
+
+  When people use virtual reality, it is often possible they will be joining from a domestic setting where other people are present. This often provides a problem where people without a headset are excluded from the experience and it is not always practical to provide everyone with a headset so they can join the virtual world together.\
+
+
+  There are some great examples of games that have been developed for this situations. For example, Keeping Talking and Nobody Explodes is a puzzle game where one person is placed inside virtual reality defusing a bomb while the other player has to read the games intentionally confusing manual in real life. There are also other games that can be played in a co-located setting with one headset e.g., Acron: Attack of the Squirrels on Oculus Quest. \
+
+  \
+
+  This juxtaposition of people and technology also happens outside gaming contexts, for example, as we might use virtual reality for productivity, creativity or even learning with other  present. There are opportunities for creating new designs that support and even find new value and uses for these configurations.\
+
+
+  **Example games:** Pestaluky, A., Kane, B., & Fetter, B. (2015). Keep Talking and Nobody Explodes. Retrieved from https://www.keeptalkinggame.com/
+
+  \
+
+  **Example paper:** Balasaravanan Thoravi Kumaravel, Cuong Nguyen, Stephen DiVerdi, and Bjoern Hartmann. 2020. TransceiVR: Bridging Asymmetrical Communication Between VR Users and External Collaborators. In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST '20). Association for Computing Machinery, New York, NY, USA, 182–195. https://doi.org/10.1145/3379337.3415827
 additional_details_msc: >-
   My research interests are centred on the Metaverse – a term used to describe
   one vision of the future Internet reimagined around 3D virtual worlds and
