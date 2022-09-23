@@ -56,4 +56,18 @@ additional_details: >-
 
 
   If it's not already obvious, this is a programming project. There are some slightly gnarly corners to navigate, several digressions or extensions you might choose to pursue, and some simplifications which could be made if necessary. You'll also be working in the constrained environment of microcontrollers. Oh, and: playing with cute cardboard robots.
+
+
+  ## Reading, Links, etc
+
+
+  * Arduino [ServoEasing library](https://github.com/ArminJo/ServoEasing). Very comprehensive library, well documented and commented. Targets multiple Arduino hardware environments, which can make tracing the code a little complex.
+
+  * [Easing functions cheat sheet](https://easings.net). Graphical representations of easing functions, with (TypeScript) code examples.
+
+  * [Pimoroni Servo2040 library](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/modules/servo). Current state-of-the-art MicroPython servo implementation. See also the corresponding [MicroPython examples](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/servo2040), including [this eased movement example](https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/servo2040/simple_easing.py). Note that this lirbary is Pico-specific, when MicroPython itself is highly portable across platforms and architectures. You may wish to explore the implications of this.
+
+  * [ConnectServo library](https://github.com/NUSTEM-UK/ConnectServo). My (hacky?) Arduino library which implements a subclass of ServoEasing with per-servo movement queues and servo-to-servo messaging. It's worth noting that ServoEasing (above) has recently added some similar functionality, which may present an alternative implementation model.
+
+  * [Raspberry Pi Pico documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html).
 ---
