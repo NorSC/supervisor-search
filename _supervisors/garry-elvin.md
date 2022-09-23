@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Garry Elvin
-available: false
+available: true
 available_msc: true
 email: garry.elvin@northumbria.ac.uk
 website: ""
