@@ -62,6 +62,22 @@ additional_details: >-
   Can we build and play games with QR codes? In recent years we've seen a resurgence in the use of QRcodes for quick access and sharing of information. This project will explore alternative use cases these QRcodes. For example, can we create multiplayer games such as LaserTag using our phones and QRcodes? What about recreating some retro arcade games as large scale interactions for public displays through the power of QRcodes. 
 
 
+  ## Wearable Devices for People living with Parkinson's Disease
+
+
+  I'm currently involved in a large-scale deployment of a bespoke wearable device that has been designed to support (PwP) people living with Parkinson's Disease. We will be sending 3000 wearable devices to PwP and having them test and evaluate our designs. As this is an ongoing project there is an opportunity to develop new features and functionality and have that be used by a large population in the wild. We also know from our research that a number of PwP already own Android Wear and iOS Apple Watches – therefore, I'm happy to discuss and supervise projects that will look to design and develop new apps for these wearable devices also. 
+
+
+
+
+  ## Human-AI Interactions: Design and Creativity
+
+
+  In recent months we've seen a surge in the innovations surrounding AI tools and frameworks aligned with creative practices - for example [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) and [MidJourney](https://www.midjourney.com/home/). These technologies are set to disrupt the design and creative industries; ultimately transforming the ways in which we (i.e. anyone) can design or create. Whilst much of the focus and attention thus far has been on the potential harms of deep fakes, there is an exiciting opportunity to harness these technologies for more positive endeavours. I would be keen to support and supervise projects that want to exploring the design of interfaces and tools that work with these AI systems to empower and augment everyday interactions of regular people. 
+
+
+
+
   ## Social Change Technologies
 
 
