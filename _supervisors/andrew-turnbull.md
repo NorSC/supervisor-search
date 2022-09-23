@@ -27,7 +27,7 @@ additional_details: >-
   implementation issues.
 
 
-  My preference is for real industry projects either for a specific client or inspired by observation/identification of a real problem or issue (often from placement). In many of the most interesting (and successful) cases, the complexity and interest is in identifying and specifying the necessary business processes and constraints rather than in the final application. 
+  My preference is for real industry projects either for a specific client or inspired by observation/identification of a real problem or issue (often from placement). In many of the most interesting (and successful) cases, the complexity and interest is in identifying and specifying the necessary business processes and constraints rather than in the final application. I﻿ also have a developing interest in the application of "process mining" 
 
 
   I usually focus on ITMB projects.
