@@ -7,7 +7,8 @@ available_phd: false
 email: jonathan.sanderson@northumbria.ac.uk
 website: https://nustem.uk/connect
 office_hours: >-
-  Drop-in hours to discuss the project:   
+  Drop-in hours to discuss the project:
+
 
   * Monday 26th Sep 11:00–12:00, Ellison E block, third floor (come in via the Zone entrance on Northumberland Road, follow signs to Think Lab).
 
