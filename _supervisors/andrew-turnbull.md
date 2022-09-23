@@ -6,7 +6,8 @@ available_msc: true
 email: Andrew.turnbull@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/t/andrew-turnbull/
 office_hours: |-
-  Wednesday 09:00-10:30 & Friday 15:00-16:00
+  Week one drop in times: Wednesday 09:00-11:00 & Thursday 15:00-16:00
+  (Regular Student Drop-in times Wednesday 09:00-10:00 & Friday 15:00-16:00)
   You can also contact me via email to arrange an appointment.
 research_group: Northumbria Social Computing
 research_themes:
