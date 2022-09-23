@@ -7,9 +7,9 @@ available_phd: true
 email: zeyneb.kurt@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/k/zeyneb-kurt/
 office_hours: |
-  Currently (this can be updated later):
-  CIS 308
-  TBC soon
+  CIS Building, 3rd floor, Office #308
+  Monday 11:30-12:30
+  Tuesday: 11:00-12:00
 research_group: Digital Health and Wellbeing
 research_themes:
   - Artificial Intelligence
