@@ -5,7 +5,7 @@ available: true
 available_msc: true
 available_phd: true
 email: longzhi.yang@northumbria.ac.uk
-website: https://lyang.uk
+website: https://lyang.uk                                   https://www.northumbria.ac.uk/about-us/our-staff/y/longzhi-yang/
 office_hours: >
   I work full time. I have three drop in hours per week where students can just
   drop in to see me. These are Thursdays 13:00-15:00 and Fridays
