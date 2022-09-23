@@ -24,10 +24,10 @@ additional_details: >-
   My personal interests are mainly around IT Service Management, Enterprise
   systems, Business Processes, Business Information Systems, IT
   operations,  success metrics, transactional processing and systems
-  implementation issues.
+  implementation issue and the application of Project Management Tools.
 
 
-  My preference is for real industry projects either for a specific client or inspired by observation/identification of a real problem or issue (often from placement). In many of the most interesting (and successful) cases, the complexity and interest is in identifying and specifying the necessary business processes and constraints rather than in the final application. I﻿ also have a developing interest in the application of "process mining" 
+  My preference is for real industry projects either for a specific client or inspired by observation/identification of a real problem or issue (often from placement). In many of the most interesting (and successful) cases, the complexity and interest is in identifying and specifying the necessary business processes and constraints rather than in the final application. I﻿ also have a developing interest in the application of "process mining"
 
 
   I usually focus on ITMB projects.
@@ -37,5 +37,5 @@ additional_details_msc: >-
   transactional and master data than the technical programming of them. 
 
 
-  My personal interests are mainly around IT Service Management, Enterprise systems, Business Processes, Business Information Systems, IT operations,  success metrics, transactional processing and systems implementation issues. (I would like to investigate "process mining" but haven't managed to free up the time yet.)
+  My personal interests are mainly around IT Service Management, Enterprise systems, Business Processes, Business Information Systems, IT operations,  success metrics, transactional processing and systems implementation issues, and the application of Project Management Tools. (I would like to investigate "process mining" but haven't managed to free up the time yet.)
 ---
