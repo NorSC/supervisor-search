@@ -7,13 +7,11 @@ available_phd: false
 email: jonathan.sanderson@northumbria.ac.uk
 website: https://nustem.uk/connect
 office_hours: >-
-  Drop-in hours to discuss the project: 
+  Drop-in hours to discuss the project:   
 
+  * Monday 26th Sep 11:00–12:00, Ellison E block, third floor (come in via the Zone entrance on Northumberland Road, follow signs to Think Lab).
 
-  Monday 26th Sep 11:00–12:00, Ellison E block, third floor (come in via the Zone entrance on Northumberland Road, follow signs to Think Lab).
-
-
-  Thursday 29th Sep 11:15 to 12:15, CIS ground floor. Look for the cardboard puppet.
+  * Thursday 29th Sep 11:15 to 12:15, CIS ground floor. Look for the cardboard puppet.
 research_group: Digital Learning Laboratory
 research_themes:
   - Internet of Things
@@ -65,7 +63,7 @@ additional_details: >-
 
   * [Easing functions cheat sheet](https://easings.net). Graphical representations of easing functions, with (TypeScript) code examples.
 
-  * [Pimoroni Servo2040 library](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/modules/servo). Current state-of-the-art MicroPython servo implementation. See also the corresponding [MicroPython examples](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/servo2040), including [this eased movement example](https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/servo2040/simple_easing.py). Note that this lirbary is Pico-specific, when MicroPython itself is highly portable across platforms and architectures. You may wish to explore the implications of this.
+  * [Pimoroni Servo2040 library](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/modules/servo). Current state-of-the-art MicroPython servo implementation. See also the corresponding [MicroPython examples](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/servo2040), including [this eased movement example](https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/servo2040/simple_easing.py). Note that this library is Pico-specific, when MicroPython itself is highly portable across platforms and architectures. You may wish to explore the implications of this.
 
   * [ConnectServo library](https://github.com/NUSTEM-UK/ConnectServo). My (hacky?) Arduino library which implements a subclass of ServoEasing with per-servo movement queues and servo-to-servo messaging. It's worth noting that ServoEasing (above) has recently added some similar functionality, which may present an alternative implementation model.
 
