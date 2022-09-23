@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Gavin Wood
-available: false
+available: true
 available_msc: true
 available_phd: false
 email: gavin.wood@northumbria.ac.uk
