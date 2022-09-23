@@ -35,7 +35,7 @@ additional_details: >-
   My research interests centre on informal learning in computer science. A live outreach/engagement project, [Connect](https://nustem.uk/connect/), involves late primary-aged children (approx. 9-11 years old) working alongside their parents/carers to build electromechanical puppets operated by a microcontroller. The controllers are networked and use IoT protocols to exchange simple 'mood' messages between puppets. The task, workshop activities, mechanical and coding components are all tailored with the aim of prompting exploratory, 'tinkering' behaviour and conversations amongst participants.
 
 
-  ## Project idea
+  ## Project idea – bringing smoothed servo movement to the MicroPython ecosystem
 
 
   A key component of the Connect system is a servo motor control system, which builds on established libraries to allow the programmer to articulate complex animation sequences with minimal code. The current library is written in C++ and targets the Arduino platform.
