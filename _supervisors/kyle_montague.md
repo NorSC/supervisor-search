@@ -78,6 +78,27 @@ additional_details: >-
 
 
 
+  ## The Epidemiology of Web Accessibility
+
+
+  #### Improving internet health by identifying and tackling the root cause of web accessibility issues
+
+
+  The epidemic of inaccessible websites presents a major challenge to equitable information access and continues to threaten our visions of an inclusive digital society. Strategic and transformational investment across public and private sectors has seen exponential growth in the digital economy and the adoption rate of digital service delivery, which has been further accelerated by recent impacts of the COVID-19 pandemic. And yet, despite decades of research, education, legislation, and policy reform globally, little progress has been made to ensure accessibility of websites. Longitudinal analysis of web accessibility improvements revealed that many changes could be attributed to external factors of influence (e.g., Search engine page ranking criteria, and support mobile layouts) ([Richards et al. 2012](https://dl.acm.org/doi/10.1145/2384916.2384931)) and more recent studies demonstrating that modern websites a continually failing at the most basic level of web accessibility. Moreover, 23-50% of accessibility barriers could be found and addressed by developers using automated tools – suggesting that our current approaches to improving the state of web accessibility are not fit for purpose. Today’s web accessibility strategies and tools are predicated on the believe that web accessibility issues are introduced through code created by the website developer, and therefore focus on that website’s code in isolation. However, as demonstrated in modern web securities research, vulnerabilities can be introduced via dependencies to external libraries and frameworks outside of their development control.
+
+
+  Possible Research Projects related to this topic:
+
+
+  1. Investigating the prevalence of these accessibility vulnerabilities through large-scale analysis of websites using machine learning techniques. (see this paper as background – [Ross et al. 2020](https://doi.org/10.1145/3348797)) 
+
+  2. Development and evaluation of an 'Accessibility Vulnerability Database' – either through crowdsourced reporting interfaces; or machine learning and autonomous detection (e.g. github bots)
+
+  3. Exploration of novel interfaces to support detection and repair of accessibility vulnerabilities and wider adoption of these epidemiology inspired approaches and improve overall internet health.
+
+
+
+
   ## Social Change Technologies
 
 
