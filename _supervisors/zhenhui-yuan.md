@@ -6,6 +6,10 @@ available_msc: true
 email: zhenhui.yuan@northumbria.ac.uk
 website: http://www.zhenhuiyuan.net
 office_hours: |-
+  *******
+  Drop-in hours for week 1: 1pm-3pm, Wed, 28 Sept 2022
+  Come to me if you have any questions on the project. 
+  *******
   Ellison building room 105.
   If the time is conflict with yours, we can setup a different slot. 
 research_group: Cyber Security and Network Systems
