@@ -14,14 +14,6 @@ office_hours: >
 
 
   My office is ELB206 on the second floor of B Block, Ellison Building and my work phone no is 0191 2437697.
-
-  2.	Automatic wind Turbine caballing using Machine Learning approaches
-
-  Offshore wind farm produces renewable energy and has fewer effects on the environment than many other energy sources. A key step of offshore wind farm development is the connection of wind turbines to a power station in the farm, which is then connected to the national grid to finally deliver clean energy to consumers. This proejct aims to develop AI approaches for automatic cabling.
-
-  3.	Occupational Health Support using Artificial Intelligence
-
-  Occupational health has become a prime concern for many organisations for optimal staff wellbeing and employee productivity. This project aims to develop AI technologies for occupational data analysis to provide recommendations for better wellbeing.
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Artificial Intelligence
