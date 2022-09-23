@@ -6,10 +6,14 @@ available_msc: true
 available_phd: false
 email: gavin.wood@northumbria.ac.uk
 website: https://www.baawolf.com
-office_hours: |-
+office_hours: >
+  I work in the open plan office CIS 314 on the third floor of the new Computer
+  Information Sciences building.
+
+
   Wednesday 10-11
+
   Friday 10-11
-  CIS 314
 research_group: Northumbria Social Computing
 research_themes:
   - Game Design and Development
@@ -24,6 +28,9 @@ technologies_languages:
   - Virtual Reality (VR)
   - Augmented Reality (AR)
   - C#
+  - JavaScript
+  - Node.js
+  - HTML/CSS
 additional_details: >-
   There has been increasing public and research interest in the Metaverse and
   the associated technologies such as virtual reality headsets and their
@@ -33,7 +40,7 @@ additional_details: >-
   on society as 2D technologies.\
 
 
-  When people use virtual reality, it is often possible they will be joining from a domestic setting where other people are present. This often provides a problem where people without a headset are excluded from the experience and it is not always practical to provide everyone with a headset so they can join the virtual world together.\
+  When people use virtual reality, it is often possible they will be joining from a domestic setting where other people are present. This often provides a problem where people without a headset are excluded from the experience and it is not always practical to provide everyone with a headset so they can join the virtual world together.
 
 
   There are some great examples of games that have been developed for this situations. For example, Keeping Talking and Nobody Explodes is a puzzle game where one person is placed inside virtual reality defusing a bomb while the other player has to read the games intentionally confusing manual in real life. There are also other games that can be played in a co-located setting with one headset e.g., Acron: Attack of the Squirrels on Oculus Quest. \
