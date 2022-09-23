@@ -6,11 +6,14 @@ available_msc: false
 available_phd: false
 email: jonathan.sanderson@northumbria.ac.uk
 website: https://nustem.uk/connect
-office_hours: >
-  Drop-in hours: Monday 11:00–12:00, and Friday 13:00 to 14:00.
+office_hours: >-
+  Drop-in hours to discuss the project: 
 
 
-  I'm hidden away on the third floor of E block. If you come in to the Zone entrance on Northumberland Road and follow the signs for Think Lab you'll come to an open lab/soft seating/computer terminals space. I'll either be in the lab, or the office next door (E305).  
+  Monday 26th Sep 11:00–12:00, Ellison E block, third floor (come in via the Zone entrance on Northumberland Road, follow signs to Think Lab).
+
+
+  Thursday 29th Sep 11:15 to 12:15, CIS ground floor. Look for the cardboard puppet.
 research_group: Digital Learning Laboratory
 research_themes:
   - Internet of Things
