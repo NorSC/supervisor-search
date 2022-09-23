@@ -65,4 +65,22 @@ additional_details_msc: >-
 
 
   A particular emphasis is on algorithm development and digital biomarkers using wearable technologies and mobile computing to understand mechanistic (e.g., cognitive) as well as lifestyle factors in ageing (Godfrey, Alshabrawy, Rooksby, Pointon). Recognising the societal importance of this human centric approach, staff (Akhtar, Warner, Anwar, Sice, Elvin) research digital health challenges pertaining to vulnerable groups and information retrieval for decision support systems. We also research digital medicine-based topics in e.g., cancer-focused bioinformatics & functional genomics (Kurt, Woo).
+
+
+  Project Themes:
+
+
+  \- Evaluating the effects of fragmented attention on interaction behaviour within a mobile context i.e. web search tasks. 
+
+
+  \-﻿ Exploring the relationship between eye fixations (a measure of attention) and duration (a measure of concentration) on a range of online articles and levels of information discernment (a sub-process of information literacy characterising how participants make judgements about information).
+
+
+  \-﻿ Using eye tracking to understand banner blindness and improve online environments
+
+
+  \-﻿ The effects of simulated interruptions on mobile search tasks
+
+
+  \-Understanding the Impact of Auditory Distraction on interaction behaviour i.e., Web Search Tasks
 ---
