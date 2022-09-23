@@ -13,7 +13,7 @@ office_hours: >
   contact me via email to book an appointment.
 
 
-  My office is ELB206 on the second floor of B Block, Ellison Building and my work phone no is 0191 2437697.
+  My office is ELB206 on the second floor of B Block, Ellison Building and my work phone no is 0191 243 7697.
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Artificial Intelligence
