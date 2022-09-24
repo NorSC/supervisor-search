@@ -171,8 +171,6 @@ additional_details_msc: >-
   3. Exploration of novel interfaces to support detection and repair of accessibility vulnerabilities and wider adoption of these epidemiology inspired approaches and improve overall internet health.
 
 
-
-
   ## Social Change Technologies
 
 
@@ -190,7 +188,7 @@ additional_details_msc: >-
 
   * Index of Multiple Deprivations on LSOA level
 
-  * Scraped data from Asda API on availably and price of [essential food items](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.trusselltrust.org%2Fget-help%2Femergency-food%2Ffood-parcel%2F&data=04%7C01%7Ckyle.montague%40northumbria.ac.uk%7Cd4b5823b5bdc408ba84308d95c0b149d%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637642024916783228%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=huNroaqAy4sX3oiunt3m0FoGck6Am2PPkfq%2BmjtxuLg%3D&reserved=0) from shops located in IMD decile 1.
+  * Mystery shopper data from supermarket API on availably and price of [essential food items](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.trusselltrust.org%2Fget-help%2Femergency-food%2Ffood-parcel%2F&data=04%7C01%7Ckyle.montague%40northumbria.ac.uk%7Cd4b5823b5bdc408ba84308d95c0b149d%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637642024916783228%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=huNroaqAy4sX3oiunt3m0FoGck6Am2PPkfq%2BmjtxuLg%3D&reserved=0) from shops located in IMD decile 1.
 
 
   Power M, Doherty B, Pybus K, Pickett K. How COVID-19 has exposed inequalities in the UK food system: The case of UK food and poverty. *Emerald Open Research*. 2020;2:11. Published 2020 May 13. doi:10.35241/emeraldopenres.13539.2 - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219559/](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7219559%2F&data=04%7C01%7Ckyle.montague%40northumbria.ac.uk%7Cd4b5823b5bdc408ba84308d95c0b149d%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637642024916793181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wNtupjJ9R3u8aLEs%2F8lwtYSGEo40q1GlOqUcgD1SoO8%3D&reserved=0)
