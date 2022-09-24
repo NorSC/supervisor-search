@@ -3,7 +3,7 @@ layout: supervisor
 title: Kyle Montague
 available: true
 available_msc: true
-available_phd: true
+available_phd: false
 email: kyle.montague@northumbria.ac.uk
 website: https://www.kylemontague.co.uk/
 office_hours: |
