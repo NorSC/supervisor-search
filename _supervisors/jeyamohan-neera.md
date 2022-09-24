@@ -2,7 +2,7 @@
 layout: supervisor
 title: Jeyamohan Neera
 available: true
-available_msc: false
+available_msc: true
 available_phd: false
 email: j.neera@northumbria.ac.uk
 office_hours: "Project Contact Hours : Wednesday 01.00-02.00 and Thursday 11.00
