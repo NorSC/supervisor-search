@@ -2,8 +2,8 @@
 layout: supervisor
 title: Ossama Alshabrawy
 available: true
-available_msc: false
-available_phd: true
+available_msc: true
+available_phd: false
 email: ossama.alshabrawy@northumbria.ac.uk
 office_hours: Thursday 09:00 - 11:00
 research_group: Digital Health and Wellbeing
