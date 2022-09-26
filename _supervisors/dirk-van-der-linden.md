@@ -5,8 +5,8 @@ available: true
 available_msc: true
 available_phd: true
 email: dirk.vanderlinden@northumbria.ac.uk
-website: www.profdirk.com
-office_hours: Monday & Tuesdays 09:00-10:00 in CIS 305.
+website: https://www.profdirk.com
+office_hours: Monday and Tuesdays 09:00-10:00 in CIS 305.
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
