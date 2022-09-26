@@ -96,9 +96,7 @@ additional_details: >-
 
   **Get in Touch**
 
-  If you have any questions, I am just at the other end of this **Email**: zhenhui.yuan@northumbria.ac.uk.
-
-  My previous projects and **YouTube demos**: http://www.zhenhuiyuan.co.uk[](www.zhenhuiyuan.com)
+  If you have any questions, I am just at the other end of this **Email**: zhenhui.yuan@northumbria.ac.uk.[](www.zhenhuiyuan.com)
 additional_details_msc: >-
   For the purpose of inspiration, I’m sharing three research areas below.
 
