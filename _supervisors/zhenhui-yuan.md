@@ -63,7 +63,7 @@ additional_details: >-
   You’re always more encouraged to bring up your own idea!
 
 
-  **I have two projects undergoing and you're welcome to join and do part of the work:**
+  **Proposed projects for your interests. (You are encouraged to bring up your own idea!)**
 
 
   **project 1: cloud-based critical messaging between self-driving vehicles.** 
