@@ -6,7 +6,7 @@ available_msc: true
 email: i.watson@northumbria.ac.uk
 office_hours: >
   
-  “I will be available in my office on Monday  10:00 -1:00 and on Thursday 11-12:00. You can also contact me via email to arrange an appointment outside these times and I will be on campus on Monday, Thursday and Friday."
+  “I will be available in my office on Tuesday  10:00 -11:00 and on Friday 10:30-11:30. You can also contact me via email to arrange an appointment outside these times."
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
