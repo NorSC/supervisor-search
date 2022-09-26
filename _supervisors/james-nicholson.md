@@ -6,7 +6,9 @@ available_msc: true
 available_phd: true
 email: james.nicholson@northumbria.ac.uk
 website: https://researchportal.northumbria.ac.uk/en/persons/james-nicholson
-office_hours: Mon-Fri
+office_hours: |-
+  Tuesdays 2-3pm
+  Thursdays 4-5pm
 research_group: Northumbria Social Computing
 research_themes:
   - Digital Forensics
