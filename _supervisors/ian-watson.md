@@ -7,6 +7,8 @@ email: i.watson@northumbria.ac.uk
 office_hours: >
   
   “I will be available in my office on Tuesday  10:00 -11:00 and on Friday 10:30-11:30. You can also contact me via email to arrange an appointment outside these times."
+
+  My office is on the top floor of the CIS Building, room 305.
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
