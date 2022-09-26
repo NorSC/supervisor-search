@@ -5,7 +5,9 @@ available: true
 available_msc: true
 available_phd: true
 email: steven.leggetter@northumbria.ac.uk
-office_hours: Can meet up on campus or via Teams. Please feel free to send a meeting invite.
+office_hours: |-
+  Tuesday 11:00 - 13:00
+  ELB118
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
