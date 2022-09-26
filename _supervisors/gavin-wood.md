@@ -37,7 +37,10 @@ additional_details: >-
   controllers are evolving in leaps and bounds. There are many opportunities in
   designing new user experiences and interactions for users of virtual reality,
   with the forsight that these technologies might one day have the same impact
-  on society as 2D technologies.\
+  on society as 2D technologies.
+
+
+  **D﻿esigning for Multiple Users and one headset via Asymetrical Designs**
 
 
   When people use virtual reality, it is often possible they will be joining from a domestic setting where other people are present. This often provides a problem where people without a headset are excluded from the experience and it is not always practical to provide everyone with a headset so they can join the virtual world together.
@@ -55,6 +58,27 @@ additional_details: >-
   \
 
   **Example paper:** Balasaravanan Thoravi Kumaravel, Cuong Nguyen, Stephen DiVerdi, and Bjoern Hartmann. 2020. TransceiVR: Bridging Asymmetrical Communication Between VR Users and External Collaborators. In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST '20). Association for Computing Machinery, New York, NY, USA, 182–195. https://doi.org/10.1145/3379337.3415827
+
+
+  \
+
+  **Locomotion**
+
+  There are interesting problems that we encounter as we interact within virtual reality environments. One problem is how we allow people to move around in VR in a way that feels intuitive. These specific interactions are called Locomotion. Current solutions include “Walking in Place”, Teleportation and Redirected Walking. There are lots of opportunities to explore in this area 
+
+
+  **Example Paper:** G. Bruder, V. Interrante, L. Phillips and F. Steinicke, "Redirecting Walking and Driving for Natural Navigation in Immersive Virtual Environments," in IEEE Transactions on Visualization and Computer Graphics, vol. 18, no. 4, pp. 538-545, April 2012, doi: 10.1109/TVCG.2012.55.
+
+
+  **Multi-Device Ecosystems**
+
+  We are now living with an increasing number of digital devices that include multiple displays, keyboards, mice, mobile phones, smart devices and smart watches. Cross device interaction can still be a frustrating user experience where there is lack of consistency, it can be difficult to bring data between devices and the systems do not necessarily understand the intent of the user. As we put on virtual reality headsets, we often enveloped in the virtual space. There has been interesting work that uses pass-through technologies around keyboards and there is opportunity to build on that work and look at other user experiences around the problem of multi-device ecosystems and virtual reality.
+
+
+  **Example Paper:** Mark McGill, Stephen Brewster, Daniel Pires de Sa Medeiros, Sidney Bovet, Mario Gutierrez, and Aidan Kehoe. 2022. Creating and Augmenting Keyboards for Extended Reality with the Keyboard Augmentation Toolkit. ACM Trans. Computer Human Interaction. 29, 2, Article 15 (April 2022), 39 pages. https://doi.org/10.1145/3490495
+
+
+  There are many other interesting problems within virtual reality and I am interested to chat about research in this area.
 additional_details_msc: >-
   My research interests are centred on the Metaverse – a term used to describe
   one vision of the future Internet reimagined around 3D virtual worlds and
