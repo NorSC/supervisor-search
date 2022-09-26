@@ -6,8 +6,8 @@ available_msc: true
 available_phd: true
 email: rafay.ansari@northumbria.ac.uk
 office_hours: |-
-  Available for meeting on Teams.
-  Please contact through email to arrange an appointment
+  Available for meeting Thursday  11 00 to 13 00
+  You can also contact through email to arrange an appointment
   Email. rafay.ansari@northumbria.ac.uk
 research_group: Cyber Security and Network Systems
 research_themes:
