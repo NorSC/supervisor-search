@@ -41,6 +41,12 @@ additional_details: >-
   * **Privacy enhancing solution for Financial Fraud Prevention**
 
     This project idea focuses on enhancing cross-organization, and cross-border data access to support efforts to combat fraud, money laundering and other financial crime. This project intends to develop innovative, privacy-preserving federated learning solutions to enable the detection of potentially anomalous transactions. “Anomalous transactions” cover a range of payments that vary significantly from the normal transactions that are conducted in a customer’s account. For example, a transaction that is of an unexpectedly large amount of money, a transaction taking place between the unusual receiver and sender, has unusual timestamps or contains other unusual information. The datasets that are available to train and test models are labelled. Hence it is not required for the student to have a detailed understanding of financial transactions.
+  * **Investigation on Legislations and User Perspective on Extreme Pornography material sharing on popular social media site**
+
+    The structure of someone's social network is fundamentally related what interests that person holds. 
+    People often gravitate towards topics that are relevant to them, forming social groups that revolve around 
+    these subjects. Online social media are also favourable ecosystems for the formation of communities 
+    centred on matters that are not publicly discussed because of the embarrassment, discomfort, or ethical/moral dilemma. Those are communities that depict or discuss what are usually referred to as deviant behaviours, conducts that are commonly considered inappropriate because they are somehow violative of society's norms or moral standards that are shared among the majority of the members of society. In this topic I would like to investigate such behaviours and understand the ethical and moral dilemma behind such actions. Also additionally I would like to investigate how the existing legal structures are tackling these behaviours (whether they are considered lawful or unlawful). If it is unlawful what are the consequences these groups and people have to face. I also would like to understand and derive a behaviour profile for a victim or the offender.
 additional_details_msc: >-
   * **Federated Learning based forecasting models for Healthcare Emergencies
   (Pandemic Response)**
@@ -55,4 +61,10 @@ additional_details_msc: >-
   * **Privacy enhancing solution for Financial Fraud Prevention**
 
     This project idea focuses on enhancing cross-organization, and cross-border data access to support efforts to combat fraud, money laundering and other financial crime. This project intends to develop innovative, privacy-preserving federated learning solutions to enable the detection of potentially anomalous transactions. “Anomalous transactions” cover a range of payments that vary significantly from the normal transactions that are conducted in a customer’s account. For example, a transaction that is of an unexpectedly large amount of money, a transaction taking place between the unusual receiver and sender, has unusual timestamps or contains other unusual information. The datasets that are available to train and test models are labelled. Hence it is not required for the student to have a detailed understanding of financial transactions.
+  * **Investigation on Legislations and User Perspective on Extreme Pornography material sharing on popular social media site**
+
+    The structure of someone's social network is fundamentally related what interests that person holds. 
+    People often gravitate towards topics that are relevant to them, forming social groups that revolve around 
+    these subjects. Online social media are also favourable ecosystems for the formation of communities 
+    centred on matters that are not publicly discussed because of the embarrassment, discomfort, or ethical/moral dilemma. Those are communities that depict or discuss what are usually referred to as deviant behaviours, conducts that are commonly considered inappropriate because they are somehow violative of society's norms or moral standards that are shared among the majority of the members of society. In this topic I would like to investigate such behaviours and understand the ethical and moral dilemma behind such actions. Also additionally I would like to investigate how the existing legal structures are tackling these behaviours (whether they are considered lawful or unlawful). If it is unlawful what are the consequences these groups and people have to face. I also would like to understand and derive a behaviour profile for a victim or the offender.
 ---
