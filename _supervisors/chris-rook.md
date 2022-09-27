@@ -2,6 +2,7 @@
 layout: supervisor
 title: Chris Rook
 available: true
+available_msc: true
 email: c.rook@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/r/chris-rook/
 office_hours: >-
@@ -9,7 +10,7 @@ office_hours: >-
   Tuesdays 11am and Fridays 1pm. You are welcome to knock on the door at other
   times, but I may not be available.
 
-  To discuss project ideas, I will also be in the Games Lab (CIS 102) from 2pm to 3pm on Wednesday 28th September. No need to email in advance - just turn up and share your ideas. (If you can't make that time, use the Tuesday drop-in or email me.)
+  To discuss project ideas, I will also be in the Games Lab (CIS 102) from 2:30pm to 3:30pm on Wednesday 28th September. No need to email in advance - just turn up and share your ideas. (If you can't make that time, use the Tuesday drop-in or email me.)
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Game Design and Development
