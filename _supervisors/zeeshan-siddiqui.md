@@ -78,7 +78,7 @@ additional_details_msc: >-
   3. Image Processing
 
 
-  **Before contacting, please make sure:**
+  **Before contacting, please make sure :(BSc & MSc Students)**
 
 
   1. To have an idea that should enable you to achieve Mastery in your project (at the MSc level, there is no requirement to have a unique and novel idea, however, the idea should challenge you to achieve a Postgraduate level of Mastery we are looking into).
@@ -88,6 +88,30 @@ additional_details_msc: >-
   3. To have the basic knowledge and understanding of the domain
 
   4. To have the understanding about the development tools used in the project
+
+
+  **Before contacting, please make sure :(PhD Students)**
+
+
+  1. To have a novel and innovative idea that enables you to either extend the existing work or propose a new solution to address the problem.
+
+  2. To have an Abstract level understanding of the project.
+
+  3. To have an initial literature review done to justify the project (10-15 studies).
+
+  4. To have a clear research gap.
+
+  5. To have an understanding of the Research Methodology.
+
+  6. To have up to three Research Objectives.
+
+  7. To have a working knowledge and experience of the development tools used in the project.
+
+  8. To have a working knowledge and experience of the Multi-Criteria Decision Analysis tools used in Comparative Analysis.
+
+  9. To have three years (if full-time) or six years (if part-time) project plan (Gantt Chart).
+
+  10. To have a set of References or Bibliography.
 additional_details_phd: >-
   **Projects are welcome in the Authentication and authorisation domain. Such
   as,**
