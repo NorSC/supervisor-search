@@ -5,7 +5,7 @@ available: true
 available_msc: true
 available_phd: true
 email: zeeshan.siddiqui@northumbria.ac.uk
-office_hours: Available every Monday from 14:00 to 16:00 (BST). For further
+office_hours: Available every Thursday from 14:00 to 16:00 (BST). For further
   inquiries or arrangements, please contact me through email
   (zeeshan.siddiqui@northumbria.ac.uk).
 research_group: Cyber Security and Network Systems
