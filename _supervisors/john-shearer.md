@@ -4,8 +4,7 @@ title: John Shearer
 available: true
 available_msc: true
 available_phd: false
-email: Please contact Julie Walters (julie.walters@northumbria.ac.uk) to arrange
-  a meeting with John.
+email: john.shearer.northumbria.uni@gmail.com
 office_hours: We'll figure out a mutually convenient time/location - I don't
   have office hours.
 research_group: Northumbria Social Computing
