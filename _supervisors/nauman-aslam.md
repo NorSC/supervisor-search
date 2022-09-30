@@ -1,9 +1,9 @@
 ---
 layout: supervisor
 title: Nauman Aslam
-available: true
-available_msc: true
-available_phd: true
+available: false
+available_msc: false
+available_phd: false
 email: nauman.aslam@northumbria.ac.uk
 office_hours: "Office hours for project students will be announced later. "
 research_group: Cyber Security and Network Systems
