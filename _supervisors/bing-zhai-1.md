@@ -90,14 +90,12 @@ additional_details: >-
 
   More details please see: [](https://idea-fast.eu/project-overview/)<https://idea-fast.eu/project-overview/>
 additional_details_msc: >-
-  
-
-  I’m keen to supervise projects that you are passionate about. If you’ve got an idea and looks like I’ve got relevant experience and interests, then get in touch.
+  I’m keen to supervise projects that you are passionate about. If you’ve got an
+  idea and looks like I’ve got relevant experience and interests, then get in
+  touch.
 
 
   My research interests are machine learning and its various applications, such as behaviour analysis, wearable, and ubiquitous computing, etc. I am interested in developing practical artificial intelligence tools to solve the challenges of real-world applications. In essence, it is to model the practical problems using mathematical languages and develop machine learning algorithms for the optimal solution, bridging the gap between signal/data and human-understandable knowledge.
-
-
 
 
   ### **Sleep Stage Classification using Wearable Sensing Data**
@@ -106,7 +104,7 @@ additional_details_msc: >-
   The gold standard for clinical sleep monitoring is polysomnography(PSG), based on which sleep can be categorized into five stages, including wake/rapid eye movement sleep (REM sleep)/Non-REM sleep 1 (N1)/Non-REM sleep 2 (N2)/Non-REM sleep 3 (N3). However, PSG is expensive, burdensome, and not suitable for daily use. For long-term sleep monitoring, ubiquitous sensing may be a solution.
 
 
-  Most recently, cardiac sensing has become popular in classifying three-stage sleep since this modality can be easily acquired from research-grade or consumer-grade devices (e.g., Apple Watch). In this work, you will investigate the factors that may influence classification performance and use machine learning techniques to boost the performance of classification results.
+  Most recently, cardiac sensing has become popular in classifying three-stage sleep since this modality can be easily acquired from research-grade or consumer-grade devices (e.g., Apple Watch). In this work, you will investigate the factors that may influence classification performance and use machine learning techniques to boost the performance of classification results. Alternative, you could build an apple watch app for sleep monitoring.
 
 
   Zhai, B., Perez-Pozuelo, I., Clifton, E.A., Palotti, J. and Guan, Y., 2020. Making sense of sleep: Multimodal sleep stage classification in a large, diverse population using movement and cardiac sensing. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* , *4* (2), pp.1-33.
@@ -118,7 +116,7 @@ additional_details_msc: >-
   ### **PPG-based Ambulatory Atrial Fibrillation Monitoring Algorithm Development**
 
 
-  Atrial fibrillation (AF) is the most common cardiac arrhythmia and a major risk factor for stroke. Diagnosis is usually made by observing an electrocardiogram (ECG), which is usually measured using a cardiac event recorder, such as Holter monitor, or chest patch. Photoplethysmography (PPG) is an emerging technology that enables non-invasive heart rhythm measurement through optical sensing. Continuous and accurate detection of AF from PPG has the potential to transform low-cost consumer wearable devices into clinically useful medical monitoring tools in a mass scale. In this work, you will develop deep learning models to continuously and accurately detect AF episodes in PPG collected in an ambulatory free-living setting.
+  Atrial fibrillation (AF) is the most common cardiac arrhythmia and a major risk factor for stroke. Diagnosis is usually made by observing an electrocardiogram (ECG), which is usually measured using a cardiac event recorder, such as Holter monitor, or chest patch. Photoplethysmography (PPG) is an emerging technology that enables non-invasive heart rhythm measurement through optical sensing. Continuous and accurate detection of AF from PPG has the potential to transform low-cost consumer wearable devices into clinically useful medical monitoring tools in a mass scale. In this work, you will develop deep learning models or an app to continuously and accurately detect AF episodes in PPG collected in an ambulatory free-living setting.
 
 
   Some Example works:
