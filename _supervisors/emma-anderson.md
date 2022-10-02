@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Emma Anderson
-available: true
+available: false
 available_msc: false
 available_phd: false
 email: emma.anderson2@northumbria.ac.uk
