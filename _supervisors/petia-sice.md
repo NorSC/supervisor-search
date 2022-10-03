@@ -7,16 +7,9 @@ available_phd: true
 email: petia.sice@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/s/petia-sice/
 office_hours: >-
-  I have two  drop in sessions per week. For week 1 these are Monday 15:00-16:00
-  (Sept 26t) and Wednesday (28th Sept) 15:00-16:00  Please send an email to book
-  an appointment.
+  I have two  drop in sessions per week.  
 
-
-  For week 2 the drop in sessions are Monday (3rd Oct) 15:00-16:00, and Tuesday 4th October 12:00-1 pm.
-
-
-  For Week 3 my office hours are  hours are Tuesdays  2- 3  pm and Fridays 3-4 30 pm. 
-
+   My office hours are Tuesdays  1:30 - 2:30 pm and Fridays 3-4 30 pm. 
 
   If you would like a specific time during this period, please  contact me via email to book an appointment. 
 
