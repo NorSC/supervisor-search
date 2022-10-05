@@ -71,7 +71,7 @@ additional_details_msc: >-
   **Areas 'NOT' interested in**
 
 
-  1. Pure Machine Learning and Deep Learning
+  1. Machine Learning and Deep Learning (acceptable only if integrated with authentication)
 
   2. Web Design and Development
 
