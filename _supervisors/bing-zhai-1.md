@@ -82,10 +82,10 @@ additional_details: >-
   5. <https://research.ibm.com/blog/what-is-federated-learning>
 
 
-  ### **Data Science Project (IDEA-FAST Fatigue and Sleep Monitoring Using Wearable Devices)**
+  ### **IDEA-FAST Fatigue and Sleep Monitoring Using Wearable Devices (Data Science Project)**
 
 
-  The IDEA-FAST project is a 5½-year IMI2 project under Call H2020-JTI-IMI2-2018-15-two-stage – digital endpoints in neurodegenerative and immune-mediated diseases (total budget €42 Million) that starts in November 2019, run by a consortium of 46 partners across 15 countries in Europe. It aims to identify digital endpoints that provide a reliable, objective and sensitive evaluation of activities of daily life (ADL), disability and health-related quality of life (HRQoL) for the following neurodegenerative diseases (NDD): Parkinson’s Disease (PD), Huntington’s Disease (HD) and the following immune-mediated inflammatory diseases (IMID): Rheumatoid Arthritis (RA), Systemic Lupus Erythematosus (SLE), Primary Sjögren’s Syndrome (PSS), and Inflammatory Bowel Disease (IBD). In this project, you will work on building a machine learning/deep learning model to monitor fatigue and sleep based on sensor signals in the context of physical activities. You will also have the opportunity to work with world-leading data scientists from Janssens, Pfizer and VTT
+  The IDEA-FAST project is a 5½-year IMI2 project under Call H2020-JTI-IMI2-2018-15-two-stage – digital endpoints in neurodegenerative and immune-mediated diseases (total budget €42 Million) that starts in November 2019, run by a consortium of 46 partners across 15 countries in Europe . It aims to identify digital endpoints that provide a reliable, objective and sensitive evaluation of activities of daily life (ADL), disability and health-related quality of life (HRQoL) for the following neurodegenerative diseases (NDD): Parkinson’s Disease (PD), Huntington’s Disease (HD) and the following immune-mediated inflammatory diseases (IMID): Rheumatoid Arthritis (RA), Systemic Lupus Erythematosus (SLE), Primary Sjögren’s Syndrome (PSS), and Inflammatory Bowel Disease (IBD). In this project, you will work on building a machine learning/deep learning model to monitor fatigue and sleep based on sensor signals in the context of physical activities. You will also have the opportunity to work with world-leading data scientists from Janssens Pharmaceuticals, Pfizer and VTT
 
 
   More details please see: [](https://idea-fast.eu/project-overview/)<https://idea-fast.eu/project-overview/>
@@ -148,10 +148,10 @@ additional_details_msc: >-
   5. <https://research.ibm.com/blog/what-is-federated-learning>
 
 
-  ### **Data Science Project (IDEA-FAST Fatigue and Sleep Monitoring Using Wearable Devices)**
+  ### **IDEA-FAST Fatigue and Sleep Monitoring Using Wearable Devices (Data Science Project)**
 
 
-  The IDEA-FAST project is a 5½-year IMI2 project under Call H2020-JTI-IMI2-2018-15-two-stage – digital endpoints in neurodegenerative and immune-mediated diseases (total budget €42 Million) that starts in November 2019, run by a consortium of 46 partners across 15 countries in Europe. It aims to identify digital endpoints that provide a reliable, objective and sensitive evaluation of activities of daily life (ADL), disability and health-related quality of life (HRQoL) for the following neurodegenerative diseases (NDD): Parkinson’s Disease (PD), Huntington’s Disease (HD) and the following immune-mediated inflammatory diseases (IMID): Rheumatoid Arthritis (RA), Systemic Lupus Erythematosus (SLE), Primary Sjögren’s Syndrome (PSS), and Inflammatory Bowel Disease (IBD). In this project, you will work on building a machine learning/deep learning model to monitor fatigue and sleep based on sensor signals in the context of physical activities. You will also have the opportunity to work with world-leading data scientists from Janssens, Pfizer and VTT
+  The IDEA-FAST project is a 5½-year IMI2 project under Call H2020-JTI-IMI2-2018-15-two-stage – digital endpoints in neurodegenerative and immune-mediated diseases (total budget €42 Million) that starts in November 2019, run by a consortium of 46 partners across 15 countries in Europe. It aims to identify digital endpoints that provide a reliable, objective and sensitive evaluation of activities of daily life (ADL), disability and health-related quality of life (HRQoL) for the following neurodegenerative diseases (NDD): Parkinson’s Disease (PD), Huntington’s Disease (HD) and the following immune-mediated inflammatory diseases (IMID): Rheumatoid Arthritis (RA), Systemic Lupus Erythematosus (SLE), Primary Sjögren’s Syndrome (PSS), and Inflammatory Bowel Disease (IBD). In this project, you will work on building a machine learning/deep learning model to monitor fatigue and sleep based on sensor signals in the context of physical activities. You will also have the opportunity to work with world-leading data scientists from Janssens Pharmaceuticals, Pfizer and VTT
 
 
   More details please see: [](https://idea-fast.eu/project-overview/)<https://idea-fast.eu/project-overview/>
