@@ -6,7 +6,9 @@ available_msc: true
 available_phd: false
 email: fouad.khelifi@northumbria.ac.uk
 website: https://scholar.google.co.uk/citations?user=dDjIW94AAAAJ&hl=en
-office_hours: "Students can email me anytime to arrange a meeting. "
+office_hours: |-
+  Students can email me anytime to arrange a meeting. 
+  Drop-in Hours: Monday 12:00-13:00 and Wednesday 12:00-13:00
 research_group: Intelligent Systems Research Group
 research_themes:
   - Deep Learning
