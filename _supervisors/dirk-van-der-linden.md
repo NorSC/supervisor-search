@@ -11,7 +11,8 @@ research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
   - Data Privacy
-  - Internet of Things
+  - Artificial Intelligence
+  - Information Science
 additional_keywords:
   - Animal Computer Interaction
   - User Centred Design
@@ -21,6 +22,10 @@ additional_keywords:
   - Human-Data Interaction
   - Usable Privacy & Security
   - UX Design
+  - Information Management
+  - Activity Recognition
+  - Computer Vision
+  - Equality Diversity & Inclusion
 technologies_languages:
   - Conceptual Modeling
   - Ethnographic Observations
@@ -40,13 +45,16 @@ additional_details: >-
   match. 
 
 
-  Ideally you would be interested in pursuing research and have interest in academia so that from the start I can help you work on your project to have potential for publication (e.g., in the International Conference on Animal-Computer Interaction).
+  Ideally you would be interested in pursuing research and have interest in academia so that from the start I can help you work on your project to have potential for publication (e.g., in the International Conference on Animal-Computer Interaction). Three students have already succeeded in publishing their (undergrad) work before you!
 
 
   Take a look at my [research ](https://www.profdirk.com/research)description on my website, my [research outputs](https://researchportal.northumbria.ac.uk/en/persons/dirk-van-der-linden/publications/) on Pure, and my [Technology for Animals](https://www.tech4animals.org) lab website for more details of what I have and am working on. If we work together on a project, you may gain access to domain experts in my Technology for Animals Lab from veterinary sciences, animal behaviour, and anthrozoology.
 
 
   I am happy to discuss any project ideas you might already have in this domain and work with you on finding something that fits with your interests and ambitions. For inspiration, some rough project/topic ideas that I would also be interested in working on with students are below, these would also require your own interpretation and further definition:
+
+
+  "﻿**Computational Animal Behavior Analysis**: in my lab we tend to work on a number of CABA projects at the same time, employing computer vision and ML methods to identify and quantify animal behavior to answer real-world questions. Depending on the time of the year there might be opportunities to work on novel datasets provided by our veterinary and zoologist partners and help answer real-world questions. In the past these have included using CV+ML for canine activity detection and subsequent classification of hyperactivity and ADHD-like symptoms, classification of chameleon activity, detection of shelter dog activity, and so on."
 
 
   **"Wildlife and human interactions in the city:** lots of different animals live among us in the city, yet most people know very little of them, misunderstand them, or even dislike them. Could technology help improve human-animal relationships, and if so, what kind of shape would that technology take? There are lots of opportunities in this domain for your own interpretation and interest of a tailored project."
@@ -69,13 +77,16 @@ additional_details_msc: >-
   match. 
 
 
-  Ideally you would be interested in pursuing research and have interest in academia so that from the start I can help you work on your project to have potential for publication (e.g., in the International Conference on Animal-Computer Interaction).
+  Ideally you would be interested in pursuing research and have interest in academia so that from the start I can help you work on your project to have potential for publication (e.g., in the International Conference on Animal-Computer Interaction). Three students have already succeeded in publishing their (undergrad) work before you!
 
 
   Take a look at my [research ](https://www.profdirk.com/research)description on my website, my [research outputs](https://researchportal.northumbria.ac.uk/en/persons/dirk-van-der-linden/publications/) on Pure, and my [Technology for Animals](https://www.tech4animals.org) lab website for more details of what I have and am working on. If we work together on a project, you may gain access to domain experts in my Technology for Animals Lab from veterinary sciences, animal behaviour, and anthrozoology.
 
 
   I am happy to discuss any project ideas you might already have in this domain and work with you on finding something that fits with your interests and ambitions. For inspiration, some rough project/topic ideas that I would also be interested in working on with students are below, these would also require your own interpretation and further definition:
+
+
+  "﻿**Computational Animal Behavior Analysis**: in my lab we tend to work on a number of CABA projects at the same time, employing computer vision and ML methods to identify and quantify animal behavior to answer real-world questions. Depending on the time of the year there might be opportunities to work on novel datasets provided by our veterinary and zoologist partners and help answer real-world questions. In the past these have included using CV+ML for canine activity detection and subsequent classification of hyperactivity and ADHD-like symptoms, classification of chameleon activity, detection of shelter dog activity, and so on."
 
 
   **"Wildlife and human interactions in the city:** lots of different animals live among us in the city, yet most people know very little of them, misunderstand them, or even dislike them. Could technology help improve human-animal relationships, and if so, what kind of shape would that technology take? There are lots of opportunities in this domain for your own interpretation and interest of a tailored project."
@@ -98,13 +109,16 @@ additional_details_phd: >-
   match. 
 
 
-  Ideally you would be interested in pursuing research and have interest in academia so that from the start I can help you work on your project to have potential for publication (e.g., in the International Conference on Animal-Computer Interaction).
+  Ideally you would be interested in pursuing research and have interest in academia so that from the start I can help you work on your project to have potential for publication (e.g., in the International Conference on Animal-Computer Interaction). Three students have already succeeded in publishing their (undergrad) work before you!
 
 
   Take a look at my [research ](https://www.profdirk.com/research)description on my website, my [research outputs](https://researchportal.northumbria.ac.uk/en/persons/dirk-van-der-linden/publications/) on Pure, and my [Technology for Animals](https://www.tech4animals.org) lab website for more details of what I have and am working on. If we work together on a project, you may gain access to domain experts in my Technology for Animals Lab from veterinary sciences, animal behaviour, and anthrozoology.
 
 
   I am happy to discuss any project ideas you might already have in this domain and work with you on finding something that fits with your interests and ambitions. For inspiration, some rough project/topic ideas that I would also be interested in working on with students are below, these would also require your own interpretation and further definition:
+
+
+  "﻿**Computational Animal Behavior Analysis**: in my lab we tend to work on a number of CABA projects at the same time, employing computer vision and ML methods to identify and quantify animal behavior to answer real-world questions. Depending on the time of the year there might be opportunities to work on novel datasets provided by our veterinary and zoologist partners and help answer real-world questions. In the past these have included using CV+ML for canine activity detection and subsequent classification of hyperactivity and ADHD-like symptoms, classification of chameleon activity, detection of shelter dog activity, and so on."
 
 
   **"Wildlife and human interactions in the city:** lots of different animals live among us in the city, yet most people know very little of them, misunderstand them, or even dislike them. Could technology help improve human-animal relationships, and if so, what kind of shape would that technology take? There are lots of opportunities in this domain for your own interpretation and interest of a tailored project."
