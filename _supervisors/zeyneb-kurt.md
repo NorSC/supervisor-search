@@ -2,7 +2,7 @@
 layout: supervisor
 title: Zeyneb Kurt
 available: true
-available_msc: false
+available_msc: true
 available_phd: true
 email: zeyneb.kurt@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/k/zeyneb-kurt/
