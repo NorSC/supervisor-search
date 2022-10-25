@@ -14,8 +14,9 @@ additional_keywords:
   - Technology-Enhanced Learning
   - User Centred Design
   - Information Management
+  - Equality Diversity & Inclusion
 technologies_languages:
+  - User Stories
   - Interviews
-  - Use Case
-  - JavaScript
+additional_details_msc: Digital literacy, Digital technology and Education, User Experience
 ---
