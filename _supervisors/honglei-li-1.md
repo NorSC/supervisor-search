@@ -6,9 +6,9 @@ available_msc: true
 available_phd: true
 email: honglei.li@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/l/honglei-li/
-office_hours: |-
-  Tuesday 12-1 pm
-  Friday 12-1 pm
+office_hours: |
+  11-1pm Monday 
+  12-1 pm Tuesday
 research_group: Computer Vision and Natural Computing
 research_themes:
   - Deep Learning
