@@ -2,7 +2,7 @@
 layout: supervisor
 title: Andy Dow
 available: false
-available_msc: false
+available_msc: true
 email: andrew.dow@northumbria.ac.uk
 office_hours: I am available in my office (CIS 303) on Wednesdays 1-2pm and
   Thursdays 10-11am. You can also contact me via email to arrange an appointment
