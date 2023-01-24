@@ -7,10 +7,9 @@ available_phd: true
 email: rebecca.strachan@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/
 office_hours: >-
-  I work full time. I have three drop in hours per week where students can just
-  drop in to see me. These are Wednesdays 9.30 - 11am and Thursdays 3.30-
-  5pm.  If you would like a specific time during this period, just contact me
-  via email to book an appointment.
+  I work full time. I have two drop in hours per week where students can just
+  drop in to see me. These are Tuesdays 3-5pm.  If you would like a specific
+  time during this period, just contact me via email to book an appointment.
 
 
   My office is ELB112 on the first floor of B Block, Ellison Building and my work phone no is 0191 227 3606.
@@ -91,38 +90,33 @@ additional_details_msc: >-
   Here are some of my current ideas for Masters level research topics:
 
 
-  1. ***Co-Creating Solutions with Students to Encourage Good Academic Practice with a focus on Combatting Plagiarism***
-     Despite the provision of numerous resources and advice and guidance on plagiarism, the Higher Education sector in the UK and elsewhere is still experiencing a significant number of cases of student plagiarism each year. This research study would use participatory action research to work with a set of students at Northumbria to explore their attitudes and behaviour towards academic misconduct and co-design a set of resources/approaches with them to encourage good academic practice and reduce cases of plagiarism within the wider student body.
+  ***1.Co-Creating a Digital Interactive Educational Resource on Academic Integrity and Good Academic Practice.***
+
+  There is some evidence to suggest that students are committing academic misconduct through ignorance or a lack of knowledge and understanding of academic integrity and how to use good academic practice in their work. This project would work with a group of students in a participatory manner to understand their needs and develop and trial an online interactive educational resource around academic integrity and good academic practice.  It would draw on the elements outlined 
+
 
   ***Related Reading:***
 
 
-  Halak, B. and El-Hajjar, M., 2019. Design and evaluation of plagiarism prevention and detection techniques in engineering education. Higher Education Pedagogies, 4(1), pp.197-208.
+  Ard, S.E. and Ard, F., 2019. The library and the writing centre build a workshop: Exploring the impact of an asynchronous online academic integrity course. *New Review of Academic Librarianship*, *25*(2-4), pp.218-243.
 
 
-  Adkins, K.L. and Joyner, D.A., 2022. Scaling anti‐plagiarism efforts to meet the needs of large online computer science classes: Challenges, solutions, and recommendations. Journal of Computer Assisted Learning.
+  Brown, K.G. and Ballinger, D., 2017. ‘The integrity games’: An interactive story education approach to teaching academic integrity. *ATLAANZ Journal*, *2*(1), pp.68-81.
 
 
-  Karnalim, O., Chivers, W. and Panca, B.S., 2022. Educating Students about Programming Plagiarism and Collusion via Formative Feedback. ACM Transactions on Computing Education (TOCE).
+  I﻿nternational Centre for Academic Integrity 2023. Fundamental Values of Academic Integrity. Available at https://academicintegrity.org/about/values. Last accessed 24/01/2023.
 
 
-  2. ***Co-Creating Digital Induction Resources for Postgraduate International Computer Science Students***
-     There is evidence that international students in the UK can find I difficult to adapt to our way of education. We are also seeing increasing numbers of international students particularly at postgraduate levels and in disciplines such as computer science and business. This project will adopt exploratory research, working with a group of students to understand their experience of starting their postgraduate programmes with a view to developing a set of online induction resources to provide better support in the future.
-
-  ***Related Reading:***
+  Reedy, A.K., Wurm, P.A., Janssen, A. and Lockley, A., 2021. A community of practice approach to enhancing academic integrity policy translation: a case study. *International Journal for Educational Integrity*, *17*(1), pp.1-20.
 
 
-  Cowley, P. and Hyams-Ssekasi, D., 2018. Motivation, induction, and challenge: Examining the initial phase of international students’ educational sojourn. Journal of International Students, 8(1), pp.109-130.
+  Zhao, X. and Sbaffi, L., 2022. Evaluating a Pedagogical Approach to Promoting Academic Integrity in Higher Education: An Online Induction Program, Preprint.
 
 
-  Valentine, R.A., Wakeling, L.A., Ferrie, L.J., Schartner, A., Guilding, C. and Peterson, J., 2019. Students on student induction–a cross-disciplinary action research project. ARELCS.
+  ***2. Inclusive Educational Resources and Practice: A Case Study in Computer Science at Northumbria University.***   
 
+  There is still a gender imbalance in computer science and computer science education in the UK. This is mirrored elsewhere too. This research would use the computer science provision at Northumbria University to investigate the extent to which its educational resources and practice are inclusive. The research would employ an exploratory research approach.
 
-  Lee, J., Kim, N. and Wu, Y., 2019. College readiness and engagement gaps between domestic and international students: Re-envisioning educational diversity and equity for global campus. Higher Education, 77(3), pp.505-523.
-
-
-  3. ***Inclusive Educational Resources and Practice: A Case Study in Computer Science at Northumbria University*** 
-     There is still a gender imbalance in computer science and computer science education in the UK. This is mirrored elsewhere too. This research would use the computer science provision at Northumbria University to investigate the extent to which its educational resources and practice are inclusive. The research would employ an exploratory research approach.
 
   ***Related Reading:***
 
@@ -130,7 +124,7 @@ additional_details_msc: >-
   Mooney, C. and Becker, B.A., 2020, September. Sense of Belonging: The intersectionality of self-identified minority status and gender in undergraduate computer science students. In United Kingdom & Ireland Computing Education Research conference. (pp. 24-30).
 
 
-  González-González, C.S., García-Holgado, A. and García-Peñalvo, F.J., 2020, April. Strategies to introduce gender perspective in Engineering studies: a proposal based on self-diagnosis. In 2020 IEEE Global Engineering Education Conference (EDUCON) (pp. 1884-1890). IEEE.
+  González-González, C.S., García-Holgado, A. and García-Peñalvo, F.J., 2020, April. Strategies to introduce gender perspective in Engineering studies: a proposal based on self-diagnosis. In 2020 IEEE Global Engineering Education Conference (EDUCON), pp. 1884-1890.  
 
 
   Sathy, V. and Hogan, K.A., 2019. How to make your teaching more inclusive. The Chronicle of Higher Education, 7.
