@@ -1,12 +1,12 @@
 ---
 layout: supervisor
 title: David Hastings
-available: true
+available: false
 available_msc: true
 email: david2.hastings@northumbria.ac.uk
 office_hours: |-
   Monday 10:30 - 11:30
-  Thursday 10:30 - 11:30
+  Friday 15:00 - 16:))
 research_group: Northumbria Social Computing
 research_themes:
   - Information Science
