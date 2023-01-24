@@ -11,7 +11,7 @@ office_hours: >-
   cannot attend the drop-in hours.  I can meet in person, or via Teams.
 
 
-  Drop-in hours : Tuesday 2-3pm, Thursday 2-3pm - either in person or via Teams.
+  Drop-in hours : Tuesday 1.30-2.30pm, Thursday1-2pm - either in person or via Teams.
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
