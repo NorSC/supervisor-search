@@ -6,7 +6,7 @@ available_msc: true
 email: gerhard.fehringer@northumbria.ac.uk
 office_hours: >-
   
-  Monday 12.00-1.00pm; Thursday 1.00-2.00pm (during term time)
+  Wednesday 12.30-1.30pm; Thursday 12.00-1.00pm (during term time)
 
   You can also email me and we can set up a meeting/TEAMS video call to discuss your ideas.
 research_group: Cyber Security and Network Systems
@@ -45,5 +45,5 @@ additional_details_msc: |-
 
   Projects utilising Espruino Puck 
 
-  G﻿reen networking / analysis of energy efficient methods in simluators
+  G﻿reen networking / analysis of energy efficient methods
 ---
