@@ -5,8 +5,8 @@ available: true
 available_msc: true
 email: lynne.conniss@northumbria.ac.uk
 office_hours: >-
-  For Semester 1, 2022-2023, my student drop-in hours are: Mondays 1.30pm -
-  2.30pm and Wednesdays 10am - 11am. My office is CIS 309. 
+  For Semester 2, 2022-2023, my student drop-in hours are: Tuesdays 2-3pm and
+  Thursdays 3-4pm. My office is CIS 309. 
 
 
   If these drop-in time slots are not convenient, please email me (lynne.conniss@northumbria.ac.uk) for an appointment. 
@@ -50,7 +50,7 @@ additional_details: >-
 
   * data/information visualisation from a user perspective;
 
-  * information architecture and content management from a user perspective;
+  * information architecture from a user perspective;
 
   * investigative-flavour games projects
 
@@ -79,7 +79,7 @@ additional_details_msc: >-
 
   * data/information visualisation from a user perspective;
 
-  * information architecture and content management from a user perspective;
+  * information architecture from a user perspective;
 
   * more broadly, anything with a cognitive slant.
 
