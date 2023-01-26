@@ -7,7 +7,7 @@ available_phd: true
 email: alan.godfrey@northumbria.ac.uk
 website: https://digihealthgroup.org/
 office_hours: |-
-  Wednesday: 10-11am
+  Tuesday: 10-11am
   Thursday: 1-2pm
 research_group: Digital Health and Wellbeing
 research_themes:
