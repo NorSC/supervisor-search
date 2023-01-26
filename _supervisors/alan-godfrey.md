@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Alan Godfrey
-available: true
+available: false
 available_msc: true
 available_phd: true
 email: alan.godfrey@northumbria.ac.uk
