@@ -5,7 +5,7 @@ available: true
 available_msc: true
 email: m.pointon@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/p/matthew-pointon/
-office_hours: Monday-Friday 0900-1630
+office_hours: "Semester 2, 2022-23: Tuesdays 10-11am and Thursdays 3-4pm"
 research_group: Digital Health and Wellbeing
 research_themes:
   - Information Science
