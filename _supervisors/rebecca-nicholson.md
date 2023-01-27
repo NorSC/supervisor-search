@@ -123,5 +123,26 @@ additional_details_msc: >-
   Deeva, G., Bogdanova, D., Serral, E., Snoeck, M., & De Weerdt, J. (2021). A review of automated feedback systems for learners: Classification framework, challenges and opportunities. Computers & Education, 162, 104094.
 
 
-  If either of these interest you or you have a project idea that you would like to discuss either around educational technologies or music and theatre technologies then contact me via email to book an appointment.
+  ***Investigating the existence of Digital Natives***
+
+
+  Digital Natives is a concept that has seen much interest since its inception with conflicting evidence about their existence and what that means for teaching and learning.  This research study would use interview and observational methods to explore whether our understanding of digital natives needs to be updated.  It would interview postgraduate computing students to explore their understanding and competencies with the use of a variety of digital technologies. 
+
+
+  *Related Reading*
+
+
+  Bennett, Sue, Karl Maton, and Lisa Kervin. "The ‘digital natives’ debate: A critical review of the evidence." *British journal of educational technology* 39.5 (2008): 775-786.
+
+
+  Janschitz, Gerlinde, and Matthias Penker. "How digital are ‘digital natives’ actually? Developing an instrument to measure the degree of digitalisation of university students–the DDS-Index." *Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique* 153.1 (2022): 127-159.
+
+
+  Prenksy, M. (2001a). Digital natives, digital immigrants. *On the Horizon*, 9, 5, 1– 6.
+
+
+  Prenksy, M. (2001b). Digital natives, digital immigrants, part II. Do they really think differently? *On the Horizon*, 9, 6, 1– 6.
+
+
+  If any of these interest you or you have a project idea that you would like to discuss either around educational technologies or music and theatre technologies then contact me via email to book an appointment.
 ---
