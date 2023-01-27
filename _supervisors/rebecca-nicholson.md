@@ -6,11 +6,11 @@ available_msc: true
 available_phd: false
 email: rebecca.nicholson@northumbria.ac.uk
 office_hours: >-
-  I work full time and I have two drop in hours during the week, where students
-  can just come and find me – these are Tuesdays 4-5pm, and  Thursdays 1-2pm.
+  I have two drop in hours during the week, where students can just come and
+  find me – these are Wednesdays 9-10am, and  Fridays 3-4pm.
 
 
-  My office is ELB118 (on the first floor of Ellison B)
+  My office is ELB116 (on the first floor of Ellison B)
 research_group: Digital Learning Laboratory
 research_themes:
   - Human-Computer Interaction
