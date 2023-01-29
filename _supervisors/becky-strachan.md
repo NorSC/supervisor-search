@@ -20,6 +20,9 @@ additional_keywords:
   - Equality Diversity & Inclusion
   - Technology-Enhanced Learning
   - User Centred Design
+  - Qualitative Methods
+  - Inclusive Design
+  - Participatory Design
 technologies_languages:
   - User Stories
 additional_details: >-
@@ -92,7 +95,7 @@ additional_details_msc: >-
 
   ***1.Co-Creating a Digital Interactive Educational Resource on Academic Integrity and Good Academic Practice.***
 
-  There is some evidence to suggest that students are committing academic misconduct through ignorance or a lack of knowledge and understanding of academic integrity and how to use good academic practice in their work. This project would work with a group of students in a participatory manner to understand their needs and develop and trial an online interactive educational resource around academic integrity and good academic practice.  It would draw on the elements outlined 
+  There is some evidence to suggest that students are committing academic misconduct through ignorance or a lack of knowledge and understanding of academic integrity and how to use good academic practice in their work. This project would work with a group of students in a participatory manner to understand their needs and develop and trial an online interactive educational resource around academic integrity and good academic practice.  
 
 
   ***Related Reading:***
@@ -113,7 +116,7 @@ additional_details_msc: >-
   Zhao, X. and Sbaffi, L., 2022. Evaluating a Pedagogical Approach to Promoting Academic Integrity in Higher Education: An Online Induction Program, Preprint.
 
 
-  ***2. Inclusive Educational Resources and Practice: A Case Study in Computer Science at Northumbria University.***   
+  ***2. Inclusive Educational Resources and Practice: A Case Study in Computer Science at Northumbria University.***\
 
   There is still a gender imbalance in computer science and computer science education in the UK. This is mirrored elsewhere too. This research would use the computer science provision at Northumbria University to investigate the extent to which its educational resources and practice are inclusive. The research would employ an exploratory research approach.
 
@@ -128,6 +131,23 @@ additional_details_msc: >-
 
 
   Sathy, V. and Hogan, K.A., 2019. How to make your teaching more inclusive. The Chronicle of Higher Education, 7.
+
+
+  ***3. Open AI, GPT-3 and CHATGPT - Opportunities to Support more Inclusive Student Learning***\
+
+  There has been a great deal of interest in the recent developments around natural language processing and in particular ChatGPT and related tools. These can generate content and code. Although there are concerns about their use, they also have the potential to be really useful tools. This project will look at their application particularly to provide a more inclusive learning experience and support for students. This is likely to adopt an action research and/or participatory research approach, working closely with students and/or academic staff to explore how to incorporate these tools within a learning environment to enhance its inclusivity.
+
+
+  ***Related Reading:***
+
+
+  Zhai, Xiaoming, ChatGPT User Experience: Implications for Education (December 27, 2022). Available at SSRN: <https://ssrn.com/abstract=4312418> or [http://dx.doi.org/10.2139/ssrn.4312418](https://dx.doi.org/10.2139/ssrn.4312418)
+
+
+  T﻿imes Higher Education Article: How to use ChatGPT in the classroom this semester by Ben Swift, Australian National University. Available at: https://www.timeshighereducation.com/campus/so-you-want-use-chatgpt-classroom-semester
+
+
+  Qadir, Junaid (2022): Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.21789434.v1 
 
 
   These are just some of the ideas I have had regarding possible research. We also have a set of data from Nigeria about online learning during the COVID Pandemic that could be made available to anybody interested in exploring online school education provision during COVID. I would also be happy to discuss other ideas you may have.
