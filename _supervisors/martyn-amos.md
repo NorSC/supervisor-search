@@ -2,7 +2,7 @@
 layout: supervisor
 title: Martyn Amos
 available: false
-available_msc: true
+available_msc: false
 available_phd: false
 email: martyn.amos@northumbria.ac.uk
 website: http://www.martynamos.org
