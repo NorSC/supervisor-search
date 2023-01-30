@@ -2,7 +2,7 @@
 layout: supervisor
 title: Marta Cecchinato
 available: false
-available_msc: true
+available_msc: false
 available_phd: true
 email: marta.cecchinato@northumbria.ac.uk
 website: http://www.cecchinato.me/
