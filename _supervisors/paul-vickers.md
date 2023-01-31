@@ -7,9 +7,7 @@ available_phd: true
 email: paul.vickers@northumbria.ac.uk
 website: https://paulvickers.github.io/
 office_hours: >-
-  I work full time. There are two hours per week reserved for student drop-ins
-  where students can book to see me either online or in person. These are: 1.
-  Tuesdays 13.30–12.30;  2.  Wednesdays 10.00–11.00. 
+  I work full time. 
 
 
   Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams.
