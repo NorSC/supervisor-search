@@ -6,13 +6,12 @@ available_msc: true
 available_phd: true
 email: petia.sice@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/s/petia-sice/
-office_hours: >-
+office_hours: |-
   I have two  drop in sessions per week.  
 
-   My office hours are Tuesdays  1:30 - 2:30 pm and Fridays 3-4 30 pm. 
+   These are Wednesdays 1-2 pm, Wednesdays 3-4 pm. 
 
-  If you would like a specific time during this period, please  contact me via email to book an appointment. 
-
+  Please contact me via email to book an appointment during the week. 
 
   My office is ELB107 on the first floor of B Block, Ellison Building.
 research_group: Digital Health and Wellbeing
