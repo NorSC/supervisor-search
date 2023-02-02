@@ -9,7 +9,7 @@ website: https://www.northumbria.ac.uk/about-us/our-staff/s/petia-sice/
 office_hours: |-
   I have two  drop in sessions per week.  
 
-   These are Wednesdays 1-2 pm, Wednesdays 3-4 pm. 
+   These are Wednesdays 1-2 pm, Thursday 2:30-3:30 pm. 
 
   Please contact me via email to book an appointment during the week. 
 
