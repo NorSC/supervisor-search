@@ -2,9 +2,9 @@
 layout: supervisor
 title: John Shearer
 available: true
-available_msc: true
+available_msc: false
 available_phd: false
-email: john.shearer.northumbria.uni@gmail.com
+email: john.shearer@northumbria.ac.uk
 office_hours: We'll figure out a mutually convenient time/location - I don't
   have office hours.
 research_group: Northumbria Social Computing
