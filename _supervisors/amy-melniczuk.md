@@ -62,4 +62,14 @@ additional_details_msc: >-
   * Working on the projects you are motivated and interested in is crucial for me. Therefore, **do make an appointment with me first to discuss your interests**. My email address is amy.melniczuk@northumbria.ac.uk. Usually, I can reply to you in less than two days. 
 
   * If you want to work with me, I hope you will get the best grades. In other words, if you want to pass the thesis study, I am sorry, but I might not be your ideal supervisor.
+additional_details_phd: "I have studied and worked in China, Canada, Germany,
+  Switzerland, and now in the UK. I have no Ph.D. supervision experience, but I
+  am confident that I know how to help you succeed. It is a big decision to
+  start a Ph.D. Getting a Ph.D. at Northumbria University might not be an
+  optimal decision compared to a top-ranking university like Cambridge
+  University. However, I have seen many friends graduate from not very
+  well-known universities but get good jobs. The secret is what my bachelor's
+  supervisor told me: if you can not be one of the best students in a university
+  you think does not deserve you, how can you be confident that you will be
+  successful in a top university?"
 ---
