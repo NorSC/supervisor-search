@@ -6,10 +6,16 @@ available_msc: true
 available_phd: false
 email: amy.melniczuk@northumbria.ac.uk
 website: https://scholar.google.ca/citations?user=EMWnRw8AAAAJ&hl=en
-office_hours: |-
+office_hours: >-
   Mondays: 2 pm - 3 pm
+
   Fridays: 10 am - 11 am
+
   Location: Ellison Building, Room B113
+
+  Email: amy.melniczuk@northumbria.ac.uk
+
+  Note: If the above timeslots are inconvenient for you, email me, and we can try to make it on anther day. In addition, to save you precious time, even though you will come on Mondays and Fridays, it is still good to email me in case I am not in the office for some teaching tasks. 
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
