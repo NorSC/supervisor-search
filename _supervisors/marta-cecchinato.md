@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Marta Cecchinato
-available: false
+available: true
 available_msc: false
 available_phd: true
 email: marta.cecchinato@northumbria.ac.uk
@@ -15,7 +15,7 @@ office_hours: >-
   2. Friday 12-1 pm.
 
 
-  Room 307
+  Room CIS 307
 
 
   Please book an appointment by contacting me via email. We can meet either in person (on campus) or online via Teams.
