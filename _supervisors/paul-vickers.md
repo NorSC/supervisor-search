@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Paul Vickers
-available: true
+available: false
 available_msc: false
 available_phd: true
 email: paul.vickers@northumbria.ac.uk
