@@ -3,6 +3,7 @@ layout: supervisor
 title: Martin Wonders
 available: true
 available_msc: true
+available_phd: true
 email: martin.wonders@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/martin-wonders/
 office_hours: Thursday 13:00 - 14:00 and Fridays 13:00 - 14:00
