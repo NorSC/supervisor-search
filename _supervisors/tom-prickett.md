@@ -6,7 +6,7 @@ available_msc: false
 email: Tom.prickett@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/p/tom-prickett/
 office_hours: |-
-  I will be available in my office on Monday 12:00-1pm and 10:00-11:00
+  I will be available in my office on Monday 12:00-1pm and 10:00-11:00am
 
   Please note I work part-time for Northumbria Monday-Thursday.
 research_group: Digital Learning Laboratory
