@@ -8,8 +8,9 @@ email: rebecca.strachan@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/s/becky-strachan/
 office_hours: >-
   I work full time. I have two drop in hours per week where students can just
-  drop in to see me. These are Tuesdays 3-5pm.  If you would like a specific
-  time during this period, just contact me via email to book an appointment.
+  drop in to see me. These are Mondays 4-5pm and Tuesday 10-11am.  If you would
+  like a specific time during this period, just contact me via email to book an
+  appointment.
 
 
   My office is ELB112 on the first floor of B Block, Ellison Building and my work phone no is 0191 227 3606.
@@ -41,42 +42,70 @@ additional_details: >-
   H﻿ere are some of my current ideas for Undergraduate Final Year Projects:
 
 
-  1﻿. ***Development of a Gamified Online Resource to Educate Students about Good Academic Practice and how to Avoid Academic Misconduct.***
+  **1. Development of a Student Centred Gamified Online Resource to Educate Students about Good Academic Practice and how to Avoid Academic Misconduct**
 
 
-  H﻿igher education is witnessing an increase in the cases of academic misconduct including contract cheating and plagiarism. This project would look at developing a set of online resources to educate students about how to use good academic practice and avoid academic misconduct. It would ideally use a gamified approach to provide a more playful learning environment and focus on students in the computer science disciplines.
+  Higher education is witnessing an increase in the cases of academic misconduct including contract cheating and plagiarism. This project would look at developing a set of student centred online resources to educate students about how to use good academic practice and avoid academic misconduct. It would ideally work with a set of student to understand their requirements and then use a gamified approach to provide a more playful learning environment with a focus on students in the computer science disciplines.
 
 
-  ***R﻿elated Reading***
+  ***Related Reading***
 
 
-  E﻿uropean Network for Academic Integrity. This has a wealth of resources including a self-evaluation tool for students. See <https://www.academicintegrity.eu/wp/> and [https://www.academicintegrity.eu/survey](https://www.academicintegrity.eu/survey/)
+  European Network for Academic Integrity. This has a wealth of resources including a self-evaluation tool for students. See https://www.academicintegrity.eu/wp/ and https://www.academicintegrity.eu/survey plus they have a working group on Gamification – see: https://www.academicintegrity.eu/wp/gamification-of-academic-integrity/.
 
 
-  Saleem, A.N., Noori, N.M. and Ozdamli, F., 2021. Gamification applications in E-learning: A literature review. *Technology, Knowledge and Learning*, pp.1-21.
+  Saleem, A.N., Noori, N.M. and Ozdamli, F., 2021. Gamification applications in E-learning: A literature review. Technology, Knowledge and Learning, pp.1-21.
 
 
-  International Center for Academic Integrity \[ICAI]. (2021). The Fundamental Values of Academic Integrity. (3rd ed.). <https://academicintegrity.org/images/pdfs/20019_ICAI-Fundamental-Values_R12.pdf>
+  Khan, Z.R., Dyer, J., Bjelobaba, S. et al. Initiating count down - gamification of academic integrity. Int J Educ Integr 17, 6 (2021). https://doi.org/10.1007/s40979-020-00068-0.
 
 
-  2﻿. ***Inclusive Educational Resources and Practice: A Good Practice Guide*** 
+  International Center for Academic Integrity \[ICAI]. (2021). The Fundamental Values of Academic Integrity. (3rd ed.). https://academicintegrity.org/images/pdfs/20019_ICAI-Fundamental-Values_R12.pdf
 
-  There is still a gender imbalance in computer science and computer science education in the UK. This is mirrored elsewhere too. This project would develop an online guide for good practice around inclusive educational resources , focusing on the computer science disciplines.
+
+  **2. Generative AI Tools for Conducting and Writing a Critical Literature Review: An Online Good Practice Guid**e
+
+
+  Generative AI and associated tools based on this technology have been developing quickly over the past year. Many of these tools can help students in their studies but care needs to be taken to ensure students are still active learners in this process. Several of these tools particularly apply to searching and evaluating the literature. This project will focus on these tools to explore the design and development of an online good practice guide for such tools aimed at the final year and postgraduate student.
 
 
   ***Related Reading:***
 
 
-  Mooney, C. and Becker, B.A., 2020, September. Sense of Belonging: The intersectionality of self-identified minority status and gender in undergraduate computer science students. In United Kingdom & Ireland Computing Education Research conference. (pp. 24-30).
+  Webb, Michael, 2023, A Generative AI Primer, National Centre for AI in Tertiary Education, JISC. Published 11 May 2023. Available at https://nationalcentreforai.jiscinvolve.org/wp/2023/05/11/generative-ai-primer/#2.
 
 
-  González-González, C.S., García-Holgado, A. and García-Peñalvo, F.J., 2020, April. Strategies to introduce gender perspective in Engineering studies: a proposal based on self-diagnosis. In 2020 IEEE Global Engineering Education Conference (EDUCON) (pp. 1884-1890). IEEE.
+  JISC, 2023, Artificial Intelligence (AI) in Tertiary Education: A summary of the current state of play, Third Edition, JISC, Published September 2023. Available at https://repository.jisc.ac.uk/9232/1/ai-in-tertiary-education-a-summary-of-the-current-state-of-play-september-2023.pdf.
 
 
-  Sathy, V. and Hogan, K.A., 2019. How to make your teaching more inclusive. The Chronicle of Higher Education, 7.
+  Lund, B.D., Wang, T., Mannuru, N.R., Nie, B., Shimray, S. and Wang, Z., 2023. ChatGPT and a new academic reality: Artificial Intelligence‐written research papers and the ethics of the large language models in scholarly publishing. Journal of the Association for Information Science and Technology, 74(5), pp.570-581.
 
 
-  T﻿hese are just a couple of ideas but I would be happy to discuss other ideas that you may have related to my areas of interest.
+  Qadir, J., 2023, May. Engineering education in the era of ChatGPT: Promise and pitfalls of generative AI for education. In 2023 IEEE Global Engineering Education Conference (EDUCON) (pp. 1-9).
+
+
+  **3. Practical Research Methods in Computer Science: An Interactive Guide**
+
+
+  We teach research methods to many of our computing students. However, it is always useful to have specific examples to illustrate these concepts. This project would take some of our existing research as academic staff and produce an interactive educational resource to provide illustrative examples of applying at least 2 different research methods and analysing the results for our students.
+
+
+  ***Related Reading:***
+
+
+  Alvarado, C., Hummel, J., Mirza, D., Revelo, R., Yan, L., 2022. Scaling and Adapting a Program for Early Undergraduate Research in Computing. Proceedings of the 53rd ACM Technical Symposium on Computer Science Education - Volume 1 (SIGCSE 2022), Vol. 1, ACM, New York, pp. 50–56. https://doi.org/10.1145/3478431.3499336
+
+
+  Barrow, M., Thomas, S., Alvaraco, C., 2016. ERSP: A Structured CS Research Program for Early-College Students, Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE '16). ACM, New York, pp.148–153. https://doi.org/10.1145/2899415.2899436
+
+
+  Holz, H. J., Applin, A., Haberman, B., Joyce, D., Purchase, H., and Reed, C., "Research methods in computing: What are they and how should we teach them?", SIGCSE Bulletin, vol. 38, no. 4, pp. 96-114, 2006.
+
+
+   
+
+
+  These are just a couple of ideas but I would be happy to discuss other ideas that you may have related to my areas of interest.
 additional_details_msc: >-
   **Additional Themes**: Computer Science Education, Digital Fluency, STEM
   education, User Experience
