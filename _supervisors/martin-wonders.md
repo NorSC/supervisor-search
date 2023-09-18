@@ -11,14 +11,19 @@ research_themes:
   - Deep Learning
   - Artificial Intelligence
   - Machine Learning
+  - Game Design and Development
 additional_keywords:
   - Activity Recognition
   - Reinforcement Learning
   - Modelling & Simulation
   - Autonomous Systems
   - Robotics
+  - AI in Games
+  - Serious Games
 technologies_languages:
   - Python
+  - Augmented Reality (AR)
+  - Virtual Reality (VR)
 additional_details: >-
   My research interests are in Machine Learning for Activity Recognition (ML for
   AR) and Serious Gaming. In general, an undergraduate project with me would
