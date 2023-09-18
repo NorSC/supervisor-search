@@ -1,13 +1,14 @@
 ---
 layout: supervisor
 title: Martyn Amos
-available: false
+available: true
 available_msc: false
 available_phd: false
 email: martyn.amos@northumbria.ac.uk
 website: http://www.martynamos.org
 office_hours: >
-  My drop-in hours are Monday 12-1 and Wednesday 1-2.
+  My drop-in hours are still to be determined (once timetables are finalised and
+  your availability is known).
 
 
   My office is Ellison B1.22, on the first floor where Ellison joins the new CIS building (overlooking the atrium lab area). You can also access it via the CIS building by taking the stairs/lift to the first floor, and then walking left out of CIS into Ellison.
@@ -33,8 +34,8 @@ technologies_languages:
   - C++
   - Java
   - Android
-  - iOS
   - C#
+  - Python
 additional_details: >-
   **Self-instigated research based project:** I am very happy to supervise
   research-focussed projects that are instigated by well-motivated and capable
