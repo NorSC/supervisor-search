@@ -44,18 +44,18 @@ additional_details: >-
   I am happy to hear ideas (especially ones that relate to your life experiences, hobbies, passions, outside interests, industry experience, big ideas, strange dreams, etc.).  
 
 
-  Here's a few vague ideas:
+  Here are a few ideas from me:
 
 
   * An **experience sampling** application that will capture information about what someone is doing or thinking at random times of day (see - https://en.wikipedia.org/wiki/Experience_sampling_method).
 
   * A **social** or **messaging** application. You could make something similar to X (but call it Y or Threads).   
 
-  * A web or mobile **game** or interactive narrative. It could be a multiplayer game or something for learning about or exploring an event, a concept, or some aspect of the world (see e.g. https://dl.acm.org/doi/10.1145/3322276.3323697 https://dl.acm.org/doi/10.1145/3418038 )
+  * A **game** or interactive narrative. It could be a web-based multiplayer game or something for learning about or exploring an event, a concept, or some aspect of the world (see e.g. https://dl.acm.org/doi/10.1145/3322276.3323697 https://dl.acm.org/doi/10.1145/3418038)
 
   * Apps that address **worst case climate change** for example to support prepping and survivalism**.** 
 
-  * Build a web or mobile application for **personal tracking** of expenditure, food, productivity, prayers, decline, etc. You might think about building upon behaviour change techniques or using intervention design methods.
+  * Build a web or mobile application for **personal tracking** of expenditure, food, productivity, prayers, health conditions, etc. You might think about building upon behaviour change techniques or using intervention design methods.
 
   * An app that uses **Generative AI** (e.g. ChatGPT) to do something such as power a narrative based game, provide fitness coaching, or perform (mock?) project vivas. 
 
