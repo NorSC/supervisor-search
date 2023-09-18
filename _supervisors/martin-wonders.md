@@ -5,7 +5,7 @@ available: true
 available_msc: true
 email: martin.wonders@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/w/martin-wonders/
-office_hours: Tuesday 13:00 - 14:00 and Fridays 10:30 - 11:30.
+office_hours: Thursday 13:00 - 14:00 and Fridays 13:00 - 14:00
 research_group: Intelligent Systems Research Group
 research_themes:
   - Deep Learning
@@ -21,28 +21,24 @@ technologies_languages:
   - Python
 additional_details: >-
   My research interests are in Machine Learning for Activity Recognition (ML for
-  AR) what-ever the domain or activity. In general, an undergraduate project
-  with me would involve some form of data capture, data manipulation and
-  application of Machine Learning that should be packaged within a
-  proof-of-concept application.
+  AR) and Serious Gaming. In general, an undergraduate project with me would
+  involve some form of data capture, data manipulation and application of
+  Machine Learning or the use of Unreal engine to create simulations.
 
 
-  I’m happy to discuss any ideas you may have on the application of Machine Learning to sensor data, images or video but if you are unsure then you can choose from any of the following projects:
+  I’m happy to discuss any ideas you may have on the application of Machine Learning to sensor data, images or video as well as any serious gaming ideas you may have.
 
 
   **ML_project 1:** Development of an automatic data labelling application: You will develop a software application that will use Machine learning to do object detection that automatically produces bounding boxes for further object detection.
 
 
-  **ML_Project 2:** Sign Language interpretation: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for interpreting sign language from images.
+  **ML_Project 2:** Sign Language interpretation: Generation of British Sign Language data using Unreal Engine Meta Human. You will need to test the data using Machine Learning Algorithms.
 
 
-  **ML_Project 3:** Animal recognition and identification: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for recognition and identification of specific, individual animals in a herd.
+  **ML_Project 3:** Human pose estimation for sport: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for analysing human pose in sport. The aim here is to be able to indicate where an athlete can improve posture, position and technique within the range of known ideals.
 
 
-  **ML_Project 4:** Human pose estimation for sport: You will develop a software application proof of concept that uses the state of the art in Machine learning techniques for analysing human pose in sport. The aim here is to be able to indicate where an athlete can improve posture, position and technique within the range of known ideals.
-
-
-  **ML_Project 5:** Object Tracking for autonomous robots: Using publicly available data you will investigate and demonstrate (with a working application) the state of the art in object tracking techniques for use in robotics or autonomous vehicles.
+  **ML_Project 4:** A Virtual Reality Game for peak performance training. This will be a proof of concept VR game that takes in Heart Reate data and uses this to adapt the dificulty based on how calm the player is perceived to be.
 additional_details_msc: >-
   My research interests are in Machine Learning for Activity Recognition (ML for
   AR) what-ever the domain or activity. In general, a Master's project with me
