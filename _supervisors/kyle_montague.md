@@ -63,7 +63,7 @@ additional_details: >-
   Recent innovations in AI have significantly reduced the challenges and barriers to working with AI models and machine learning techniques. From open source models for classifying or creating images and audio; to the increasingly popular LLMs for text generation and interpretation – there are seemingly endless possibilities and application opportunities. Tinkering, Prototyping and Playing with technologies can be a useful way to discover and showcase their opportunities and limitations; while providing a meaningful way to demonstrate the technical challenges and affordances of these systems. 
 
 
-  I'm keen to supervise technical projects that are aiming to harness existing AI technologies in playful ways to create interactive prototypes and demonstration peices that let people play and interact with AI in new ways. 
+  I'm keen to supervise technical projects that are aiming to harness existing AI technologies in playful ways to create interactive prototypes and demonstration pieces that let people play and interact with AI in new ways. 
 
 
   **This project will involve software development and working with off-the-shelf AI models / tools / APIs to create rich interactive prototypes. Could be for Web, Mobile or Wearable devices.**
@@ -99,7 +99,7 @@ additional_details: >-
   #### Improving internet health by identifying and tackling the root cause of web accessibility issues
 
 
-  Today’s web accessibility strategies and tools are predicated on the believe that web accessibility issues are introduced through code created by the website developer, and therefore focus on that website’s code in isolation. However, as demonstrated in modern web securities research, vulnerabilities can be introduced via dependencies to external libraries and frameworks outside of their development control. We are keen to explore research projects that investigate the prevelance of these issues; or software development projects that look to develop new technologies and software to tackle large-scale accessibility issues. 
+  Today’s web accessibility strategies and tools are predicated on the believe that web accessibility issues are introduced through code created by the website developer, and therefore focus on that website’s code in isolation. However, as demonstrated in modern web securities research, vulnerabilities can be introduced via dependencies to external libraries and frameworks outside of their development control. We are keen to explore research projects that investigate the prevalence of these issues; or software development projects that look to develop new technologies and software to tackle large-scale accessibility issues. 
 
 
   Possible projects related to this topic:
