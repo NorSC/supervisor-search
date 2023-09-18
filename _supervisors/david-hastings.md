@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: David Hastings
-available: false
+available: true
 available_msc: true
 email: david2.hastings@northumbria.ac.uk
 office_hours: |-
