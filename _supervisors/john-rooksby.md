@@ -2,7 +2,7 @@
 layout: supervisor
 title: John Rooksby
 available: true
-available_msc: false
+available_msc: true
 email: john.rooksby@northumbria.ac.uk
 website: https://johnrooksby.org
 office_hours: Email me.
