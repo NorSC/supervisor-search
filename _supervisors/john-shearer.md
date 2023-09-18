@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: John Shearer
-available: true
+available: false
 available_msc: false
 available_phd: false
 email: john.shearer@northumbria.ac.uk
