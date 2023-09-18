@@ -1,8 +1,8 @@
 ---
 layout: supervisor
 title: Kay Rogage
-available: true
-available_msc: true
+available: false
+available_msc: false
 available_phd: true
 email: k.rogage@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/r/kay-rogage/
