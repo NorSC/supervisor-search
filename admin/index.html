@@ -25,6 +25,10 @@
       .netlify-identity-item a {
         text-decoration: underline;
       }
+      /* Workaround for text editor https://github.com/decaporg/decap-cms/issues/5092 */
+      [data-slate-editor] {
+        -webkit-user-modify: read-write !important;
+      }
     </style>
   </head>
   <body>
