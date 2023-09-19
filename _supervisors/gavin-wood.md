@@ -6,7 +6,7 @@ available_msc: false
 available_phd: false
 email: gavin.wood@northumbria.ac.uk
 website: https://www.baawolf.com
-office_hours: >
+office_hours: >+
   I work in the open plan office CIS 310 on the third floor of the new Computer
   Information Sciences building.
 
@@ -14,6 +14,7 @@ office_hours: >
   Wednesday 10-11
 
   Friday 10-11
+
 research_group: Northumbria Social Computing
 research_themes:
   - Game Design and Development
