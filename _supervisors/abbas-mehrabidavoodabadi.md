@@ -7,7 +7,7 @@ available_phd: true
 email: abbas.mehrabidavoodabadi@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/m/abbas-mehrabidavoodabadi/
 office_hours: "Students can arrange a meeting with me during the week days (it
-  will be discussed to be either MS Teams or Campus room) by contacting me
+  will be discussed to be either MS Teams or in my office) by contacting me
   beforehand viva my email address. "
 research_group: Cyber Security and Network Systems
 research_themes:
@@ -15,13 +15,12 @@ research_themes:
   - Operating Systems
   - Computer Networks
 additional_keywords:
-  - Smart Cities
-  - Applied Programming
   - Cloud/Edge Computing
   - Energy Efficient Computing
+  - Applied Programming
   - Modelling & Simulation
   - Performance Modelling
-  - Sustainability
+  - Smart Cities
 technologies_languages:
   - C
   - C++
@@ -34,13 +33,10 @@ additional_details: >-
   S﻿ome ideas for project topic: 
 
 
-  Project topic 1: Smart energy management of home appliances: A web-based prototype design
+  Project idea: Charging scheduling and trajectory planning of Electric Vehicles: A prototype design    
 
 
-  Project idea 2: Smart charging scheduling and trajectory planning of Electric Vehicles in smart cities: A prototype design    
-
-
-  The details of the above project topics will be discussed with the students who are interested in the above-mentioned topics. Also, other topics chosen by the students which are matched with my interests (my interests keywords are mentioned in the above responses) will be also considered.
+  The details of the above project topics will be discussed with the students who are interested in the above-mentioned topics. Also, other topics chosen by the students which are matched with my interests will be also considered.
 additional_details_msc: A﻿ny student interested in topics related to networks,
   edge/cloud computing, Internet of Things (IoT), optimisation modeling and
   algorithm design for problems arisen in networking domain.
