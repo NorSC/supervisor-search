@@ -1,0 +1,53 @@
+<!-- admin/index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <!-- <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> -->
+    <script src="./scripts/netlify-identity-widget.js"></script>
+    <style>
+      .netlify-identity-menu {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+      }
+      .netlify-identity-item {
+        margin: 0 10px;
+        display: block;
+        padding: 2px 10px;
+      }
+      .netlify-identity-item a {
+        text-decoration: underline;
+      }
+      /* Workaround for text editor https://github.com/decaporg/decap-cms/issues/5092 */
+      [data-slate-editor] {
+        -webkit-user-modify: read-write !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div data-netlify-identity-menu></div>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      netlifyIdentity.on('logout', function() {
+        window.location.reload(false); 
+      });
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin2/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
