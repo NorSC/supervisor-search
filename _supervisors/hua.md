@@ -30,19 +30,13 @@ additional_details: >-
   P﻿ossible project topics could be: 
 
 
-  1﻿. Adapt different deep learning models or machine learning algorithms for energy prediction. 
+  1﻿. Adapt different deep learning models or machine learning algorithms for different applications
 
 
   2﻿. Improve the performance of the deep learning models by different optimization algorithms
 
 
   3﻿. Explainable AI models
-
-
-  3. Build  Probabilistic models, such as Markov Chain and Markov decision Process models for probabilistic software and hardware systems. Apply probablistic model checking algorithms to the built model to check the stochastic properties, such as PCTL. 
-
-
-  5﻿. Adapt machine learning algorithms to learn models for model checking, especially for probabilistic model checking.
 additional_details_msc: >-
   I would like to see any projects that are relevant to deep learning, AI in
   games, and probabilistic model checking. 
@@ -51,17 +45,11 @@ additional_details_msc: >-
   P﻿ossible project topics could be: 
 
 
-  1﻿. Adapt different deep learning models or machine learning algorithms for energy prediction. 
+  1﻿. Adapt different deep learning models or machine learning algorithms for different applications
 
 
   2﻿. Improve the performance of the deep learning models by different optimization algorithms
 
 
   3﻿. Explainable AI models
-
-
-  4﻿. Build Probabilistic models, such as Markov Chain and Markov decision Process models for probabilistic software and hardware systems. Apply probabilistic model checking algorithms to the built model to check the stochastic properties, such as PCTL. 
-
-
-  5﻿. Adapt machine learning algorithms to learn models for model checking, especially for probabilistic model checking.
 ---
