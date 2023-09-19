@@ -41,7 +41,7 @@ additional_details: >-
   * Anything else (almost)
 
 
-  I am happy to hear ideas (especially ones that relate to your life experiences, hobbies, passions, outside interests, industry experience, big ideas, strange dreams, etc.).  
+  I am happy to hear your ideas (especially ones that relate to your life experiences, hobbies, passions, outside interests, industry experience, big ideas, strange dreams, etc..) If there's something you're interested in but are not quite sure how to turn it into a project I'd be happy to discuss. 
 
 
   Here are a few ideas from me:
