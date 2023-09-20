@@ -4,7 +4,9 @@ title: David Hastings
 available: true
 available_msc: true
 email: david2.hastings@northumbria.ac.uk
-office_hours: To be confirmed
+office_hours: |-
+  Tuesday 14:00 - 15:00
+  Friday 14:00 - 15:00
 research_group: Northumbria Social Computing
 research_themes:
   - Information Science
