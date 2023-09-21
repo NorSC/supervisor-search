@@ -6,7 +6,7 @@ available_msc: true
 available_phd: true
 email: biju.issac@northumbria.ac.uk
 website: https://www.bijuissac.com/ug-pg-projects
-office_hours: Wed 12:00 - 13:00 and Thursday 11:30-12:30 (for project sessions)
+office_hours: Friday PM (for project sessions)
 research_group: Cyber Security and Network Systems
 research_themes:
   - Cyber Security
