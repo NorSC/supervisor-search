@@ -43,8 +43,10 @@ additional_details: >-
 
   * social justice, inclusivity and gaming;
 
-  * the use of technology in adult education. 
+  * the use of technology in adult education; 
+
+  * educational escape game design. 
 
 
-  Indicative reading:
+  I am very happy to discuss any projects in these, or related areas.
 ---
