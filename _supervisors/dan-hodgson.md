@@ -12,6 +12,7 @@ office_hours: These vary by semester. My drop-in hours for Sem1 2022 are
 research_group: Intelligent Systems Research Group
 research_themes:
   - Game Design and Development
+  - Computer Audio
 additional_keywords:
   - Ontologies
   - Serious Games
@@ -37,6 +38,9 @@ additional_details: >-
 
 
   My current research interests are complex, in the areas of diagrammatical modelling of pen-and-paper RPGs, auto-generating programming script from those diagrams, creating interpreters to run those scripts, and then using this for AI-based difficulty testing and balancing, ultimately heading towards data interoperability and ontological equivalence to automate conversion of player and monster stats between different RPG systems. I would be interesting in supervising any students who want to explore parts of this in detail.
+
+
+  I have experience with Unreal Engine scripting, graphics programming with shaders, windows programming in C# with WPF, music and audio processing, digital electronics, computer architecture, assembly programming, automation, simulation, and fictional narratives.
 additional_details_msc: >-
   I supervise a lot of game-related projects. I have worked a lot with Unreal,
   but have had a lot of projects in Unity and other technologies too. 
