@@ -43,7 +43,7 @@ additional_details: >-
   listed below: 
 
 
-  **Project 1: AI for Cancer Detection** 
+  **Project 1: Explainable AI for Cancer Detection** 
 
 
   Cancer can be considered one of the most deadly and least understood afflictions of modern times. Recently, there have been [18million new cases of cancer globally and 9.6million deaths](http://gco.iarc.fr/today/data/factsheets/cancers/39-All-cancers-fact-sheet.pdf), yielding a 52.9% average mortality rate. There are a lot of potential for growth in the area of AI for cancer detection. The project will be to develop an AI system that can detect cancer efficiently and inform the results to the pathologist rather than to replace the role of pathologist. Histopathological images will be used where AI-based algorithms will be developed to classify these images into different categories corresponding to the progression stages of cancer or segment parts of image that correspond to the cancer cells only. The AI-based algorithms can also be used to explain the prediction results to the clinicians so that the AI model is more transparent. The project could also incorporate the use of genomics data to complement the histopathological image for better decision making. 
@@ -84,7 +84,7 @@ additional_details_msc: >-
   listed below: 
 
 
-  **Project 1: AI for Cancer Detection** 
+  **Project 1: Explainable AI for Cancer Detection** 
 
 
   Cancer can be considered one of the most deadly and least understood afflictions of modern times. Recently, there have been [18million new cases of cancer globally and 9.6million deaths](http://gco.iarc.fr/today/data/factsheets/cancers/39-All-cancers-fact-sheet.pdf), yielding a 52.9% average mortality rate. There are a lot of potential for growth in the area of AI for cancer detection. The project will be to develop an AI system that can detect cancer efficiently and inform the results to the pathologist rather than to replace the role of pathologist. Histopathological images will be used where AI-based algorithms will be developed to classify these images into different categories corresponding to the progression stages of cancer or segment parts of image that correspond to the cancer cells only. The AI-based algorithms can also be used to explain the prediction results to the clinicians so that the AI model is more transparent. The project could also incorporate the use of genomics data to complement the histopathological image for better decision making. 
