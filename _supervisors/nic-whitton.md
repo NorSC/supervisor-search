@@ -26,7 +26,25 @@ technologies_languages:
   - Interviews
   - Think Aloud Protocol
   - Document Analysis
-additional_details: I am interested in digital learning, and in particular the
-  potential of video games and digital play to support teaching and learning in
-  Higher Education.
+additional_details: >-
+  **Additional Themes**: Digital play, game design, inclusive play, playful
+  learning, games and learning, mixed-reality games, Higher Education
+
+
+  My main research interests are in using playful approaches and digital games to support adult learning, as well as impacts on work, social engagement and wellbeing. I am particularly interested in the potential of games and play to support learning, but also how they can unintentionally create barriers to engagement. More widely, I am interested in digital learning and digital practice in Higher Education. 
+
+
+  I use mixed-method and participatory research designs and am interested in supporting projects in the following areas:
+
+
+  * the design of educational games to meet learning outcomes or engagement objectives;
+
+  * explorations of player experience and game experience design;
+
+  * social justice, inclusivity and gaming;
+
+  * the use of technology in adult education. 
+
+
+  Indicative reading:
 ---
