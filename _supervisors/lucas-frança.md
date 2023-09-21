@@ -44,7 +44,7 @@ additional_details: >-
 
   \
 
-  "**How to make sense of wearable data**" - this project aims to develop tools and protocols to analyse signals obtained by actigraphy devices (e.g., fitbit). Previous research has shown that activity series are related to a series of health conditions. The goal is to apply mathematical and computational methods to extract information from these signals and model disease processes in a series of conditions ranging from mental health conditions to Parkinson's disease.\
+  "**How to make sense of wearable data**" - this project aims to develop tools and protocols to analyse signals obtained by actigraphy devices (e.g., fitbit). Previous research has shown that activity levels are related to a series of health conditions. The goal is to apply mathematical and computational methods to extract information from these signals and model disease processes in a series of conditions ranging from mental health conditions to Parkinson's disease.\
 
   \
 
@@ -80,7 +80,7 @@ additional_details_msc: >-
 
   \
 
-  "**How to make sense of wearable data**" - this project aims to develop tools and protocols to analyse signals obtained by actigraphy devices (e.g., fitbit). Previous research has shown that activity series are related to a series of health conditions. The goal is to apply mathematical and computational methods to extract information from these signals and model disease processes in a series of conditions ranging from mental health conditions to Parkinson's disease.\
+  "**How to make sense of wearable data**" - this project aims to develop tools and protocols to analyse signals obtained by actigraphy devices (e.g., fitbit). Previous research has shown that activity levels are related to a series of health conditions. The goal is to apply mathematical and computational methods to extract information from these signals and model disease processes in a series of conditions ranging from mental health conditions to Parkinson's disease.\
 
   \
 
