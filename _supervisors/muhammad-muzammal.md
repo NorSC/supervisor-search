@@ -7,9 +7,9 @@ available_phd: true
 email: muhammad.muzammal@northumbria.ac.uk
 website: https://scholar.google.com/citations?user=QpRm478AAAAJ&hl=en
 office_hours: |-
-  Wednesday 1-2 pm
-  Thursday 1-2 pm
-research_group: Intelligent Systems Research Group
+  Wednesday 2-3 pm
+  Thursday 2-3 pm
+research_group: Cyber Security and Network Systems
 research_themes:
   - Data Science
   - Artificial Intelligence
