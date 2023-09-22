@@ -37,13 +37,15 @@ additional_keywords:
   - Wearable Computing
   - Web Services
 technologies_languages:
-  - Conceptual Modeling
-  - UML
   - Amazon Web Services (AWS)
   - Java
+  - Conceptual Modeling
+  - UML
   - Modern Web
   - Python
   - R
+  - TensorFlow
+  - Ruby
 additional_details: "My research revolves around software architectures,
   especially for self-adaptive, cloud based and IoT software systems. I am
   currently focusing on the recent emerging architectures, e.g. microservices,
