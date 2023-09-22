@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Nauman Aslam
-available: false
+available: true
 available_msc: false
 available_phd: false
 email: nauman.aslam@northumbria.ac.uk
