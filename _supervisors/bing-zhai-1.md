@@ -25,7 +25,7 @@ technologies_languages:
   - JavaScript
 additional_details: >-
   I’m keen to supervise projects that you are passionate about. If you’ve got an
-  idea and looks like I’ve got relevant experience and interests, then get in
+  idea and it looks like I’ve got relevant experience and interests, then get in
   touch.
 
 
@@ -91,7 +91,7 @@ additional_details: >-
   Emotion recognition in audio
 
 
-  human movement generation
+  human motion generation
 
 
   Human activity recognition
@@ -100,7 +100,7 @@ additional_details: >-
   Object detection and recognition
 additional_details_msc: >-
   I’m keen to supervise projects that you are passionate about. If you’ve got an
-  idea and looks like I’ve got relevant experience and interests, then get in
+  idea and it looks like I’ve got relevant experience and interests, then get in
   touch.
 
 
@@ -166,7 +166,7 @@ additional_details_msc: >-
   Emotion recognition in audio
 
 
-  human movement generation
+  Human motion generation
 
 
   Human activity recognition
