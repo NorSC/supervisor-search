@@ -12,7 +12,7 @@ office_hours: >-
   make an appointment.
 
 
-  My office is ELB101 on the first floor of B Block, Ellison Building.
+  My office is ELB121 on the first floor of B Block, Ellison Building.
 research_group: Digital Learning Laboratory
 research_themes:
   - Game Design and Development
