@@ -5,8 +5,9 @@ available: true
 available_msc: true
 available_phd: false
 email: j.neera@northumbria.ac.uk
-office_hours: "Project Contact Hours : Monday  11.00-12.00 and Thursday 1.00 -
-  2. 00 (e-mail me in advance to make an appointment)"
+office_hours: |-
+  Thursday 01.00 - 02.00pm 
+  Friday 11.00- 12.00 (e-mail me in advance to make an appointment)
 research_group: Cyber Security and Network Systems
 research_themes:
   - Deep Learning
