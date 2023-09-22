@@ -40,18 +40,33 @@ technologies_languages:
   - C
   - 3D Modelling
   - Virtual Reality (VR)
+  - Augmented Reality (AR)
+  - Java
+  - C#
 additional_details: >-
-  I am interested in supervising projects in the areas of machine learning, data
-  mining, data analysis for decision support systems/recommender systems. The
-  exploratory data analysis can be applied in different areas such as digital
-  entrepreneurship, Special Educational Needs (SENs), medical work force
-  retention, medical data, online publically available data (e.g., GEM (Global
-  Entrepreneurship Monitor), longitudinal household survey - Understanding
-  Society and UK census data, and social media). I am also interested in the use
-  of digital technologies and entrepreneurship by craft/artisanal businesses,
-  for example, potters, jewellers, small scale food and drink producers. The
-  research could explore how they combine the contrasting logic of craft and
-  modern technology. 
+  
+
+  1. I am interested in a recommendation system for tinnitus masker using some data. 
+
+  2. Explore Twitter for tinnitus masker / hearing aid satisfaction / solution for not losing hearing aids
+
+  3. The role of social eating among patients who altered eating requirements due to health or medical needs. 
+
+  4. Health related quality of life after cancer treatment
+
+  5. Technology-Based Interventions - explore the use of technology, such as telehealth, mobile apps, and virtual support groups, to enhance access to care and support services for cancer survivors.
+
+  6. Processing of natural language text for cancer/tinnitus
+
+  7. To examine the patterns, trends and the dynamics of Intellectual Property (IP) crime.
+
+  8. To analyse analyse data related to IP crime to understand consumer behaviour (attitudes, motivations and purchasing patterns) for counterfeit products and copyright infringement 
+
+  9. AI-based authentication technologies in combating illicit trade and counterfeiting
+
+  10. Well-being of people with health conditions (disability) and self-employment
+
+
 
 
   Please take a look at my publications <http://nrl.northumbria.ac.uk/view/creators/Anwar=3ANaveed=3A=3A.html> for an idea of the kind of work I've done in the past and contact me at Naveed.Anwar@northumbria.ac.uk if you'd like to discuss anything. 
