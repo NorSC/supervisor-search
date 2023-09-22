@@ -23,4 +23,5 @@ technologies_languages:
   - Use Case
   - C
   - UML
+  - Python
 ---
