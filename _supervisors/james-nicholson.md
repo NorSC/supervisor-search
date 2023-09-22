@@ -24,16 +24,24 @@ technologies_languages:
   - Interviews
   - Cognitive Walkthrough
 additional_details: >-
-  Development and evaluation of an AI-powered graphical password.
+  Development and evaluation of an AI-powered graphical password (e.g., using AI
+  faces).
 
 
   Using security attack demonstrations to improve cybersecurity awareness (phishing/password management).
+
+
+  Exploring cybersecurity awareness and advice on TikTok
 additional_details_msc: >-
-  Development and evaluation of an AI-powered graphical password.
+  Development and evaluation of an AI-powered graphical password (e.g., using AI
+  faces).
 
 
   Using security attack demonstrations to improve cybersecurity awareness (phishing/password management).
 
 
-  Development of customisable InTray software for research.
+  Development of a digital version of an organisational security awareness method (the Cybersurvival Task)
+
+
+  Development of a mobile application for quickly logging real-world interactions
 ---
