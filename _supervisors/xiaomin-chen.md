@@ -1,8 +1,8 @@
 ---
 layout: supervisor
 title: Xiaomin Chen
-available: true
-available_msc: true
+available: false
+available_msc: false
 email: xiaomin.chen@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/c/xiaomin-chen/
 office_hours: Please contact me to arrange an appointment at 13:00-14:00
