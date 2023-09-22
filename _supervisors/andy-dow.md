@@ -4,8 +4,8 @@ title: Andy Dow
 available: true
 available_msc: true
 email: andrew.dow@northumbria.ac.uk
-office_hours: I am available in my office (CIS 303) on Wednesdays 1-2pm and
-  Thursdays 10-11am. You can also contact me via email to arrange an appointment
+office_hours: I am available in my office (CIS 309) on Wednesdays 11am and
+  Thursdays 10am. You can also contact me via email to arrange an appointment
   outside these times and I will be happy to arrange a chat at another time.
 research_group: Northumbria Social Computing
 research_themes:
