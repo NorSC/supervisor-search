@@ -69,7 +69,7 @@ additional_details: >-
   - Data presentation, offering a dashboard to provide real-time analytics to office staff.
 
 
-  There are multiple issues and challenges around each stage of this, but it's also a 'live' project we have ongoing with a local visitor centre.
+  There are multiple issues and challenges around each stage of this, and it's also a 'live' project we have ongoing with a local visitor centre.
 
 
   Requirements: physical computing, data science, IoT
@@ -78,10 +78,10 @@ additional_details: >-
   ## Data architecture, platform choice and interaction design for an education resource website
 
 
-  The Faculty's NUSTEM outreach group have an existing website, built on Wordpress. One area of the site offers teachers a catalogue of STEM career examples, organised by national curriculum area. It's surprisingly popular. Surprising, because the current implementation of the site is decidedly clunky.
+  The Faculty's NUSTEM outreach group have an existing website, built on Wordpress. One area of the site offers teachers a catalogue of STEM career examples, organised by national curriculum area. It's surprisingly popular. Surprising, because the current implementation of the site is fairly terrible. I can write that because I built it.
 
 
-  In this project develop a fresh website which presents the same data set ... only better. You'd think through the audience and client needs, cross-evaluate development platforms, and develop a new interaction model to improve access to the resource.
+  In this project you'll develop a fresh website which presents the same data set ... only better. You'll think through the audience and client needs, evaluate and compare possible development platforms or toolkits, and design a new interaction model to improve access to the resource.
 
 
   You may wish to gather formal or informal feedback via user testing, a steering/focus group, or apply other research and assessment techniques of interest.
