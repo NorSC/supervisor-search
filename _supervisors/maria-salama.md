@@ -9,33 +9,33 @@ website: https://scholar.google.co.uk/citations?hl=en&user=GL_66t0AAAAJ&view_op=
 office_hours: Email to arrange a meeting.
 research_group: Intelligent Systems Research Group
 research_themes:
-  - Deep Learning
-  - Digital Health and Wellbeing
-  - Artificial Intelligence
-  - Data Science
   - Internet of Things
   - Machine Learning
   - Network Simulation
+  - Digital Health and Wellbeing
+  - Artificial Intelligence
+  - Data Science
+  - Deep Learning
 additional_keywords:
+  - Modelling & Simulation
   - Cloud/Edge Computing
-  - Health Informatics
-  - Data Analytics
-  - Reinforcement Learning
+  - e-Science
   - Green Networking
   - Software-Defined Networks
+  - Distributed Computing
+  - Grid Service
+  - Performance Modelling
+  - Energy Efficient Computing
+  - Health Informatics
+  - Data Analytics
   - Smart Cities
   - Digital Twins
-  - e-Science
   - Embedded Systems
-  - Distributed Computing
-  - Energy Efficient Computing
-  - Modelling & Simulation
-  - Grid Service
   - Model Based Design
-  - Networked Systems
-  - Performance Modelling
   - Wearable Computing
   - Web Services
+  - Networked Systems
+  - Reinforcement Learning
 technologies_languages:
   - Amazon Web Services (AWS)
   - Java
@@ -64,7 +64,7 @@ additional_details: "My research revolves around software architectures,
   -\tModelling and simulation of microservices software architecture/
   serverless architecture/ software defined networks\r
 
-  -\tVirtual Research Environment for Digital Twins\r
+  -\tVirtual Research Environment for Digital Twins\r/ Smart cities
 
   \r\n"
 additional_details_msc: ""
