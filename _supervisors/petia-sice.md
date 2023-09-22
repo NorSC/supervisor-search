@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Petia Sice
-available: true
+available: false
 available_msc: true
 available_phd: true
 email: petia.sice@northumbria.ac.uk
