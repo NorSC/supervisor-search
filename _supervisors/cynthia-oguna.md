@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Cynthia Oguna
-available: true
+available: false
 available_msc: true
 available_phd: false
 email: cynthia.oguna@ymail.com
