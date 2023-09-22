@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Gerhard Fehringer
-available: false
+available: true
 available_msc: true
 email: gerhard.fehringer@northumbria.ac.uk
 office_hours: >-
