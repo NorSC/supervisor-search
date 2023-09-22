@@ -1,8 +1,8 @@
 ---
 layout: supervisor
 title: Mark Hurrell
-available: true
-available_msc: true
+available: false
+available_msc: false
 email: mark.hurrell@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/h/mark-hurrell/
 office_hours: "Monday  9-10 other times are available and will be posted on my door.  "
