@@ -7,9 +7,9 @@ available_phd: true
 email: ammar.belatreche@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/b/ammar-belatreche/
 office_hours: >-
-  Two drop in hours per week:  Tuesday: 13.00-14.00  and  Wednesday: 13.00-14.00
+  Drop in hours:  Monday: 12.00-13.00  and  Tuesday: 13.00-14.00
 
-  You can email me anytime to arrange a meeting online via Ms Teams or in person (my office is: ELB 205). 
+  Also, you can email me anytime to arrange a meeting online via Ms Teams or in person (my office is: ELB 205). 
 research_group: Intelligent Systems Research Group
 research_themes:
   - Artificial Intelligence
