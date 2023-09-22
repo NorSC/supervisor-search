@@ -7,7 +7,7 @@ available_phd: false
 email: rebecca.nicholson@northumbria.ac.uk
 office_hours: >-
   I have two drop in hours during the week, where students can just come and
-  find me – these are Wednesdays 9-10am, and  Fridays 3-4pm.
+  find me – these are Thursdays 2-4pm
 
 
   My office is ELB116 (on the first floor of Ellison B)
@@ -24,10 +24,10 @@ technologies_languages:
   - Ethnographic Observations
 additional_details: >-
   **A﻿dditional Themes:**  Music Technologies, Theatre Technologies, Digital
-  Pedagogies
+  Pedagogies, Social Media
 
 
-  My main research interests are in using digital technology in education, specifically to support teachers to enact creative and collaborative ways of teaching.  I am also interested in exploring how we can design and develop collaborative technologies at the intersection of Human Computer Interaction and the Performing Arts.  Throughout all my research I use participatory design research methods to try and design and develop technologies that people want to embed into their practices.
+  My main research interests are in using digital technology in education, specifically to support teachers to enact creative and collaborative ways of teaching.  I am also interested in exploring how we can design and develop collaborative technologies at the intersection of Human Computer Interaction and the Performing Arts.  Throughout all my research I use participatory design research methods to try and design and develop technologies that people want to embed into their practices. All research projects I supervise will involve working with users in some way - this can range from interviewing potential users, to evaluating systems or ideally co-designing with them. 
 
 
   **Creating Tangible Music Education Resources**
@@ -72,10 +72,46 @@ additional_details: >-
   Women remain hugely underrepresented in all aspects of music technology, both in education as well as in the industry.  This project would explore both the actual and perceived barriers that exist for women and design and design a tool aimed at supporting women to engage in music technology education. 
 
 
+  Related reading:
+
+
   Tatlow, S. (2022). Exploring issues in categorisation of higher music education courses through FOI surveys of gender demographics in UK higher education institutions. British Journal of Music Education, 1-21.
 
 
   Rebecca Stewart, Sophie Skach, and Astrid Bin. 2018. Making Grooves with Needles: Using e-textiles to Encourage Gender Diversity in Embedded Audio Systems Design. In DIS '18. <https://doi.org/10.1145/3196709.3196716>
+
+
+  **TikTok use in Education**
+
+
+  TikTok has become a place for information seeking, and is regularly suggested as an ideal platform for learning and information sharing. Young people are commonly the target audience of many of these educational videos. This project would explore the use of TikTok for education, looking at information dissemination and suggesting ways TikTok can be used appropriately for education and information sharing. Related reading:
+
+
+  Related Reading:
+
+
+  Fiallos, A., Fiallos, C., & Figueroa, S. (2021, July). Tiktok and education: Discovering knowledge through learning videos. In *2021 Eighth International Conference on EDemocracy & EGovernment (ICEDEG)* (pp. 172-176). IEEE.
+
+
+  Zenone, M., Ow, N., & Barbic, S. (2021). TikTok and public health: a proposed research agenda. *BMJ global health*, *6*(11), e007648.
+
+
+  **Social Media Use for Collaboration and Communication**
+
+
+  Students commonly use social media to communicate with each other about both social and course-related information.  For example, using Discord to discuss programme modules or Snapchat to arrange a catch up with a friend.  This project would examine students’ uses of social media platforms for communication and collaboration aiming to understand what platforms are used when and for what purposes. 
+
+
+  Related Reading:
+
+
+  Tay, E., & Allen, M. (2011). Designing social media into university learning: technology of collaboration or collaboration for technology?. *Educational Media International*, *48*(3), 151-163.
+
+
+  Greenhow, C., & Galvin, S. (2020). Teaching with social media: evidence-based strategies for making remote higher education less remote. *Information and Learning Sciences*, *121*(7/8), 513-524.
+
+
+  Alismaiel, O. A., Cifuentes-Faura, J., & Al-Rahmi, W. M. (2022, April). Social media technologies used for education: An empirical study on TAM model during the COVID-19 pandemic. In *Frontiers in Education* (Vol. 7). Frontiers Media SA.
 
 
   If any of these interest you or you have a project idea that you would like to discuss either around educational technologies, particularly teaching using using tangible technologies (e.g. microbits), or music and theatre technologies then contact me via email to book an appointment.
