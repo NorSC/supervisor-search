@@ -4,27 +4,26 @@ title: Ian Watson
 available: true
 available_msc: true
 email: i.watson@northumbria.ac.uk
-office_hours: >
+office_hours: >+
   
-  “I will be available in my office on Tuesday  10:00 -11:00 and on Friday 10:30-11:30. You can also contact me via email to arrange an appointment outside these times."
+  CIS305, Tuesday, Wednesday and Thursday.
 
-  My office is on the top floor of the CIS Building, room 305.
+  You can also contact me via email to arrange an appointment outside these times.
+
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
   - Human-Computer Interaction
-  - Mobile Computing
-  - Bio Computing
-  - Internet of Things
   - Web Design and Development
 additional_keywords:
   - Information Management
-  - Wearable Computing
   - Formal Methods
-  - e-Science
   - Social Media
   - Qualitative Methods
-  - Human-Data Interaction
+  - Library and Information Science
+  - Equality Diversity & Inclusion
+  - Personal Informatics
+  - Technology-Enhanced Learning
 technologies_languages:
   - Cognitive Walkthrough
   - Conceptual Modeling
@@ -32,6 +31,7 @@ technologies_languages:
   - Interviews
   - Document Analysis
   - User Stories
+  - TypeScript
 additional_details_msc: |-
   Pedagogy and use of IT/IS in education and learning.
 
