@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Longzhi Yang
-available: true
+available: false
 available_msc: true
 available_phd: true
 email: longzhi.yang@northumbria.ac.uk
