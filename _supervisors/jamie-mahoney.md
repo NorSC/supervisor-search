@@ -9,12 +9,12 @@ office_hours: >
   I am based in CIS 310, on the third floor of the CIS building.
 
 
-  My current office hours are listed below, but please feel free to email to make an appointment outside of these times. 
+  My current drop-in hours are listed below, but please feel free to email to make an appointment outside of these times. 
 
 
-  Monday 1pm-2pm 
+  Monday 2pm-3pm 
 
-  Wednesday 10am-11am
+  Friday 10am-11am
 research_group: Northumbria Social Computing
 research_themes:
   - Data Science
