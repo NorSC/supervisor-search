@@ -36,22 +36,20 @@ additional_details: >-
   **Techniques:** qualitative research, mixed methods
 
 
-  My discipline is information and library management, and I am a chartered librarian in addition to working as an academic.  To find out more about my previous research see my [Research Portal information](https://researchportal.northumbria.ac.uk/en/persons/biddy-casselden). I am particularly interested in the following areas as possible research project areas:
+  My discipline is information and library management, and I am a chartered librarian in addition to working as an academic. To find out more about my previous research see my [Research Portal information](https://researchportal.northumbria.ac.uk/en/persons/biddy-casselden). I am particularly interested in the following areas as possible research project areas:
 
 
-  * **Digital literacy** and how this can be supported in marginalised groups of people (older people, asylum seekers, and other internet non-users), in what has become an increasingly digital society.  Particularly how digital literacy skills can be developed by third sector and public organisations, such as libraries - and ways in which technology can support this further.
+  * Digital literacy - aspects to do with students, older people, asylum seekers, disabled people.
 
-  * I am also interested to find out more about **digital poverty** and the experiences of Widening Participation for Higher Education students.  How do we find out who is experiencing digital poverty, and what do we do about it? 
+  * Decolonising the computing curriculum - working on technical solutions (websites/apps) that help academic staff decolonise their reading list materials.  
 
-  * **Decolonising the curriculum** is an area that I would like to work on further.  Working with the library to analyse reading lists, with a view to establishing where subjects require better representation of marginalised authors, and providing resources that support and nurture best practice, and a diversity of reading for staff and students.  Alternatively analysing curriculum content in order to establish the inclusivity with a view to providing analysis and improvement.
+  * Finding out more about how computing students feel about their reading lists in terms of inclusivity.
+    University student use of AI in their academic work, and consideration of ethical aspects.
+  * Student information literacy - focussing on student use of library resources in their studies, how they search for information, what they use and whether they use the library at all.
 
-  * Investigating how **students** **engage with electronic resources** such as ebooks, ejournals and library web pages to determine whether such resources are being used to their best potential.  This would help identify where change and guidance is required.
+  * EDI issues in computing - all aspects that explore this genre.
 
-  * Working with **public libraries** (or indeed other libraries, such as NHS health libraries, academic libraries, charitable libraries etc) to identify technical digital solutions that support and develop the service offered in some way.  For example, this could be to support reading for pleasure, or to help with digital security awareness, or to support those volunteering and provide a mechanism for enabling microvolunteering.
-
-  * Exploring ways to share and support **green business** using information management.
-
-  * C﻿onsidering how technology can support **teaching and learning**
+  * Pedagogic topics, to do with the teaching of university students, and how they learn, and how technology can help them.
 
 
   The above are just some of the ideas I have had regarding possible research - happy to discuss other ideas you may have.
