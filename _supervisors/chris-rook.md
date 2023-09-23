@@ -1,7 +1,7 @@
 ---
 layout: supervisor
 title: Chris Rook
-available: true
+available: false
 available_msc: true
 email: c.rook@northumbria.ac.uk
 website: https://www.northumbria.ac.uk/about-us/our-staff/r/chris-rook/
