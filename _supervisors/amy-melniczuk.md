@@ -40,33 +40,26 @@ technologies_languages:
   - Conceptual Modeling
   - Use Case
 additional_details: >-
-  **For BSc students:**
+  I have successfully supervised 16 bachelor's students at the University of
+  Munich in Germany. We evaluate the thesis study in Germany from 1 (the best)
+  to 5 (the worst). Thirteen of my students got 1. I enjoy working with my
+  students. If you are interested in working on my given topics, email me. We
+  can discuss a specific research topic based on your interests. Working on the
+  projects you are motivated and interested in is crucial for me. 
 
 
-  I have successfully supervised 16 bachelor's students at the University of Munich in Germany. We evaluate the thesis study in Germany from 1 (the best) to 5 (the worst). Thirteen of my students got 1. I enjoy working with my students. If you are interested in working on my given topics, email me. We can discuss a specific research topic based on your interests. Working on the projects you are motivated and interested in is crucial for me. It is worth mentioning if you want to work with me, I hope you will get the best grades. In other words, if you want to pass the thesis study, I am sorry, but I might not be your ideal supervisor. 
+  Currently, my research interests are tangible interaction, active learning, and learning community. The main goal is to transform traditional lecture-based education with students' active engagement in a learning community environment and how tangible interaction can facilitate this process. This ranges from the explorations of what physical visualizations can facilitate student group process in the classroom and accordingly what interactions can be realized in this context. In specifically, I am interested to the following topics:
 
 
-  **For MSc Students**
+  * Tangible User Interfaces (TUIs) for collaborative learning
 
+  * Tangible Interaction for creative learning, such as drawing and music composition
 
-  I have successfully supervised 5 master's students at the University of Munich in Germany. We evaluate the thesis study in Germany from 1 (the best) to 5 (the worst). All my students got 1. I enjoy working with my students. If you are interested in working on my given topics, email me. We can discuss a specific research topic based on your interests. 
+  * Augmented reality for inquiry learning in the traditional face-to-face or remote learning environment
 
+  * Gamified learning for children
 
-  **It is worth mentioning:**
-
-
-  * Working on the projects you are motivated and interested in is crucial for me. Therefore, **do make an appointment with me first to discuss your interests**. My email address is amy.melniczuk@northumbria.ac.uk. Usually, I can reply to you in less than two days. 
-
-  * If you want to work with me, I hope you will get the best grades. In other words, if you want to pass the thesis study, I am sorry, but I might not be your ideal supervisor.
-
-
-  **For Ph.D. Students**
-
-
-  I have studied and worked in China, Canada, Germany, Switzerland, and now in the UK. I have no Ph.D. supervision experience, but I am confident that I know how to help you succeed. It is a big decision to start a Ph.D. Getting a Ph.D. at Northumbria University might not be an optimal decision compared to a top-ranking university like Cambridge University. However, I have seen many friends graduate from not very well-known universities but get good jobs. My bachelor's supervisor told me **the secret**: 
-
-
-  > *If you can not be one of the best students in a university you think does not deserve you, how can you be confident that you will be successful in a top university?*
+  * Build community knowledge base to facilitate collectively inquiry learning
 additional_details_msc: >-
   I have successfully supervised 5 master's students at the University of Munich
   in Germany. We evaluate the thesis study in Germany from 1 (the best) to 5
@@ -75,21 +68,19 @@ additional_details_msc: >-
   specific research topic based on your interests. 
 
 
-  It is worth mentioning:
+  Currently, my research interests are tangible interaction, active learning, and learning community. The main goal is to transform traditional lecture-based education with students' active engagement in a learning community environment and how tangible interaction can facilitate this process. This ranges from the explorations of what physical visualizations can facilitate student group process in the classroom and accordingly what interactions can be realized in this context. In specifically, I am interested to the following topics:
 
 
-  * Working on the projects you are motivated and interested in is crucial for me. Therefore, do make an appointment with me first to discuss your interests. My email address is amy.melniczuk@northumbria.ac.uk. Usually, I can reply to you in less than two days. 
+  * Tangible User Interfaces (TUIs) for collaborative learning
 
-  * If you want to work with me, I hope you will get the best grades. In other words, if you want to pass the thesis study, I am sorry, but I might not be your ideal supervisor.
-additional_details_phd: >-
-  I have studied and worked in China, Canada, Germany, Switzerland, and now in
-  the UK. I have no Ph.D. supervision experience, but I am confident that I know
-  how to help you succeed. It is a big decision to start a Ph.D. Getting a Ph.D.
-  at Northumbria University might not be an optimal decision compared to a
-  top-ranking university like Cambridge University. However, I have seen many
-  friends graduate from not very well-known universities but get good jobs. The
-  secret is what my bachelor's supervisor told me **the secret**: 
+  * Tangible Interaction for creative learning, such as drawing and music composition
 
+  * Augmented reality for inquiry learning in the traditional face-to-face or remote learning environment
 
-  > If you can not be one of the best students in a university you think does not deserve you, how can you be confident that you will be successful in a top university?
+  * Gamified learning for children 
+
+  * Build community knowledge base to facilitate collectively inquiry learning
+additional_details_phd: I have studied and worked in China, Canada, Germany,
+  Switzerland, and now in the UK. I have no Ph.D. supervision experience, but I
+  am confident that I know how to help you succeed.
 ---
