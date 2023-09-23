@@ -11,7 +11,7 @@ office_hours: >-
   cannot attend the drop-in hours.  I can meet in person, or via Teams.
 
 
-  Drop-in hours : Tuesday 1.30-2.30pm, Thursday1-2pm - either in person or via Teams.
+  Drop-in starts in week 1 - Tuesday at 9-10, and Thursday 3-4.  Please email me b.casselden@northumbria.ac.uk if you need to set up another more convenient time.
 research_group: Digital Learning Laboratory
 research_themes:
   - Information Science
