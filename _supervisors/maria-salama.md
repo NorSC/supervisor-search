@@ -46,26 +46,23 @@ technologies_languages:
   - R
   - TensorFlow
   - Ruby
-additional_details: "My research revolves around software architectures,
-  especially for self-adaptive, cloud based and IoT software systems. I am
-  currently focusing on the recent emerging architectures, e.g. microservices,
-  serverless, software defined networks. I am also working on virtual research
-  environments (VRE) for environmental science, green computing, and
-  sustainability. Any research projects around these topics are welcome to
-  discuss. Some ideas are listed below:\r
+additional_details: >-
+  My research revolves around software architectures, especially for
+  self-adaptive, cloud based and IoT software systems. I am currently focusing
+  on the recent emerging architectures, e.g. microservices, serverless. I am
+  also working on virtual research environments (VRE) for environmental science,
+  green computing, and sustainability. Any research projects around these topics
+  are welcome to discuss. Some ideas are listed below:
 
-  \r
 
-  -\tMeasuring/ simulating carbon footprint of cloud-based software systems\r
+  * Measuring/ simulating carbon footprint of cloud-based software systems
 
-  -\tManaging trade-offs between statistical accuracy of environmental data
-  models and carbon footprint\r
+  * Managing trade-offs between statistical accuracy of environmental data models and carbon footprint
 
-  -\tModelling and simulation of microservices software architecture/
-  serverless architecture/ software defined networks\r
+  * Modelling and simulation of microservices software architecture
 
-  -\tVirtual Research Environment for Digital Twins\r/ Smart cities
+  * Modelling and simulation of serverless architecture
 
-  \r\n"
+  * Virtual Research Environment for Digital Twins
 additional_details_msc: ""
 ---
