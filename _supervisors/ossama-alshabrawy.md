@@ -5,7 +5,9 @@ available: true
 available_msc: true
 available_phd: false
 email: ossama.alshabrawy@northumbria.ac.uk
-office_hours: Thursday 09:00 - 11:00
+office_hours: |-
+  Wednesday 13:00 - 14:00
+  Thursday 09:30 - 10:30
 research_group: Digital Health and Wellbeing
 research_themes:
   - Digital Health and Wellbeing
