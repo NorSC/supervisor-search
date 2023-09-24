@@ -2,8 +2,8 @@
 layout: supervisor
 title: Amy Melniczuk
 available: true
-available_msc: true
-available_phd: true
+available_msc: false
+available_phd: false
 email: amy.melniczuk@northumbria.ac.uk
 website: https://scholar.google.ca/citations?user=EMWnRw8AAAAJ&hl=en
 office_hours: >-
