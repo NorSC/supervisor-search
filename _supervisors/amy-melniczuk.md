@@ -7,15 +7,16 @@ available_phd: true
 email: amy.melniczuk@northumbria.ac.uk
 website: https://scholar.google.ca/citations?user=EMWnRw8AAAAJ&hl=en
 office_hours: >-
-  Mondays: 2 pm - 3 pm
+  Wednesday: 4 pm - 5 pm
 
-  Fridays: 10 am - 11 am
+  Fridays: 11 am - 12 pm
 
   Location: Ellison Building, Room B113
 
   Email: amy.melniczuk@northumbria.ac.uk
 
-  Note: If the above timeslots are inconvenient for you, email me, and we can try to make it on another day. In addition, to save you precious time, even though you will come on Mondays and Fridays, it is still good to email me in case I am not in the office for some teaching tasks. 
+
+  Note: If the above timeslots are inconvenient for you, email me, and we can try to make it on another day. In addition, to save you precious time, even though you will come on Mondays and Fridays, it is still good to email me in case I am not in the office for unexpected tasks. 
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
@@ -48,39 +49,22 @@ additional_details: >-
   projects you are motivated and interested in is crucial for me. 
 
 
-  Currently, my research interests are tangible interaction, active learning, and learning community. The main goal is to transform traditional lecture-based education with students' active engagement in a learning community environment and how tangible interaction can facilitate this process. This ranges from the explorations of what physical visualizations can facilitate student group process in the classroom and accordingly what interactions can be realized in this context. In specifically, I am interested to the following topics:
+  Mer research interests are hardware computing, mobile interaction, embodied interaction, and collaboration. My current work focuses on designing and developing [tangible user interfaces](https://en.wikipedia.org/wiki/Tangible_user_interface#:~:text=A%20tangible%20user%20interface%20represents,range%20of%20possible%20application%20areas.) to help users interact with the computer more accessible and intuitively. Specifically, I am interested in the following topics:
 
 
-  * Tangible User Interfaces (TUIs) for collaborative learning
+  * Tangible User Interfaces for collaboration
 
-  * Tangible Interaction for creative learning, such as drawing and music composition
+  * Ehance mobile interaction in business
 
-  * Augmented reality for inquiry learning in the traditional face-to-face or remote learning environment
+  * Explore gamification mechanics in user experience
 
-  * Gamified learning for children
-
-  * Build community knowledge base to facilitate collectively inquiry learning
-additional_details_msc: >-
-  I have successfully supervised 5 master's students at the University of Munich
-  in Germany. We evaluate the thesis study in Germany from 1 (the best) to 5
-  (the worst). All my students got 1. I enjoy working with my students. If you
-  are interested in working on my given topics, email me. We can discuss a
-  specific research topic based on your interests. 
+  * Increase work or learning productivity with collaborative tools
 
 
-  Currently, my research interests are tangible interaction, active learning, and learning community. The main goal is to transform traditional lecture-based education with students' active engagement in a learning community environment and how tangible interaction can facilitate this process. This ranges from the explorations of what physical visualizations can facilitate student group process in the classroom and accordingly what interactions can be realized in this context. In specifically, I am interested to the following topics:
+  **Project type:** all the projects will be*investigative/research-focused,* you need to build a product and conduct user studies to test your product. The product can be a mobile application, a physical artefact, or a website. 
 
 
-  * Tangible User Interfaces (TUIs) for collaborative learning
-
-  * Tangible Interaction for creative learning, such as drawing and music composition
-
-  * Augmented reality for inquiry learning in the traditional face-to-face or remote learning environment
-
-  * Gamified learning for children 
-
-  * Build community knowledge base to facilitate collectively inquiry learning
-additional_details_phd: I have studied and worked in China, Canada, Germany,
-  Switzerland, and now in the UK. I have no Ph.D. supervision experience, but I
-  am confident that I know how to help you succeed.
+  Get in touch if any of the above ideas excite you or have sparked a new idea for a Human-Computer Interaction project you would like to discuss with me.
+additional_details_msc: ""
+additional_details_phd: ""
 ---
