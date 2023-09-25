@@ -52,19 +52,19 @@ additional_details: >-
   projects you are motivated and interested in is crucial for me. 
 
 
-  Mer research interests are hardware computing, mobile interaction, embodied interaction, and collaboration. My current work focuses on designing and developing [tangible user interfaces](https://en.wikipedia.org/wiki/Tangible_user_interface#:~:text=A%20tangible%20user%20interface%20represents,range%20of%20possible%20application%20areas.) to help users interact with the computer more accessible and intuitively. Specifically, I am interested in the following topics:
+  My research interests are hardware computing, mobile interaction, embodied interaction, and collaboration. My current work focuses on designing and developing [tangible user interfaces](https://en.wikipedia.org/wiki/Tangible_user_interface#:~:text=A%20tangible%20user%20interface%20represents,range%20of%20possible%20application%20areas.) to help users interact with the computer more accessible and intuitively. Specifically, I am interested in the following topics:
 
 
   * Tangible User Interfaces for collaboration
 
-  * Ehance mobile interaction in business
+  * Enhance mobile interaction in business
 
   * Explore gamification mechanics in user experience
 
   * Increase work or learning productivity with collaborative tools
 
 
-  **Project type:** all the projects will be*investigative/research-focused,* you need to build a product and conduct user studies to test your product. The product can be a mobile application, a physical artefact, or a website. 
+  **Project type:** all the projects will be *investigative/research-focused,* you need to build a product and conduct user studies to test your product. The product can be a mobile application, a physical artefact, or a website. 
 
 
   Get in touch if any of the above ideas excite you or have sparked a new idea for a Human-Computer Interaction project you would like to discuss with me.
