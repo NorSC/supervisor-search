@@ -7,7 +7,7 @@ available_phd: false
 email: amy.melniczuk@northumbria.ac.uk
 website: https://scholar.google.ca/citations?user=EMWnRw8AAAAJ&hl=en
 office_hours: >-
-  Wednesday: 4 pm - 5 pm
+  Wednesdays: 4 pm - 5 pm
 
   Fridays: 11 am - 12 pm
 
