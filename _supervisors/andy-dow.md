@@ -100,7 +100,7 @@ additional_details: >-
   Social Dynamics of AI Support in Creative Writing (<https://dl.acm.org/doi/10.1145/3544548.3580782>)
 
 
-  \- We know that an industry placement year as part of your degree is extremely valuable, yet not all students are able to do one. There are many challenges to address, how to find them, where to find advice on securing them, understanding the related processes and getting guidance about them. And there are many more challenges once on placement. This project explores simple digital solutions to make placement opportunities more legible and accessible to all.
+  **"PlaceME: Making work placements accessible for CIS students"**- We know that an industry placement year as part of your degree is extremely valuable, yet not all students are able to do one. There are many challenges to address, how to find them, where to find advice on securing them, understanding the related processes and getting guidance about them. And there are many more challenges once on placement. This project explores simple digital solutions to make placement opportunities more legible and accessible to all.
 
 
   Example paper:
@@ -175,7 +175,7 @@ additional_details_msc: >-
   Social Dynamics of AI Support in Creative Writing (<https://dl.acm.org/doi/10.1145/3544548.3580782>)
 
 
-  \- We know that an industry placement year as part of your degree is extremely valuable, yet not all students are able to do one. There are many challenges to address, how to find them, where to find advice on securing them, understanding the related processes and getting guidance about them. And there are many more challenges once on placement. This project explores simple digital solutions to make placement opportunities more legible and accessible to all.
+  **"PlaceME: Making work placements accessible for CIS students"**- We know that an industry placement year as part of your degree is extremely valuable, yet not all students are able to do one. There are many challenges to address, how to find them, where to find advice on securing them, understanding the related processes and getting guidance about them. And there are many more challenges once on placement. This project explores simple digital solutions to make placement opportunities more legible and accessible to all.
 
 
   Example paper:
