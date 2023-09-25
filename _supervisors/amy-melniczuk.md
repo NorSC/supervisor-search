@@ -19,7 +19,7 @@ office_hours: >-
   Note: If the above timeslots are inconvenient for you, email me, and we can try to make it on another day. In addition, to save you precious time, even though you will come on Mondays and Fridays, it is still good to email me in case I am not in the office for unexpected tasks. 
 
 
-  Note: From Oct 9-13, I will attend a conference and will not be in the office.
+  Note: From Oct 9-13, I will attend a conference and not be in the office.
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
