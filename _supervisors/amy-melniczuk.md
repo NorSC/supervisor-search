@@ -64,10 +64,10 @@ additional_details: >-
   * Increase work or learning productivity with collaborative tools
 
 
-  **Project type:** all the projects will be *investigative/research-focused,* you need to build a product and conduct user studies to test your product. The product can be a mobile application, a physical artefact, or a website. 
+  **Project type:** all the projects will be *research-focused.* You need to build a product and conduct user studies to test your product. The product can be a mobile application, a physical artefact, or a website. 
 
 
-  Get in touch if any of the above ideas excite you or have sparked a new idea for a Human-Computer Interaction project you would like to discuss with me.
+  If any of the above ideas excite you or have sparked a new idea for a Human-Computer Interaction project, please feel free to make an appointment to discuss them with me.
 additional_details_msc: ""
 additional_details_phd: ""
 ---
