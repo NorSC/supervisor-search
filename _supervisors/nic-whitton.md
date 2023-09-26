@@ -7,7 +7,7 @@ available_phd: true
 email: nic.whitton@northumbria.ac.uk
 office_hours: >-
   I work full time. I have two drop in hours per week where students can just
-  drop in to see me. These are Tuesday 3-4 pm and Thursday 11-12 am.  If you
+  drop in to see me. These are Tuesday 2-3 pm and Thursday 11-12 am.  If you
   need an alternative time, just contact me via email or message me on Teams to
   make an appointment.
 
