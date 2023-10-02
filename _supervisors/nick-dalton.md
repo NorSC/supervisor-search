@@ -2,14 +2,14 @@
 layout: supervisor
 title: Nick Dalton
 available: true
-available_msc: true
+available_msc: false
 available_phd: true
 email: nick.dalton@northumbria.ac.uk
-website: http://www.thepurehands.org/sheep/index.html
+website: ""
 office_hours: >-
   I will be available in my office (CIS304)  or via Teams.  You can also contact
   me via email to arrange an appointment outside these times and I will be on
-  campus w/c  on Monday, Wensdays or Fridays 
+  campus w/c  on Monday, Wednesdays or Fridays 
 
   To book time with me  https://calendly.com/nick-dalton/
 research_group: Northumbria Social Computing
@@ -84,21 +84,6 @@ additional_details: >-
 
 
   **Requires very good java programming skills, use of Netbeans IDE, Github**
-
-
-  ## Interaction with public displays: emergency egress in airports. 
-
-
-  ### (no programming if you don't mind working hard)
-
-
-  Aim: the aim of this project is to analyze provided mobile eye-tracking video to measure the number of times that people notice a variety of public digital displays. Analysis of this information will lead to a better understanding of information displays positioning and information content. 
-
-
-  Description: every year there is at least one major stampede of people leading to fatalities. Over 10,000 people have died since 2001, in Hillsborough and other events around the world. During disasters in large buildings and urban situations, it is vitally important to be able to dynamically inform pedestrians about which escape routes may be blocked. Underpinning all this is an understanding of how people notice displays in real-world situations.  This research project begins by taking provided mobile eye-tracking data from a route through airport. Using tools provided Digital displays will be identified/coded to provide information about which displays were noticed and others not noticed. Once the data has been coded then this information will be analysed to understand how Digital displays should be used. 
-
-
-  For more information see previous work: <http://nrl.northumbria.ac.uk/26107/1/p3889-dalton.pdf>
 
 
   ## Data Visualization for diabetes patients
