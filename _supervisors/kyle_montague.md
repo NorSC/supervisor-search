@@ -10,7 +10,7 @@ office_hours: |
   My office is located on the 3rd floor of the CIS building, Room 303.
 
   - Tuesday 9:00-10:00
-  - Thursday 16:00-17:00
+  - Wednesday 14:00-15:00
 research_group: Northumbria Social Computing
 research_themes:
   - Human-Computer Interaction
