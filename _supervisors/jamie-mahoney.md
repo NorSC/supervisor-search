@@ -14,7 +14,7 @@ office_hours: >
 
   Monday 2pm-3pm 
 
-  Friday 10am-11am
+  Thursday 10am-11am
 research_group: Northumbria Social Computing
 research_themes:
   - Data Science
