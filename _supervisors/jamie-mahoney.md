@@ -48,9 +48,6 @@ additional_details: >-
   **Longitudinal topic modelling** of social media data, tracing when and how certain topics have formed and evolved over time. In doing so, we can identify how topics of discussion have developed from seemingly innocuous topics through to more extreme and problematic topics.
 
 
-  **D﻿eveloping 'bots' for countering misinformation online.** As part of the PERCEPTIONS project (which you can find here: <https://www.perceptions.eu/>) we have been considering how approaches such as 'bot' accounts might be used to identify and/or counter misinformation online. While the PERCEPTIONS project focused on the context of migration to Europe, such approaches could be used in other contexts.
-
-
   **S﻿elf disclosure of personal health-based information on social media.** Prior to Covid-19, many people would not necessarily disclose their own health information on social media. However, many people have use social media to share images of their Covid-19 tests (both positive and negative) online. I am interested in identifying how we might retrieve relevant data from online platforms (which may include image analysis to identify which images contain lateral flow tests, for example), and analysing this data to understand the motivations for doing so, and what kinds of information and topics are being shared and discussed as a result.
 additional_details_msc: >-
   A﻿s well as projects based on the themes and keywords above, I am currently
@@ -64,9 +61,6 @@ additional_details_msc: >-
 
 
   **Longitudinal topic modelling** of social media data, tracing when and how certain topics have formed and evolved over time. In doing so, we can identify how topics of discussion have developed from seemingly innocuous topics through to more extreme and problematic topics.
-
-
-  **D﻿eveloping 'bots' for countering misinformation online.** As part of the PERCEPTIONS project (which you can find here: <https://www.perceptions.eu/>) we have been considering how approaches such as 'bot' accounts might be used to identify and/or counter misinformation online. While the PERCEPTIONS project focused on the context of migration to Europe, such approaches could be used in other contexts.
 
 
   **S﻿elf disclosure of personal health-based information on social media.** Prior to Covid-19, many people would not necessarily disclose their own health information on social media. However, many people have use social media to share images of their Covid-19 tests (both positive and negative) online. I am interested in identifying how we might retrieve relevant data from online platforms (which may include image analysis to identify which images contain lateral flow tests, for example), and analysing this data to understand the motivations for doing so, and what kinds of information and topics are being shared and discussed as a result.
